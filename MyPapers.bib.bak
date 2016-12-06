@@ -138,6 +138,19 @@
   url =      {http://stacks.iop.org/0963-0252/21/i=3/a=035019}
 }
 
+@Article{Bultel2006collisional,
+  author =  {Bultel, Arnaud and ChÃ©ron, Bruno G. and Bourdon, Anne and Motapon, Ousmanou and Schneider, Ioan F.},
+  title =   {Collisional-radiative model in air for earth re-entry problems},
+  journal = {Physics of Plasmas},
+  year =    {2006},
+  volume =  {13},
+  number =  {4},
+  doi =     {http://dx.doi.org/10.1063/1.2194827},
+  eid =     {043502},
+  file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Bultel2006 Collisional-radiative model in air for earth re-entry problems.pdf:PDF},
+  url =     {http://scitation.aip.org/content/aip/journal/pop/13/4/10.1063/1.2194827}
+}
+
 @Article{Chambers2009waves,
   author =    {Chambers, Henry F and DeLeo, Frank R},
   title =     {Waves of resistance: Staphylococcus aureus in the antibiotic era},
@@ -264,6 +277,27 @@
   issn =     {0304-3835},
   keywords = {Cancer},
   url =      {http://www.sciencedirect.com/science/article/pii/S0304383512000468}
+}
+
+@PhdThesis{Dorai2002modeling,
+  author =  {Dorai, Rajesh},
+  title =   {Modeling of atmospheric pressure plasma processing of gases and surfaces},
+  year =    {2002},
+  file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Dorai2002 thesis.pdf:PDF},
+  journal = {University of Illinois at Urbana-Champaign},
+  volume =  {265}
+}
+
+@Article{Dorai2003a,
+  author =   {Rajesh Dorai and Mark J Kushner},
+  title =    {A model for plasma modification of polypropylene using atmospheric pressure discharges},
+  journal =  {Journal of Physics D: Applied Physics},
+  year =     {2003},
+  volume =   {36},
+  number =   {6},
+  pages =    {666},
+  abstract = {Atmospheric pressure plasmas are commonly used to improve the wetting and adhesion properties of polymers. In spite of their use, the mechanisms for achieving these properties are unclear. In this regard, we report on a computational investigation of the gas phase and surface kinetics during humid-air corona treatment of polypropylene (PP) and the resulting modification of its surface properties while varying energy deposition, relative humidity (RH), web speed, and gas temperature. Using results from a global plasma chemistry model validated against experiments, we found that increasing energy deposition increased the densities of alcohol, carbonyl, acid, and peroxy radicals on the PP surface. In doing so, significant amounts of gas phase O 3 and N x O y are produced. Increasing the RH increased the production of peroxy and acid groups, while decreasing those of alcohol and carbonyl groups. Production of O 3 decreased while that of HNO 3 increased. Increasing the temperature decreased the concentrations of alcohol, carbonyl, and acid groups on PP while those of the peroxy radicals increased. For a given energy deposition, higher web speeds resulted in decreased concentrations of alcohols, peroxy radicals, carbonyl, and acid groups on PP.},
+  url =      {http://stacks.iop.org/0022-3727/36/i=6/a=309}
 }
 
 @Article{DornNH1995,
@@ -398,6 +432,19 @@
   author =    {Fridman, A. and Friedman, G.}
 }
 
+@Article{Gaens2013kinetic,
+  author =   {W Van Gaens and A Bogaerts},
+  title =    {Kinetic modelling for an atmospheric pressure argon plasma jet in humid air},
+  journal =  {Journal of Physics D: Applied Physics},
+  year =     {2013},
+  volume =   {46},
+  number =   {27},
+  pages =    {275201},
+  abstract = {A zero-dimensional, semi-empirical model is used to describe the plasma chemistry in an argon plasma jet flowing into humid air, mimicking the experimental conditions of a setup from the Eindhoven University of Technology. The model provides species density profiles as a function of the position in the plasma jet device and effluent. A reaction chemistry set for an argon/humid air mixture is developed, which considers 84 different species and 1880 reactions. Additionally, we present a reduced chemistry set, useful for higher level computational models. Calculated species density profiles along the plasma jet are shown and the chemical pathways are explained in detail. It is demonstrated that chemically reactive H, N, O and OH radicals are formed in large quantities after the nozzle exit and H 2 , O 2 ( 1 Î g ), O 3 , H 2 O 2 , NO 2 , N 2 O, HNO 2 and HNO 3 are predominantly formed as âlong livingâ species. The simulations show that water clustering of positive ions is very important under these conditions. The influence of vibrational excitation on the calculated electron temperature is studied. Finally, the effect of varying gas temperature, flow speed, power density and air humidity on the chemistry is investigated.},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Gaens2013 Kinetic modelling for an atmospheric pressure argon plasma jet in humid air.pdf:PDF},
+  url =      {http://stacks.iop.org/0022-3727/46/i=27/a=275201}
+}
+
 @InBook{Garlick2007engineering,
   pages =     {207--239},
   title =     {Engineering Skin to Study Human Disease -- Tissue Models for Cancer Biology and Wound Repair},
@@ -422,6 +469,18 @@
   number =    {1},
   pages =     {1},
   publisher = {BioMed Central}
+}
+
+@Article{Gordiets1995kinetic,
+  author =    {Gordiets, Boris F and Ferreira, Carlos M and Guerra, Vasco L and Loureiro, Jorge MAH and Nahorny, Jacimar and Pagnon, Daniel and Touzeau, Michel and Vialle, Marinette},
+  title =     {Kinetic model of a low-pressure {N}$_2$-{O}$_2$ flowing glow discharge},
+  journal =   {IEEE Transactions on Plasma Science},
+  year =      {1995},
+  volume =    {23},
+  number =    {4},
+  pages =     {750--768},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Gordiets1995 kinetic model of a low pressure N2 O2 flowing glow discharge.pdf:PDF},
+  publisher = {IEEE}
 }
 
 @Article{Graves2012the,
@@ -462,6 +521,32 @@
   eprint =   {http://aem.asm.org/content/67/10/4662.full.pdf+html},
   file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Gregori2001 Resolution of Viable and Membrane-Compromised Bacteria in Freshwater and Marine Waters Based on Analytical Flow Cytometry and Nucleic Acid Double Staining.pdf:PDF},
   url =      {http://aem.asm.org/content/67/10/4662.abstract}
+}
+
+@Article{Guerra1995non,
+  author =   {V Guerra and J Loureiro},
+  title =    {Non-equilibrium coupled kinetics in stationary {N}$_2$ - {O}$_2$ discharges},
+  journal =  {Journal of Physics D: Applied Physics},
+  year =     {1995},
+  volume =   {28},
+  number =   {9},
+  pages =    {1903},
+  abstract = {A detailed study of the coupled electron and heavy-particle kinetics in a low-pressure stationary N 2 -O 2 discharge is carried out. The model is based on the self-consistent solutions to the Boltzmann equation coupled to the rate balance equations for the vibrationally excited molecules N 2 (X 1 Sigma g + ,v) and O 2 (X 3 Sigma g - ,v'), NO(X 2 Pi r ) molecules and N( 4 S) and O( 3 P) atoms. It is shown that the vibrational distribution of N 2 (X,v) plays a central role in the whole problem, affecting considerably the predicted concentrations of NO molecules and N atoms, whereas the concentration of O atoms is practically independent of both vibrational distributions. In particular, it is shown that, in the case of a rate coefficient of about 10 -13 cm 3 s -1 for the reaction N 2 (X,v)+O to NO+N, the N 2 (X,v) molecules are strongly de-excited by vibrational-translational energy exchange processes associated with N 2 -N collisions. In contrast, in the case of a higher value for this rate coefficient, the N 2 (X,v) molecules are efficiently destroyed by this mechanism. The contributions of the different processes to the total production of NO, N and O are evaluated and compared.},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Guerra1995 Non-equilibrium coupled kinetics in stationary N2-02 discharges .pdf:PDF},
+  url =      {http://stacks.iop.org/0022-3727/28/i=9/a=018}
+}
+
+@Article{Guerra1997self,
+  author =   {V Guerra and J Loureiro},
+  title =    {Self-consistent electron and heavy-particle kinetics in a low-pressure }{IMG}{ [http://ej.iop.org/images/0963-0252/6/3/014/toc_img1.gif] - }{IMG}{ [http://ej.iop.org/images/0963-0252/6/3/014/toc_img2.gif] glow discharge},
+  journal =  {Plasma Sources Science and Technology},
+  year =     {1997},
+  volume =   {6},
+  number =   {3},
+  pages =    {373},
+  abstract = {A homogeneous kinetic model of a low-pressure ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img3.gif] - ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img4.gif] positive column is developed. The model is based on the self-consistent solutions to the electron Boltzmann equation coupled to the rate balance equations for the vibrationally excited molecules ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img3.gif] (X ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img6.gif] ) and ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img4.gif] (X ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img8.gif] ), the electronically excited states of ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img3.gif] , and NO( ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img10.gif] ), ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img11.gif] and ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img12.gif] species. Further, this set is still solved together with the continuity equations for the electrons and the main positive ions ( ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img13.gif] , ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img14.gif] , ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img15.gif] , ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img16.gif] , ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img17.gif] ) in order to determine the maintenance reduced electric field. This formulation allows us to determine the concentrations of the various neutral and ionic species, the electron density and the vibrational temperatures, ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img18.gif] and ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img19.gif] , as a function of the gas pressure, discharge current, gas temperature, tube radius and fractional ##IMG## [http://ej.iop.org/images/0963-0252/6/3/014/img20.gif] composition. The calculated results are shown to be in satisfactory agreement with published experimental data. The complex interplay kinetics is analysed in detail and the effects of the poor knowledge of some collisional and surface data on the results are discussed.},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Guerra1997 Self-consistent electron and heavy-particle kinetics in a low-pressure N2–O2 glow discharge.pdf:PDF},
+  url =      {http://stacks.iop.org/0963-0252/6/i=3/a=014}
 }
 
 @Article{haertel2014nonthermal,
@@ -770,6 +855,35 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =      {http://www.sciencedirect.com/science/article/pii/S2212816613000048}
 }
 
+@Article{Kutasi2008modelling,
+  author =    {Kutasi, Kinga and Saoudi, Bachir and Pintassilgo, Carlos D. and Loureiro, Jorge and Moisan, Michel},
+  title =     {Modelling the Low-Pressure N$_2$-O$_2$ Plasma Afterglow to Determine the Kinetic Mechanisms Controlling the UV Emission Intensity and Its Spatial Distribution for Achieving an Efficient Sterilization Process},
+  journal =   {Plasma Processes and Polymers},
+  year =      {2008},
+  volume =    {5},
+  number =    {9},
+  pages =     {840--852},
+  doi =       {10.1002/ppap.200800085},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Kutasi2008 Modelling the Low-Pressure N2–O2PlasmaAfterglow to Determine the KineticMechanisms Controlling the UV EmissionIntensity and Its Spatial Distribution forAchieving an Efficient Sterilization Process.pdf:PDF},
+  issn =      {1612-8869},
+  keywords =  {afterglow plasma processes, density, hydrodynamic modelling, kinetics, microwave discharges, sterilization, UV irradiation},
+  publisher = {WILEY-VCH Verlag},
+  url =       {http://dx.doi.org/10.1002/ppap.200800085}
+}
+
+@Article{Kutasi2016tuning,
+  author =   {Kinga Kutasi and CÃ©dric NoÃ«l and Thierry Belmonte and Vasco Guerra},
+  title =    {Tuning the afterglow plasma composition in Ar/N 2 /O 2 mixtures: characteristics of a flowing surface-wave microwave discharge system},
+  journal =  {Plasma Sources Science and Technology},
+  year =     {2016},
+  volume =   {25},
+  number =   {5},
+  pages =    {055014},
+  abstract = {A self-consistent kinetic model is used to study the possibility of tuning the plasma composition in the afterglow of a flowing surface-wave microwave discharge by the different discharge and system parameters in the case of 90%Ar-10%(N 2 âO 2 ) and N 2 âO 2 mixtures. The afterglow system consists of a 0.5âcm diameter quartz tube of 50âcm in lengthâwhere the discharge is generated and the early-afterglow developsâand an afterglow reactor. The plasma composition is studied at the end of the discharge plasma column and at the reactor inlet as a function of the N 2 :O 2 ratio for selected conditions, which are set with the system parameters and are illustrated in the experimental set-up. The validity of the model used is proven by the agreement of the calculated atomic densities with those measured by mass spectrometry. Due to the pressure drop along the tube, the position of the discharge (which also defines the lengths of the early-afterglow, t aft ) and the discharge pressure ( p dis ) can be set with the position of the wave couplerâsurfatronâalong the tube at a constant gas flow rate (which defines the pressure in the reactor, p reac ). It is shown that the relative densities of species at the end of plasma column, which constitute the initial condition for the afterglow, depend on the discharge pressure. Therefore, at a constant gas flow rate with the position of the surfatron the plasma composition in the reactor is changing due to the variation of both the p dis and t aft . The evolution of the plasma composition is also studied when both the surfatronâs position and the gas flow rate are changed, realizing conditions (i) with the same p dis , and different t aft and p reac , and (ii) with the same t aft , and different p dis and p reac . Comparing the N 2 âO 2 binary and the ternary mixtures, it is shown that the atomic densities obtained in the binary mixtures can be reproduced in ternary mixtures with different N 2 :O 2 ratios. Furthermore, according to the spectra measured in the afterglow reactor, comparable UV radiation can be achieved in both ternary and binary mixtures with the same O 2 content.},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Kutasi2016 Tuning the afterglow plasma composition in Ar\:N2 \:O2  mixtures- characteristics of a flowing surface-wave microwave discharge system.pdf:PDF},
+  url =      {http://stacks.iop.org/0963-0252/25/i=5/a=055014}
+}
+
 @Article{Lademann2013risk,
   author =   {J. Lademann and C. Ulrich and A. Patzelt and H. Richter and F. Kluschke and M. Klebes and O. Lademann and A. Kramer and K.D. Weltmann and B. Lange-Asschenfeldt},
   title =    {Risk assessment of the application of tissue-tolerable plasma on human skin },
@@ -855,6 +969,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {391--400},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Laroussi2005 Low Temperature Plasma-Based Sterilization- Overview and State-of-the-Art.pdf:PDF},
   publisher = {Wiley Online Library}
+}
+
+@Article{Lazarou2016numerical,
+  author =    {Lazarou, C and Belmonte, T and Chiper, AS and Georghiou, GE},
+  title =     {Numerical modelling of the effect of dry air traces in a helium parallel plate dielectric barrier discharge},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {2016},
+  volume =    {25},
+  number =    {5},
+  pages =     {055023},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Lazarou2016 Numerical modelling of the effect of dry air traces in a helium parallel plate dielectric barrier discharge.pdf:PDF},
+  publisher = {IOP Publishing}
 }
 
 @Article{Lin2012development,
@@ -978,6 +1104,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Elsevier}
 }
 
+@Article{Murakami2014afterglow,
+  author =    {Murakami, Tomoyuki and Niemi, Kari and Gans, Timo and O'Connell, Deborah and Graham, William G},
+  title =     {Afterglow chemistry of atmospheric-pressure helium oxygen plasmas with humid air impurity},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {2014},
+  volume =    {23},
+  number =    {2},
+  pages =     {025005},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Murakami2014 Afterglow chemistry of atmospheric-pressure helium–oxygen plasmas with humid air impurity.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
 @Article{Niemi2013absolute,
   author =  {Niemi, K. and O'Connell, D. and de Oliveira, N. and Joyeux, D. and Nahon, L. and Booth, J. P. and Gans, T.},
   title =   {Absolute atomic oxygen and nitrogen densities in radio-frequency driven atmospheric pressure cold plasmas: Synchrotron vacuum ultra-violet high-resolution Fourier-transform absorption measurements},
@@ -1047,6 +1185,19 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   number =    {1},
   pages =     {11--26},
   publisher = {Springer}
+}
+
+@Article{Pintassilgo2005modelling,
+  author =   {C D Pintassilgo and J Loureiro and V Guerra},
+  title =    {Modelling of a {N}$_2$-{O}$_2$ flowing afterglow for plasma sterilization},
+  journal =  {Journal of Physics D: Applied Physics},
+  year =     {2005},
+  volume =   {38},
+  number =   {3},
+  pages =    {417},
+  abstract = {A kinetic model for a flowing microwave discharge in N 2 âO 2 at Ï/(2Ï) = 2450 and 915âMHz, in the pressure range p = 1â10âTorr, is constructed with the purpose of studying the conditions that maximize the concentrations of NO(Bâ 2 Î£) molecules and O( 3 P) atoms, which are known to play a central role in the sterilization processes. The former are responsible for the emission of UV photons associated with the NOÎ² bands. The NO(B) concentration is found to pass through a maximum, at approximately 1â3% of O 2 added to the mixture, which is in good agreement with the measured maximum of UV emission intensity, and with the shortest time required for the inactivation of spores. For such an O 2 percentage, the NO(B) also remains in the afterglow, with only a small reduction, up to a few ~100âms. Furthermore, the NO(B) concentration peaks with increasing pressure, with the corresponding maximum shifted to lower O 2 percentages, in agreement with the observations of UV intensity. The concentration of O( 3 P) atoms is practically unchanged along the afterglow, at least up to times as high as 100âms.},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Pintassilgo2005 Modelling of a N2 –O2  flowing afterglow for plasma sterilization.pdf:PDF},
+  url =      {http://stacks.iop.org/0022-3727/38/i=3/a=011}
 }
 
 @Book{PlasmaMedicineLaroussi,
@@ -1134,6 +1285,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =      {http://stacks.iop.org/0963-0252/24/i=5/a=054001}
 }
 
+@Article{Sakiyama2012plasma,
+  author =    {Sakiyama, Yukinori and Graves, David B and Chang, Hung-Wen and Shimizu, Tetsuji and Morfill, Gregor E},
+  title =     {Plasma chemistry model of surface microdischarge in humid air and dynamics of reactive neutral species},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {2012},
+  volume =    {45},
+  number =    {42},
+  pages =     {425201},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Sakiyama2012 Plasma chemistry model of surface microdischarge in humid air and dynamics of reactive neutral species.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
 @Article{Savagner2005,
   author =    {Savagner, Pierre and Kusewitt, Donna F. and Carver, Ethan A. and Magnino, Fabrice and Choi, Chagsun and Gridley, Thomas and Hudson, Laurie G.},
   title =     {Developmental transcription factor slug is required for effective re-epithelialization by adult keratinocytes},
@@ -1166,6 +1329,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =    {012005},
   abstract = {Dielectric barrier discharge microplasma generated at the surface of water is proposed as a solution for water treatment. It is an economical and an ecological technology for water treatment due to its generation at atmospheric pressure and low discharge voltage. Microplasma electrodes were placed at small distance above the water thus active species and radicals were flown by the gas towards the water surface and furthermore reacted with the target to be decomposed. Indigo carmine was chosen as the target to be decomposed by the effect of active species and radicals generated between the electrodes. Air, oxygen, nitrogen and argon were used as discharge gases. Measurement of absorbance showed the decomposition of indigo carmine by microplasma treatment. Active species and radicals of oxygen origin so called ROS (reactive oxidative species) were considered to be the main factor in indigo carmine decomposition. The decomposition rate increased with the increase of the treatment time as shown by the spectrophotometer analysis. Discharge voltage also influenced the decomposition process.},
   url =      {http://stacks.iop.org/1742-6596/441/i=1/a=012005}
+}
+
+@Article{Sijde1984collisional,
+  author =    {Sijde, Van and Der, B and van der Mullen, JJAM and Schram, DC},
+  title =     {Collisional radiative models in plasmas},
+  journal =   {Beitr{\"a}ge aus der Plasmaphysik},
+  year =      {1984},
+  volume =    {24},
+  number =    {5},
+  pages =     {447--473},
+  publisher = {Wiley Online Library}
 }
 
 @Article{SousaNCAGO2011,
@@ -1226,6 +1400,32 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {805--813},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Sun2008 In vitro multispecies Lubbock chronic wound biofilm model.pdf:PDF},
   publisher = {Wiley Online Library}
+}
+
+@Article{Turner2015uncertainty,
+  author =   {Miles M Turner},
+  title =    {Uncertainty and error in complex plasma chemistry models},
+  journal =  {Plasma Sources Science and Technology},
+  year =     {2015},
+  volume =   {24},
+  number =   {3},
+  pages =    {035027},
+  abstract = {Chemistry models that include dozens of species and hundreds to thousands of reactions are common in low-temperature plasma physics. The rate constants used in such models are uncertain, because they are obtained from some combination of experiments and approximate theories. Since the predictions of these models are a function of the rate constants, these predictions must also be uncertain. However, systematic investigations of the influence of uncertain rate constants on model predictions are rare to non-existent. In this work we examine a particular chemistry model, for heliumâoxygen plasmas. This chemistry is of topical interest because of its relevance to biomedical applications of atmospheric pressure plasmas. We trace the primary sources for every rate constant in the model, and hence associate an error bar (or equivalently, an uncertainty) with each. We then use a Monte Carlo procedure to quantify the uncertainty in predicted plasma species densities caused by the uncertainty in the rate constants. Under the conditions investigated, the range of uncertainty in most species densities is a factor of two to five. However, the uncertainty can vary strongly for different species, over time, and with other plasma conditions. There are extreme (pathological) cases where the uncertainty is more than a factor of ten. One should therefore be cautious in drawing any conclusion from plasma chemistry modelling, without first ensuring that the conclusion in question survives an examination of the related uncertainty.},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Turner2015 Uncertainty and error in complex plasma chemistry models.pdf:PDF},
+  url =      {http://stacks.iop.org/0963-0252/24/i=3/a=035027}
+}
+
+@Article{Turner2016uncertainty,
+  author =   {Miles M Turner},
+  title =    {Uncertainty and sensitivity analysis in complex plasma chemistry models},
+  journal =  {Plasma Sources Science and Technology},
+  year =     {2016},
+  volume =   {25},
+  number =   {1},
+  pages =    {015003},
+  abstract = {The purpose of a plasma chemistry model is prediction of chemical species densities, including understanding the mechanisms by which such species are formed. These aims are compromised by an uncertain knowledge of the rate constants included in the model, which directly causes uncertainty in the model predictions. We recently showed that this predictive uncertainty can be largeâa factor of ten or more in some cases. There is probably no context in which a plasma chemistry model might be used where the existence of uncertainty on this scale could not be a matter of concern. A question that at once follows is: which rate constants cause such uncertainty? In the present paper we show how this question can be answered by applying a systematic screening procedureâthe so-called Morris methodâto identify sensitive rate constants. We investigate the topical example of the heliumâoxygen chemistry. Beginning with a model with almost four hundred reactions, and focussing on conditions relevant to biomedical applications, we show that only about fifty rate constants materially affect the model results, and as few as ten cause most of the uncertainty. This means that the model can be improved, and the uncertainty substantially reduced, by focussing attention on this tractably small set of critical rate constants. We discuss strategies that might be used to accomplish this refinement. The present results apply to a particular chemistry, but we suggest that possibly, and perhaps probably, investigations of other plasma chemistry models will arrive at similar results. In that case, an opportunity exists to systematically improve the quality of plasma chemistry modelling.},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Turner2016 Uncertainty and sensitivity analysis in complex plasma chemistry models.pdf:PDF},
+  url =      {http://stacks.iop.org/0963-0252/25/i=1/a=015003}
 }
 
 @Article{Twomey2011correlation,
