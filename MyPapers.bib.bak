@@ -297,6 +297,7 @@
   number =   {6},
   pages =    {666},
   abstract = {Atmospheric pressure plasmas are commonly used to improve the wetting and adhesion properties of polymers. In spite of their use, the mechanisms for achieving these properties are unclear. In this regard, we report on a computational investigation of the gas phase and surface kinetics during humid-air corona treatment of polypropylene (PP) and the resulting modification of its surface properties while varying energy deposition, relative humidity (RH), web speed, and gas temperature. Using results from a global plasma chemistry model validated against experiments, we found that increasing energy deposition increased the densities of alcohol, carbonyl, acid, and peroxy radicals on the PP surface. In doing so, significant amounts of gas phase O 3 and N x O y are produced. Increasing the RH increased the production of peroxy and acid groups, while decreasing those of alcohol and carbonyl groups. Production of O 3 decreased while that of HNO 3 increased. Increasing the temperature decreased the concentrations of alcohol, carbonyl, and acid groups on PP while those of the peroxy radicals increased. For a given energy deposition, higher web speeds resulted in decreased concentrations of alcohols, peroxy radicals, carbonyl, and acid groups on PP.},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Dorai2003 A model for plasma modification of polypropylene using atmospheric pressure discharges.pdf:PDF},
   url =      {http://stacks.iop.org/0022-3727/36/i=6/a=309}
 }
 
@@ -538,7 +539,7 @@
 
 @Article{Guerra1997self,
   author =   {V Guerra and J Loureiro},
-  title =    {Self-consistent electron and heavy-particle kinetics in a low-pressure }{IMG}{ [http://ej.iop.org/images/0963-0252/6/3/014/toc_img1.gif] - }{IMG}{ [http://ej.iop.org/images/0963-0252/6/3/014/toc_img2.gif] glow discharge},
+  title =    {Self-consistent electron and heavy-particle kinetics in a low-pressure glow discharge},
   journal =  {Plasma Sources Science and Technology},
   year =     {1997},
   volume =   {6},
@@ -857,7 +858,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Kutasi2008modelling,
   author =    {Kutasi, Kinga and Saoudi, Bachir and Pintassilgo, Carlos D. and Loureiro, Jorge and Moisan, Michel},
-  title =     {Modelling the Low-Pressure N$_2$-O$_2$ Plasma Afterglow to Determine the Kinetic Mechanisms Controlling the UV Emission Intensity and Its Spatial Distribution for Achieving an Efficient Sterilization Process},
+  title =     {Modelling the Low-Pressure {N}$_2$-{O}$_2$ Plasma Afterglow to Determine the Kinetic Mechanisms Controlling the UV Emission Intensity and Its Spatial Distribution for Achieving an Efficient Sterilization Process},
   journal =   {Plasma Processes and Polymers},
   year =      {2008},
   volume =    {5},
@@ -873,7 +874,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Kutasi2016tuning,
   author =   {Kinga Kutasi and CÃ©dric NoÃ«l and Thierry Belmonte and Vasco Guerra},
-  title =    {Tuning the afterglow plasma composition in Ar/N 2 /O 2 mixtures: characteristics of a flowing surface-wave microwave discharge system},
+  title =    {Tuning the afterglow plasma composition in {A}r/{N}$_2$/{O}$_2$ mixtures: characteristics of a flowing surface-wave microwave discharge system},
   journal =  {Plasma Sources Science and Technology},
   year =     {2016},
   volume =   {25},
@@ -1357,7 +1358,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Stafford2004O2,
   author =  {Stafford, D. Shane and Kushner, Mark J.},
-  title =   {O2(Î1) production in HeâO2 mixtures in flowing low pressure plasmas},
+  title =   {O$_2$($^1{\Delta}$) production in {H}e/{O}$_2$ mixtures in flowing low pressure plasmas},
   journal = {Journal of Applied Physics},
   year =    {2004},
   volume =  {96},
