@@ -16,6 +16,55 @@
 }
 }
 
+@Article{Alkawareek2014potential,
+  author =    {Alkawareek, Mahmoud Y and Gorman, Sean P and Graham, William G and Gilmore, Brendan F},
+  title =     {Potential cellular targets and antibacterial efficacy of atmospheric pressure non-thermal plasma},
+  journal =   {International journal of antimicrobial agents},
+  year =      {2014},
+  volume =    {43},
+  number =    {2},
+  pages =     {154--160},
+  comment =   {Paper investigates LTP/bacteria interaction. Looks at cell death/metabolism (XTT assay), also plasmid DNA damage (Double/single strand breaks), protein structure alteration and lipid peroxidation (through measurement of MDA) and membrane permeability by ATP leakage from cells.},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Alkawareek2014 Potential cellular targets and antibacterial efficacy of atmospheric pressure non-thermal plasma.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@Article{Alves2012capacitively,
+  author =    {Alves, Lu{\'\i}s Lemos and Marques, L and Pintassilgo, Carlos D and Wattieaux, Ga{\"e}tan and Es-Sebbar, ET and Berndt, Johannes and Kovacevi{\'c}, E and Carrasco, Nathalie and Boufendi, La{\"\i}fa and Cernogora, Guy},
+  title =     {Capacitively coupled radio-frequency discharges in nitrogen at low pressures},
+  journal =   {Plasma Sources Sci. Technol.},
+  year =      {2012},
+  volume =    {21},
+  number =    {4},
+  pages =     {045008},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Alves2012Capacitively coupled radio-frequency discharges in nitrogen at low pressures.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
+@Article{AriasBarreiro2010a,
+  author =    {Arias-Barreiro, Carlos R and Okazaki, Keisuke and Koutsaftis, Apostolos and Inayat-Hussain, Salmaan H and Tani, Akio and Katsuhara, Maki and Kimbara, Kazuhide and Mori, Izumi C},
+  title =     {A bacterial biosensor for oxidative stress using the constitutively expressed redox-sensitive protein roGFP2},
+  journal =   {Sensors},
+  year =      {2010},
+  volume =    {10},
+  number =    {7},
+  pages =     {6290--6306},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Arias-Barreiro2010 A Bacterial Biosensor for Oxidative Stress Using the Constitutively Expressed Redox-Sensitive Protein roGFP2.pdf:PDF},
+  publisher = {Molecular Diversity Preservation International}
+}
+
+@Article{Arnoux2008Erk5,
+  author =    {Arnoux, Valerie and Nassour, Mayssaa and L'Helgoualc'h, Annie and Hipskind, Robert A and Savagner, Pierre},
+  title =     {Erk5 controls Slug expression and keratinocyte activation during wound healing},
+  journal =   {Molecular biology of the cell},
+  year =      {2008},
+  volume =    {19},
+  number =    {11},
+  pages =     {4738--4749},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Arnoux2008 Erk5 Controls Slug Expression and Keratinocyte Activation during Wound Healing.pdf:PDF},
+  publisher = {Am Soc Cell Biol}
+}
+
 @Article{Aronson2010a,
   author =    {Aronson, Naomi E. AND Wortmann, Glenn W. AND Byrne, William R. AND Howard, Robin S. AND Bernstein, Wendy B. AND Marovich, Mary A. AND Polhemus, Mark E. AND Yoon, In-Kyu AND Hummer, Kelly A. AND Gasser, Jr, Robert A. AND Oster, Charles N. AND Benson, Paul M.},
   title =     {A Randomized Controlled Trial of Local Heat Therapy Versus Intravenous Sodium Stibogluconate for the Treatment of Cutaneous <italic>Leishmania major</italic> Infection},
@@ -41,6 +90,16 @@
   year =      {2015},
   volume =    {5},
   file =      {:/Users/hld523/Google Drive/Rotation 1 Plasmaaaa/Papers/Attri2015 Generation mechanism of hydroxyl radical species and its lifetime prediction during the plasma-initiated ultraviolet (UV) photolysis.pdf:PDF},
+  publisher = {Nature Publishing Group}
+}
+
+@Article{Aunin2017exploring,
+  author =    {Aunin, Eerik and Broadley, David and Ahmed, Mohammed I and Mardaryev, Andrei N and Botchkareva, Natalia V},
+  title =     {Exploring a role for regulatory miRNAs in wound healing during ageing: involvement of miR-200c in wound repair},
+  journal =   {Scientific Reports},
+  year =      {2017},
+  volume =    {7},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Aunin2017exploring Exploring a Role for Regulatory miRNAs In Wound Healing during Ageing-Involvement of miR-200c in wound repair.pdf:PDF},
   publisher = {Nature Publishing Group}
 }
 
@@ -83,6 +142,18 @@
   url =      {http://stacks.iop.org/0022-3727/42/i=12/a=125202}
 }
 
+@Article{Babayan2002characterization,
+  author =    {Babayan, SE and Ding, G and Nowling, GR and Yang, X and Hicks, RF},
+  title =     {Characterization of the active species in the afterglow of a nitrogen and helium atmospheric-pressure plasma},
+  journal =   {Plasma Chemistry and Plasma Processing},
+  year =      {2002},
+  volume =    {22},
+  number =    {2},
+  pages =     {255--269},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Babyan2002 Characterization of the Active Species in the Afterglow of a Nitrogen and Helium Atmospheric-Pressure Plasma.pdf:PDF},
+  publisher = {Springer}
+}
+
 @Article{Babior2004,
   author =    {Babior, Bernard M},
   title =     {NADPH oxidase},
@@ -104,6 +175,29 @@
   number =    {1-2},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Barton2013 Nonthermal Plasma Increases Expression of Wound Healing Related Genes in a Keratinocyte Cell Line.pdf:PDF},
   publisher = {Begel House Inc.}
+}
+
+@Article{Baskar2012cancer,
+  author =  {Baskar, Rajamanickam and Lee, Kuo Ann and Yeo, Richard and Yeoh, Kheng-Wei},
+  title =   {Cancer and radiation therapy: current advances and future directions},
+  journal = {Int J Med Sci},
+  year =    {2012},
+  volume =  {9},
+  number =  {3},
+  pages =   {193--199},
+  file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Baskar2012 Cancer and Radiation Therapy- Current Advances and Future Directions.pdf:PDF}
+}
+
+@Article{Bekeschus2016cold,
+  author =    {Bekeschus, Sander and R{\"o}dder, Katrin and Schmidt, Anke and Stope, Matthias B and von Woedtke, Thomas and Miller, Vandana and Fridman, Alexander and Weltmann, Klaus-Dieter and Masur, Kai and Metelmann, Hans-Robert and others},
+  title =     {Cold physical plasma selects for specific T helper cell subsets with distinct cells surface markers in a caspase-dependent and NF-$\kappa$B-independent manner},
+  journal =   {Plasma Processes and Polymers},
+  year =      {2016},
+  volume =    {13},
+  number =    {12},
+  pages =     {1144--1150},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Bekeschus2016 Cold physical plasma selects for specific T helper cell subsets with distinct cells surface markers in a caspase-dependent and NF-κB-independent manner.pdf:PDF},
+  publisher = {Wiley Online Library}
 }
 
 @Article{Bekeschus2016the,
@@ -138,6 +232,46 @@
   url =       {http://dx.doi.org/10.1007/978-94-007-2852-3_25}
 }
 
+@Article{Bickers2006oxidative,
+  author =    {Bickers, David R and Athar, Mohammad},
+  title =     {Oxidative stress in the pathogenesis of skin disease},
+  journal =   {Journal of Investigative Dermatology},
+  year =      {2006},
+  volume =    {126},
+  number =    {12},
+  pages =     {2565--2575},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Bickers2006 Oxidative Stress in the Pathogenesis of Skin Disease.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@Article{Bienert2006membrane,
+  author =   {Gerd P. Bienert and Jan K. Schjoerring and Thomas P. Jahn},
+  title =    {Membrane transport of hydrogen peroxide },
+  journal =  {Biochimica et Biophysica Acta (BBA) - Biomembranes },
+  year =     {2006},
+  volume =   {1758},
+  number =   {8},
+  pages =    {994 - 1003},
+  note =     {Aquaporins },
+  abstract = {Hydrogen peroxide (H2O2) belongs to the reactive oxygen species (ROS), known as oxidants that can react with various cellular targets thereby causing cell damage or even cell death. On the other hand, recent work has demonstrated that \{H2O2\} also functions as a signalling molecule controlling different essential processes in plants and mammals. Because of these opposing functions the cellular level of \{H2O2\} is likely to be subjected to tight regulation via processes involved in production, distribution and removal. Substantial progress has been made exploring the formation and scavenging of H2O2, whereas little is known about how this signal molecule is transported from its site of origin to the place of action or detoxification. From work in yeast and bacteria it is clear that the diffusion of \{H2O2\} across membranes is limited. We have now obtained direct evidence that selected aquaporin homologues from plants and mammals have the capacity to channel \{H2O2\} across membranes. The main focus of this review is (i) to summarize the most recent evidence for a signalling role of \{H2O2\} in various pathways in plants and mammals and (ii) to discuss the relevance of specific transport of H2O2. },
+  doi =      {http://dx.doi.org/10.1016/j.bbamem.2006.02.015},
+  issn =     {0005-2736},
+  keywords = {Aquaporin},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0005273606000472}
+}
+
+@Article{Billing1979vv,
+  author =    {Billing, Gert Due and Fisher, ER},
+  title =     {VV and VT rate coefficients in N2 by a quantum-classical model},
+  journal =   {Chem. Phys.},
+  year =      {1979},
+  volume =    {43},
+  number =    {3},
+  pages =     {395--401},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Billing1979 VV and VT rate coefficients in N2 by a quantum-classical model.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Book{Block2001,
   title =     {Disinfection, sterilization, and preservation},
   publisher = {Lippincott Williams \& Wilkins},
@@ -158,19 +292,6 @@
 }
 
 @Article{Brehmer2015alleviation,
-  author =  {Brehmer, F. and Haenssle, H.A. and Daeschlein, G. and Ahmed, R. and Pfeiffer, S. and Görlitz, A. and Simon, D. and Schön, M.P. and Wandke, D. and Emmert, S.},
-  title =   {Alleviation of chronic venous leg ulcers with a hand-held dielectric barrier discharge plasma generator (PlasmaDerm®VU-2010): results of a monocentric, two-armed, open, prospective, randomized and controlled trial (NCT01415622)},
-  journal = {Journal of the European Academy of Dermatology and Venereology},
-  year =    {2015},
-  volume =  {29},
-  number =  {1},
-  pages =   {148--155},
-  doi =     {10.1111/jdv.12490},
-  issn =    {1468-3083},
-  url =     {http://dx.doi.org/10.1111/jdv.12490}
-}
-
-@Article{BrehmerHD2015,
   author =    {Brehmer, F and Haenssle, HA and Daeschlein, G and Ahmed, R and Pfeiffer, S and G{\"o}rlitz, A and Simon, D and Sch{\"o}n, MP and Wandke, D and Emmert, S},
   title =     {Alleviation of chronic venous leg ulcers with a hand-held dielectric barrier discharge plasma generator (PlasmaDerm{\textregistered} VU-2010): results of a monocentric, two-armed, open, prospective, randomized and controlled trial (NCT01415622)},
   journal =   {Journal of the European Academy of Dermatology and Venereology},
@@ -178,7 +299,7 @@
   volume =    {29},
   number =    {1},
   pages =     {148--155},
-  file =      {:Rotation 1 Plasmaaaa/Papers/Brehmer2015 Treatment of chronic venous leg ulcers with plasmaderm.pdf:PDF},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Brehmer2015 Treatment of chronic venous leg ulcers with plasmaderm.pdf:PDF},
   publisher = {Wiley Online Library}
 }
 
@@ -205,6 +326,17 @@
   eid =     {043502},
   file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Bultel2006 Collisional-radiative model in air for earth re-entry problems.pdf:PDF},
   url =     {http://scitation.aip.org/content/aip/journal/pop/13/4/10.1063/1.2194827}
+}
+
+@Article{Cabiscol2000oxidative,
+  author =  {Cabiscol, Elisa and Tamarit, Jordi and Ros, Joaquim},
+  title =   {Oxidative stress in bacteria and protein damage by reactive oxygen species},
+  journal = {International Microbiology},
+  year =    {2000},
+  volume =  {3},
+  number =  {1},
+  pages =   {3--8},
+  file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Cabiscol2000 Oxidative stress in bacteria and protein damage by reactive oxygen species.pdf:PDF}
 }
 
 @Article{Chambers2009waves,
@@ -294,6 +426,18 @@
   url =      {http://cmr.asm.org/content/19/2/403.abstract}
 }
 
+@Article{Conway2016two,
+  author =    {Conway, Jim and Gogna, Guru Sharan and Gaman, Cezar and Turner, Miles M and Daniels, Stephen},
+  title =     {Two-photon absorption laser induced fluorescence measurement of atomic oxygen density in an atmospheric pressure air plasma jet},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {2016},
+  volume =    {25},
+  number =    {4},
+  pages =     {045023},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Conway2016 Two-photon absorption laser induced fluorescence measurement of atomic oxygen density in an atmospheric pressure air plasma jet.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
 @Article{Daeschlein2012cold,
   author =    {Daeschlein, Georg and Scholz, Sebastian and Ahmed, Raees and Majumdar, Abhijit and von Woedtke, Thomas and Haase, Hermann and Niggemeier, Maria and Kindel, Eckhard and Brandenburg, Ronny and Weltmann, Klaus Dieter and others},
   title =     {Cold plasma is well-tolerated and does not disturb skin barrier or reduce skin moisture},
@@ -303,6 +447,63 @@
   number =    {7},
   pages =     {509--515},
   publisher = {Wiley Online Library}
+}
+
+@Article{Daeschlein2012in,
+  author =    {Daeschlein, Georg and Scholz, Sebastian and Arnold, Andreas and von Podewils, Sebastian and Haase, Hermann and Emmert, Steffen and von Woedtke, Thomas and Weltmann, Klaus-Dieter and J{\"u}nger, Michael},
+  title =     {In vitro susceptibility of important skin and wound pathogens against low temperature atmospheric pressure plasma jet (APPJ) and dielectric barrier discharge plasma (DBD)},
+  journal =   {Plasma Processes and Polymers},
+  year =      {2012},
+  volume =    {9},
+  number =    {4},
+  pages =     {380--389},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Daeschlein2012 In vitro susceptibility of important skin and wound pathogens against low temperature atmospheric pressure plasma jet (APPJ) and dielectric barrier discharge plasma (DBD).pdf:PDF},
+  publisher = {Wiley Online Library}
+}
+
+@Article{DaSilva2007state,
+  author =  {Da Silva, Mario Lino and Guerra, Vasco and Loureiro, Jorge},
+  title =   {State-resolved dissociation rates for extremely nonequilibrium atmospheric entries},
+  journal = {Journal of thermophysics and heat transfer},
+  year =    {2007},
+  volume =  {21},
+  number =  {1},
+  pages =   {40--49},
+  comment = {Can't find the pdf, only this online thing.},
+  url =     {http://www.academia.edu/10567316/State-Resolved_Dissociation_Rates_for_Extremely_Nonequilibrium_Atmospheric_Entries}
+}
+
+@Article{DaSilva2008vibrational,
+  author =    {da Silva, M Lino and Guerra, Vasco and Loureiro, Jorge and S{\'a}, PA},
+  title =     {Vibrational distributions in N 2 with an improved calculation of energy levels using the RKR method},
+  journal =   {Chemical Physics},
+  year =      {2008},
+  volume =    {348},
+  number =    {1},
+  pages =     {187--194},
+  publisher = {Elsevier}
+}
+
+@Article{Davies2000oxidative,
+  author =    {Davies, Kelvin JA},
+  title =     {Oxidative stress, antioxidant defenses, and damage removal, repair, and replacement systems},
+  journal =   {IUBMB life},
+  year =      {2000},
+  volume =    {50},
+  number =    {4-5},
+  pages =     {279--289},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Davies2000 Oxidative Stress, Antioxidant Defenses, and DamageRemoval, Repair, and Replacement Systems.pdf:PDF},
+  publisher = {Wiley Online Library}
+}
+
+@Article{Deloch2016modern,
+  author =    {Deloch, Lisa and Derer, Anja and Hartmann, Josefin and Frey, Benjamin and Fietkau, Rainer and Gaipl, Udo S},
+  title =     {Modern radiotherapy concepts and the impact of radiation on immune activation},
+  journal =   {Frontiers in Oncology},
+  year =      {2016},
+  volume =    {6},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Deloch2016 Modern Radiotherapy Concepts and the impact of Radiation on immune Activation.pdf:PDF},
+  publisher = {Frontiers Media SA}
 }
 
 @Article{Deloche1976high,
@@ -320,6 +521,51 @@
   url =       {http://link.aps.org/doi/10.1103/PhysRevA.13.1140}
 }
 
+@Article{DeMaio1999heat,
+  author =    {De Maio, Antonio},
+  title =     {Heat shock proteins: facts, thoughts, and dreams.},
+  journal =   {Shock},
+  year =      {1999},
+  volume =    {11},
+  number =    {1},
+  pages =     {1--12},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/DeMaio1999 Heat shock proteins- facts, thoughts, and dreams..pdf:PDF},
+  publisher = {LWW}
+}
+
+@Article{DeMartino2016single,
+  author =    {De Martino, Michela and Ershov, Dmitry and van den Berg, Peter J and Tans, Sander J and Meyer, Anne S},
+  title =     {Single-cell analysis of the Dps response to oxidative stress},
+  journal =   {Journal of bacteriology},
+  year =      {2016},
+  volume =    {198},
+  number =    {11},
+  pages =     {1662--1674},
+  publisher = {Am Soc Microbiol}
+}
+
+@Article{Dezest2017mechanistic,
+  author =    {Dezest, Marl{\`e}ne and Chavatte, Laurent and Bourdens, Marion and Quinton, Damien and Camus, Myl{\`e}ne and Garrigues, Luc and Descargues, Pascal and Arbault, St{\'e}phane and Burlet-Schiltz, Odile and Casteilla, Louis and others},
+  title =     {Mechanistic insights into the impact of Cold Atmospheric Pressure Plasma on human epithelial cell lines},
+  journal =   {Scientific reports},
+  year =      {2017},
+  volume =    {7},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Dezest2017 Mechanistic insights into the impact of Cold Atmospheric Pressure Plasma on human epithelial cell lines.pdf:PDF},
+  publisher = {Nature Publishing Group}
+}
+
+@Article{Dill2011physical,
+  author =    {Dill, Ken A and Ghosh, Kingshuk and Schmit, Jeremy D},
+  title =     {Physical limits of cells and proteomes},
+  journal =   {Proceedings of the National Academy of Sciences},
+  year =      {2011},
+  volume =    {108},
+  number =    {44},
+  pages =     {17876--17882},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Dill2011 Physical limits of cells and proteomes.pdf:PDF},
+  publisher = {National Acad Sciences}
+}
+
 @Article{Dizdaroglu2012oxidatively,
   author =   {Miral Dizdaroglu},
   title =    {Oxidatively induced {DNA} damage: Mechanisms, repair and disease},
@@ -331,7 +577,7 @@
   abstract = {Endogenous and exogenous sources cause oxidatively induced \{DNA\} damage in living organisms by a variety of mechanisms. The resulting \{DNA\} lesions are mutagenic and, unless repaired, lead to a variety of mutations and consequently to genetic instability, which is a hallmark of cancer. Oxidatively induced \{DNA\} damage is repaired in living cells by different pathways that involve a large number of proteins. Unrepaired and accumulated \{DNA\} lesions may lead to disease processes including carcinogenesis. Mutations also occur in \{DNA\} repair genes, destabilizing the \{DNA\} repair system. A majority of cancer cell lines have somatic mutations in their \{DNA\} repair genes. In addition, polymorphisms in these genes constitute a risk factor for cancer. In general, defects in \{DNA\} repair are associated with cancer. Numerous \{DNA\} repair enzymes exist that possess different, but sometimes overlapping substrate specificities for removal of oxidatively induced \{DNA\} lesions. In addition to the role of \{DNA\} repair in carcinogenesis, recent evidence suggests that some types of tumors possess increased \{DNA\} repair capacity that may lead to therapy resistance. \{DNA\} repair pathways are drug targets to develop \{DNA\} repair inhibitors to increase the efficacy of cancer therapy. Oxidatively induced \{DNA\} lesions and \{DNA\} repair proteins may serve as potential biomarkers for early detection, cancer risk assessment, prognosis and for monitoring therapy. Taken together, a large body of accumulated evidence suggests that oxidatively induced \{DNA\} damage and its repair are important factors in the development of human cancers. Thus this field deserves more research to contribute to the development of cancer biomarkers, \{DNA\} repair inhibitors and treatment approaches to better understand and fight cancer. },
   comment =  {Special Issue: Oxidative Stress-Based Cancer Biomarkers},
   doi =      {http://dx.doi.org/10.1016/j.canlet.2012.01.016},
-  file =     {:Rotation 1 Plasmaaaa/Papers/Dizdaroglu2012 Oxidatively induced DNA damage Mechanisms Repair and Disease.pdf:PDF;:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Dizdaroglu2012 Oxidatively induced DNA damage Mechanisms Repair and Disease.pdf:PDF},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Dizdaroglu2012 Oxidatively induced DNA damage Mechanisms Repair and Disease.pdf:PDF},
   issn =     {0304-3835},
   keywords = {Cancer},
   url =      {http://www.sciencedirect.com/science/article/pii/S0304383512000468}
@@ -432,6 +678,52 @@
   issn =     {2212-8166},
   keywords = {Cold atmospheric pressure plasma (CAP)},
   url =      {http://www.sciencedirect.com/science/article/pii/S2212816612000042}
+}
+
+@Article{Enoch2008basic,
+  author =    {Enoch, Stuart and Leaper, David John},
+  title =     {Basic science of wound healing},
+  journal =   {Surgery (Oxford)},
+  year =      {2008},
+  volume =    {26},
+  number =    {2},
+  pages =     {31--37},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Enoch2008 Basic Science of Wound Healing.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@Article{Ershova2011theoretical,
+  author =    {Ershova, Olga V and Besley, Nicholas A},
+  title =     {Theoretical calculations of the excited state potential energy surfaces of nitric oxide},
+  journal =   {Chemical Physics Letters},
+  year =      {2011},
+  volume =    {513},
+  number =    {4},
+  pages =     {179--183},
+  comment =   {Has intermolecular energy potential diagram for NO and its excited states},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Ershova2011 Theoretical calculations of the excited state potential energy surfaces of nitric oxide.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@Article{EsSebbar2009absolute,
+  author =    {Es-Sebbar, Et-Touhami and Sarra-Bournet, Christian and Naud{\'e}, Nicolas and Massines, Fran{\c{c}}oise and Gherardi, Nicolas},
+  title =     {Absolute nitrogen atom density measurements by two-photon laser-induced fluorescence spectroscopy in atmospheric pressure dielectric barrier discharges of pure nitrogen},
+  journal =   {Journal of Applied Physics},
+  year =      {2009},
+  volume =    {106},
+  number =    {7},
+  pages =     {073302},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/EsSabbar2009 Absolute nitrogen atom density measurements by two-photon laser-induced fluorescence spectroscopy in atmospheric pressure dielectric barrier discharges of pure nitrogen.pdf:PDF},
+  publisher = {AIP}
+}
+
+@Article{Ezraty2017oxidative,
+  author =    {Ezraty, Benjamin and Gennaris, Alexandra and Barras, Fr{\'e}d{\'e}ric and Collet, Jean-Fran{\c{c}}ois},
+  title =     {Oxidative stress, protein damage and repair in bacteria},
+  journal =   {Nature Reviews Microbiology},
+  year =      {2017},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Ezraty2017 Oxidative stress, protein damage and repair in bacteria.pdf:PDF},
+  publisher = {Nature Research}
 }
 
 @Article{Fang2004antimicrobial,
@@ -581,6 +873,18 @@
   publisher = {Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA}
 }
 
+@Article{Fujita2003mta3,
+  author =    {Fujita, Naoyuki and Jaye, David L and Kajita, Masahiro and Geigerman, Cissy and Moreno, Carlos S and Wade, Paul A},
+  title =     {MTA3, a Mi-2/NuRD complex subunit, regulates an invasive growth pathway in breast cancer},
+  journal =   {Cell},
+  year =      {2003},
+  volume =    {113},
+  number =    {2},
+  pages =     {207--219},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Fujita2003 MTA3, a Mi-2\:NuRD Complex Subunit, Regulates an Invasive Growth Pathway in Breast Cancer.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Gaens2013kinetic,
   author =   {W Van Gaens and A Bogaerts},
   title =    {Kinetic modelling for an atmospheric pressure argon plasma jet in humid air},
@@ -592,6 +896,17 @@
   abstract = {A zero-dimensional, semi-empirical model is used to describe the plasma chemistry in an argon plasma jet flowing into humid air, mimicking the experimental conditions of a setup from the Eindhoven University of Technology. The model provides species density profiles as a function of the position in the plasma jet device and effluent. A reaction chemistry set for an argon/humid air mixture is developed, which considers 84 different species and 1880 reactions. Additionally, we present a reduced chemistry set, useful for higher level computational models. Calculated species density profiles along the plasma jet are shown and the chemical pathways are explained in detail. It is demonstrated that chemically reactive H, N, O and OH radicals are formed in large quantities after the nozzle exit and H 2 , O 2 ( 1 Î g ), O 3 , H 2 O 2 , NO 2 , N 2 O, HNO 2 and HNO 3 are predominantly formed as âlong livingâ species. The simulations show that water clustering of positive ions is very important under these conditions. The influence of vibrational excitation on the calculated electron temperature is studied. Finally, the effect of varying gas temperature, flow speed, power density and air humidity on the chemistry is investigated.},
   file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Gaens2013 Kinetic modelling for an atmospheric pressure argon plasma jet in humid air.pdf:PDF},
   url =      {http://stacks.iop.org/0022-3727/46/i=27/a=275201}
+}
+
+@Article{Ganini2017fluorescent,
+  author =    {Ganini, Douglas and Leinisch, Fabian and Kumar, Ashutosh and Jiang, JinJie and Tokar, Erik J and Malone, Christine C and Petrovich, Robert M and Mason, Ronald P},
+  title =     {Fluorescent proteins such as eGFP lead to catalytic oxidative stress in cells},
+  journal =   {Redox biology},
+  year =      {2017},
+  volume =    {12},
+  pages =     {462--468},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Ganini2017 Fluorescent proteins such as eGFP lead to catalytic oxidative stress in cells.pdf:PDF},
+  publisher = {Elsevier}
 }
 
 @InBook{Garlick2007engineering,
@@ -631,6 +946,18 @@
   publisher = {BioMed Central}
 }
 
+@Article{Golda2016concepts,
+  author =    {Golda, J and Held, J and Redeker, B and Konkowski, M and Beijer, P and Sobota, A and Kroesen, G and Braithwaite, N St J and Reuter, S and Turner, MM and others},
+  title =     {Concepts and characteristics of the ‘COST Reference Microplasma Jet’},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {2016},
+  volume =    {49},
+  number =    {8},
+  pages =     {084003},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Golda2016 Concepts and characteristics of the ‘COST Reference Microplasma Jet’.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
 @Article{Gordiets1995kinetic,
   author =    {Gordiets, Boris F and Ferreira, Carlos M and Guerra, Vasco L and Loureiro, Jorge MAH and Nahorny, Jacimar and Pagnon, Daniel and Touzeau, Michel and Vialle, Marinette},
   title =     {Kinetic model of a low-pressure {N}$_2$-{O}$_2$ flowing glow discharge},
@@ -641,6 +968,18 @@
   pages =     {750--768},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Gordiets1995 kinetic model of a low pressure N2 O2 flowing glow discharge.pdf:PDF},
   publisher = {IEEE}
+}
+
+@Article{Gottrup2000models,
+  author =    {Gottrup, Finn and {\AA}gren, Magnus S and Karlsmark, Tonny},
+  title =     {Models for use in wound healing research: a survey focusing on in vitro and in vivo adult soft tissue},
+  journal =   {Wound Repair and Regeneration},
+  year =      {2000},
+  volume =    {8},
+  number =    {2},
+  pages =     {83--96},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Gottrup2000 Models for use in wound healing research a survey focusing on in vitro and in vivo adult soft tissue.pdf:PDF},
+  publisher = {Wiley Online Library}
 }
 
 @Article{Graves2012the,
@@ -722,6 +1061,39 @@
   url =      {http://stacks.iop.org/0963-0252/6/i=3/a=014}
 }
 
+@Article{Guerra2003dissociation,
+  author =    {Guerra, V and Galiaskarov, E and Loureiro, J},
+  title =     {Dissociation mechanisms in nitrogen discharges},
+  journal =   {Chem Phys Lett},
+  year =      {2003},
+  volume =    {371},
+  number =    {5},
+  pages =     {576--581},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Guerra2003 Dissociation mechanisms in nitrogen discharges.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@Article{Guerra2004kinetic,
+  author =    {Guerra, V and S{\'a}, PA and Loureiro, J},
+  title =     {Kinetic modeling of low-pressure nitrogen discharges and post-discharges},
+  journal =   {Eur. Phys. J. Appl. Phys.},
+  year =      {2004},
+  comment =   {Explains first positive (B > A), second positive (C > B) and first negative (B > X) systems of N2!!},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Guerra2004 Kinetic modeling of low-pressure nitrogen discharges and post-discharges.pdf:PDF},
+  publisher = {EDP Sciences}
+}
+
+@Article{Guest2015health,
+  author =    {Guest, Julian F and Ayoub, Nadia and McIlwraith, Tracey and Uchegbu, Ijeoma and Gerrish, Alyson and Weidlich, Diana and Vowden, Kathryn and Vowden, Peter},
+  title =     {Health economic burden that wounds impose on the National Health Service in the UK},
+  journal =   {BMJ open},
+  year =      {2015},
+  volume =    {5},
+  number =    {12},
+  pages =     {e009283},
+  publisher = {British Medical Journal Publishing Group}
+}
+
 @Article{Haertel2014nonthermal,
   author =    {Haertel, Beate and von Woedtke, Thomas and Weltmann, Klaus-Dieter and Lindequist, Ulrike},
   title =     {Non-thermal atmospheric-pressure plasma possible application in wound healing},
@@ -743,12 +1115,52 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {The Korean Society of Applied Pharmacology}
 }
 
+@Article{Hagelaar2005solving,
+  author =    {Hagelaar, GJM and Pitchford, LC},
+  title =     {Solving the Boltzmann equation to obtain electron transport coefficients and rate coefficients for fluid models},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {2005},
+  volume =    {14},
+  number =    {4},
+  pages =     {722},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Hagelaar2005 Solving the Boltzmann equation to obtain electron transport coefficients and rate coefficients for fluid models.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
+@Article{Halliwell2006phagocyte,
+  author =    {Halliwell, Barry},
+  title =     {Phagocyte-derived reactive species: salvation or suicide?},
+  journal =   {Trends in biochemical sciences},
+  year =      {2006},
+  volume =    {31},
+  number =    {9},
+  pages =     {509--515},
+  publisher = {Elsevier}
+}
+
 @Book{Halliwell2007,
   title =     {Free Radicals in Biology and Medicine},
   publisher = {Oxford University Press},
   year =      {2007},
   author =    {Halliwell, B and Gutteridge, J.M.C},
   edition =   {4th}
+}
+
+@Article{Halliwell2007biochemistry,
+  author =    {Halliwell, B.},
+  title =     {Biochemistry of oxidative stress},
+  journal =   {Biochemical Society Transactions},
+  year =      {2007},
+  volume =    {35},
+  number =    {5},
+  pages =     {1147--1150},
+  abstract =  {The terms {\textquoteleft}antioxidant{\textquoteright}, {\textquoteleft}oxidative stress{\textquoteright} and {\textquoteleft}oxidative damage{\textquoteright} are widely used but rarely defined. This brief review attempts to define them and to examine the ways in which oxidative stress and oxidative damage can affect cell behaviour both in vivo and in cell culture, using cancer as an example. Abbreviations: Hsp, heat-shock protein; LDL, low-density lipoprotein; ROS, reactive oxygen species; RS, reactive species},
+  doi =       {10.1042/BST0351147},
+  eprint =    {http://www.biochemsoctrans.org/content/35/5/1147.full.pdf},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Halliwell2007 Biochemistry of Oxidative Stress.pdf:PDF},
+  issn =      {0300-5127},
+  publisher = {Portland Press Limited},
+  url =       {http://www.biochemsoctrans.org/content/35/5/1147}
 }
 
 @Article{Harman1955aging,
@@ -790,6 +1202,30 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Springer}
 }
 
+@Article{Hofmann2014a,
+  author =    {Hofmann, Ute and Priem, Melanie and Bartzsch, Christine and Winckler, Thomas and Feller, Karl-Heinz},
+  title =     {A sensitive sensor cell line for the detection of oxidative stress responses in cultured human keratinocytes},
+  journal =   {Sensors},
+  year =      {2014},
+  volume =    {14},
+  number =    {7},
+  pages =     {11293--11307},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Hofmann2014 A Sensitive Sensor Cell Line for the Detection of Oxidative Stress Responses in Cultured Human Keratinocytes.pdf:PDF},
+  publisher = {Multidisciplinary Digital Publishing Institute}
+}
+
+@Article{Hoshida1996heme,
+  author =    {Hoshida, Shiro and Nishida, Masashi and Yamashita, Nobushige and Igarashi, Junsuke and Aoki, Kazuhiro and Hori, Masatsugu and Kuzuya, Tsunehiko and Tada, Michihiko},
+  title =     {Heme oxygenase-1 expression and its relation to oxidative stress during primary culture of cardiomyocytes},
+  journal =   {Journal of molecular and cellular cardiology},
+  year =      {1996},
+  volume =    {28},
+  number =    {9},
+  pages =     {1845--1855},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Hoshida1996 Heme Oxygenase-1 Expression and its Relation to Oxidative Stress During Primary Culture of Cardiomyocytes.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Howell2005a,
   author =    {Howell-Jones, RS and Wilson, MJ and Hill, Katja E and Howard, AJ and Price, Patricia Elaine and Thomas, David William},
   title =     {A review of the microbiology, antibiotic usage and resistance in chronic skin wounds},
@@ -800,6 +1236,42 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {143--149},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/HowellJones2005 A review of the microbiology, antibiotic usage and resistance in chronic skin wounds.pdf:PDF},
   publisher = {Br Soc Antimicrob Chemo}
+}
+
+@Article{Huo1987schwinger,
+  author =    {Huo, Winifred M and Gibson, Thomas L and Lima, Marco AP and McKoy, Vincent},
+  title =     {Schwinger multichannel study of the $\Pi$ g 2 shape resonance in N 2},
+  journal =   {Physical Review A},
+  year =      {1987},
+  volume =    {36},
+  number =    {4},
+  pages =     {1632},
+  comment =   {This is the reference for the globalkin cross sections for excitation of ground state N2 to N2(v=9-17)},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Huo1987 Schwinger multichannel study of the Pi g shape resonance in N2.pdf:PDF},
+  publisher = {APS}
+}
+
+@Article{Imlay2003pathways,
+  author =    {Imlay, James A},
+  title =     {Pathways of oxidative damage},
+  journal =   {Annual Reviews in Microbiology},
+  year =      {2003},
+  volume =    {57},
+  number =    {1},
+  pages =     {395--418},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Imlay2003 Pathways of oxidative damage.pdf:PDF},
+  publisher = {Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA}
+}
+
+@Article{Imlay2015diagnosing,
+  author =    {Imlay, James A},
+  title =     {Diagnosing oxidative stress in bacteria: not as easy as you might think},
+  journal =   {Current opinion in microbiology},
+  year =      {2015},
+  volume =    {24},
+  pages =     {124--131},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Imlay2015 Diagnosing oxidative stress in bacteria- not as easy as you might think.pdf:PDF},
+  publisher = {Elsevier}
 }
 
 @Article{Isbary2010a,
@@ -845,6 +1317,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   abstract = {Abstract Previous studies reported a significant reduction in bacterial load in chronic wounds in patients with cold argon plasma. This open retrospective study evaluated effects on wound healing in vivo using the MicroPlaSter alpha device, with wound healing a secondary endpoint. Chronic wounds of various etiologies in 70 patients (Group A) were treated with plasma for 3â7 min. Wound dimensions before and after treatment were compared for plasma-treated and control wounds. Subgroup analyses were performed for all chronic venous ulcers (n=27, Group B) and 5 min plasma treatment of chronic venous ulcers (n=18, Group C). Patient acted as own control. In Group A plasma-treated wounds showed a greater reduction in width and length than control wounds. Reduction rates were non-significant. In Group B a significantly greater reduction in width was measured in plasma-treated ulcers compared to controls, but not in ulcer length. Group C showed again a significant reduction in width with plasma treatment but not in ulcer length. This study suggests that wound healing may be accelerated, particularly for chronic venous ulcers. },
   comment =  {Useful review paper on the different biomedical plasma devices - currently in use and in development. Direct and indirect treatments. Talks about jets and surface microdischarges etc too. Also some safety stuff, ie safety with currents from plasma going through patient.},
   doi =      {http://dx.doi.org/10.1016/j.cpme.2013.06.001},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Isbary2013 Cold atmospheric argon plasma treatment may accelerate wound healing in chronic wounds- Results of an open retrospective randomized controlled study in vivo.pdf:PDF},
   issn =     {2212-8166},
   keywords = {KinPen, Plasma, PlasmaDerm, Review},
   url =      {http://www.sciencedirect.com/science/article/pii/S2212816613000188}
@@ -874,6 +1347,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =    {19 - 23},
   abstract = {Non-thermal plasma technology emerged the medical field in an age of increasing bacterial and fungal resistance and global concerns about hygiene in different health care settings. Thus, the expectations regarding this new promising tool are very high. After teething problems different non-thermal plasma technologies were developed and used in different clinical trials in patients possessing chronic and acute wounds, diverse skin and itching diseases. The results from these trials and the preceding in vitro and ex vivo experiments opened up new fields of applications, which one had not thought of before. More than 5 years of clinical experience so far demonstrated that this plasma technology could be applied in a safe and effective setting to human beings. However, the potential and knowledge is far from being completely exhausted. },
   doi =      {http://dx.doi.org/10.1016/j.cpme.2012.11.001},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Isbary2013 Non-thermal plasma—More than five years of clinical experience.pdf:PDF},
   issn =     {2212-8166},
   keywords = {Plasma medicine},
   url =      {http://www.sciencedirect.com/science/article/pii/S2212816612000030}
@@ -893,6 +1367,26 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   year =      {2011},
   author =    {Kenneth Murphy},
   edition =   {8th}
+}
+
+@Article{Jeayeng2017nrf2,
+  author =    {Jeayeng, Saowanee and Wongkajornsilp, Adisak and Slominski, Andrzej T and Jirawatnotai, Siwanon and Sampattavanich, Somponnat and Panich, Uraiwan},
+  title =     {Nrf2 in keratinocytes modulates UVB-induced DNA damage and apoptosis in melanocytes through MAPK signaling},
+  journal =   {Free Radical Biology and Medicine},
+  year =      {2017},
+  volume =    {108},
+  pages =     {918--928},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Jeayeng2017 Nrf2 in keratinocytes modulates UVB-induced DNA damage and apoptosis in melanocytes through MAPK signaling.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@Article{Johnson2005analysis,
+  author =    {Johnson, Jennifer M and Latimer, Jean J},
+  title =     {Analysis of DNA repair using transfection-based host cell reactivation},
+  journal =   {Molecular Toxicology Protocols},
+  year =      {2005},
+  pages =     {321--335},
+  publisher = {Springer}
 }
 
 @Article{Joshi2010control,
@@ -940,6 +1434,19 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {IEEE}
 }
 
+@Article{Kalyanaraman2012measuring,
+  author =    {Kalyanaraman, Balaraman and Darley-Usmar, Victor and Davies, Kelvin JA and Dennery, Phyllis A and Forman, Henry Jay and Grisham, Matthew B and Mann, Giovanni E and Moore, Kevin and Roberts, L Jackson and Ischiropoulos, Harry},
+  title =     {Measuring reactive oxygen and nitrogen species with fluorescent probes: challenges and limitations},
+  journal =   {Free Radical Biology and Medicine},
+  year =      {2012},
+  volume =    {52},
+  number =    {1},
+  pages =     {1--6},
+  comment =   {Interesting paper on fluorescent probes for ROS. In particular gives limitations and options, at least for H2O2. Also talks about probes for superoxide and peroxynitrite.},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Kalyanaraman2012 Measuring reactive oxygen and nitrogen species with fluorescent probes- challenges and limitations.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Kammerlander2011a,
   author =   {G.Kammerlander and O.Assadian and T.Eberlein and P.Zweitmuller and S.Luchsinger and A.Andriessen},
   title =    {A clinical evaluation of the effcacy and safety of singlet oxygen in cleansing and disinfecting stagnating wounds},
@@ -955,6 +1462,27 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
         http://dx.doi.org/10.12968/jowc.2011.20.4.149
     
 }
+}
+
+@Article{Kang2017n2,
+  author =    {Kang, Sung Un and Choi, Jae Won and Chang, Jae Won and Kim, Yeon Soo and Park, Ju Kyeong and Kim, Yang Eun and Lee, Yun Sang and Yang, Sang Sik and Kim, Chul-Ho and others},
+  title =     {N2 non-thermal atmospheric pressure plasma promotes wound healing in vitro and in vivo: Potential modulation of adhesion molecules and matrix metalloproteinase-9},
+  journal =   {Experimental dermatology},
+  year =      {2017},
+  volume =    {26},
+  number =    {2},
+  pages =     {163--170},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Kang2018 N2 NTAP promotes wound healing Potential Modulation of adhesion molecules and MMP9.pdf:PDF},
+  publisher = {Wiley Online Library}
+}
+
+@Article{Ke2017effect,
+  author =    {Ke, Zhigang and Thopan, Prutchayawoot and Fridman, Greg and Miller, Vandana and Yu, Liangdeng and Fridman, Alexander and Huang, Qing},
+  title =     {Effect of N 2/O 2 composition on inactivation efficiency of Escherichia coli by discharge plasma at the gas-solution interface},
+  journal =   {Clinical Plasma Medicine},
+  year =      {2017},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Ke2017 Effect of N2\:O2 composition on inactivation efficiency of Escherichia coli by discharge plasma at the gas-solution interface.pdf:PDF},
+  publisher = {Elsevier}
 }
 
 @Article{Kepp2011cell,
@@ -1019,7 +1547,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 @Article{Kong2009plasma,
   author =    {Kong, Michael G and Kroesen, G and Morfill, G and Nosenko, T and Shimizu, T and Van Dijk, J and Zimmermann, JL},
   title =     {Plasma medicine: an introductory review},
-  journal =   {New Journal of Physics},
+  journal =   {New J. Phys.},
   year =      {2009},
   volume =    {11},
   number =    {11},
@@ -1076,6 +1604,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =       {http://dx.doi.org/10.1002/ppap.200800085}
 }
 
+@Article{Kutasi2010theoretical,
+  author =    {Kutasi, Kinga and Guerra, Vasco and S{\'a}, Paulo},
+  title =     {Theoretical insight into Ar--O2 surface-wave microwave discharges},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {2010},
+  volume =    {43},
+  number =    {17},
+  pages =     {175201},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Kutasi2010 Theoretical insight into Ar–O2 surface-wave microwave discharges.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
 @Article{Kutasi2016tuning,
   author =   {Kinga Kutasi and CÃ©dric NoÃ«l and Thierry Belmonte and Vasco Guerra},
   title =    {Tuning the afterglow plasma composition in {A}r/{N}$_2$/{O}$_2$ mixtures: characteristics of a flowing surface-wave microwave discharge system},
@@ -1102,6 +1642,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   issn =     {2212-8166},
   keywords = {Skin antisepsis},
   url =      {http://www.sciencedirect.com/science/article/pii/S2212816613000024}
+}
+
+@Article{Laporta2014electron,
+  author =    {Laporta, V and Little, DA and Celiberto, R and Tennyson, J},
+  title =     {Electron-impact resonant vibrational excitation and dissociation processes involving vibrationally excited N2 molecules},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {2014},
+  volume =    {23},
+  number =    {6},
+  pages =     {065002},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Laporta2014 Electron-impact resonant vibrational excitation and dissociation processes involving vibrationally excited N2 molecules.pdf:PDF},
+  publisher = {IOP Publishing}
 }
 
 @Article{Laroussi1999images,
@@ -1189,6 +1741,21 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {IOP Publishing}
 }
 
+@Article{Lee2006cell,
+  author =    {LEE, RAPHAEL C.},
+  title =     {Cell Injury by Electric Forces},
+  journal =   {Annals of the New York Academy of Sciences},
+  year =      {2006},
+  volume =    {1066},
+  number =    {1},
+  pages =     {85--91},
+  doi =       {10.1196/annals.1363.007},
+  issn =      {1749-6632},
+  keywords =  {cell injury, electrical current, nonthermal electrical damage, lipid bilayer, electroporation},
+  publisher = {Blackwell Publishing Ltd},
+  url =       {http://dx.doi.org/10.1196/annals.1363.007}
+}
+
 @Article{Lehmann2004an,
   author =    {Lehmann, Ralph},
   title =     {An algorithm for the determination of all significant pathways in chemical reaction systems},
@@ -1199,6 +1766,29 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {45--78},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Lehmann2004 An Algorithm for the Determination of All Significant Pathways in Chemical Reaction Systems.pdf:PDF},
   publisher = {Springer}
+}
+
+@Article{Liang2007in,
+  author =    {Liang, Chun-Chi and Park, Ann Y and Guan, Jun-Lin},
+  title =     {In vitro scratch assay: a convenient and inexpensive method for analysis of cell migration in vitro},
+  journal =   {Nature protocols},
+  year =      {2007},
+  volume =    {2},
+  number =    {2},
+  pages =     {329--333},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Liang2007 In vitro scratch assay- a convenient and inexpensive method for analysis of cell migration in vitro.pdf:PDF},
+  publisher = {Nature Publishing Group}
+}
+
+@Article{Lietz2016air,
+  author =    {Lietz, Amanda M and Kushner, Mark J},
+  title =     {Air plasma treatment of liquid covered tissue: long timescale chemistry},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {2016},
+  volume =    {49},
+  number =    {42},
+  pages =     {425204},
+  publisher = {IOP Publishing}
 }
 
 @Article{Lin2012development,
@@ -1232,6 +1822,35 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =       {http://dx.doi.org/10.1002/ppap.200900070}
 }
 
+@Article{Loureiro1986coupled,
+  author =    {Loureiro, J and Ferreira, CM},
+  title =     {Coupled electron energy and vibrational distribution functions in stationary N2 discharges},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {1986},
+  volume =    {19},
+  number =    {1},
+  pages =     {17},
+  comment =   {This is the paper referenced by Vasco Guerra as the source of the electron impact cross sections for excitation of ground state N2 to higher vibrational states.},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Loureiro1986 Coupled electron energy and vibrational distribution functions in stationary N2 discharges.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
+@Misc{LXCatWebsite,
+  author = {https://fr.lxcat.net/},
+  url =    {https://fr.lxcat.net/}
+}
+
+@Article{Ma2013role,
+  author =    {Ma, Qiang},
+  title =     {Role of nrf2 in oxidative stress and toxicity},
+  journal =   {Annual review of pharmacology and toxicology},
+  year =      {2013},
+  volume =    {53},
+  pages =     {401--426},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Ma2013 Role of Nrf2 in Oxidative Stress and Toxicity.pdf:PDF},
+  publisher = {Annual Reviews}
+}
+
 @Article{Ma2014,
   author =    {Ma, Yonghao AND Ha, Chang Seung AND Hwang, Seok Won AND Lee, Hae June AND Kim, Gyoo Cheon AND Lee, Kyo-Won AND Song, Kiwon},
   title =     {Non-Thermal Atmospheric Pressure Plasma Preferentially Induces Apoptosis in p53-Mutated Cancer Cells by Activating ROS Stress-Response Pathways},
@@ -1247,6 +1866,29 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =       {http://dx.doi.org/10.1371%2Fjournal.pone.0091947}
 }
 
+@Article{Magenta2011miR,
+  author =    {Magenta, A and Cencioni, C and Fasanaro, P and Zaccagnini, G and Greco, S and Sarra-Ferraris, G and Antonini, A and Martelli, F and Capogrossi, MC},
+  title =     {miR-200c is upregulated by oxidative stress and induces endothelial cell apoptosis and senescence via ZEB1 inhibition},
+  journal =   {Cell Death \& Differentiation},
+  year =      {2011},
+  volume =    {18},
+  number =    {10},
+  pages =     {1628--1639},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Magenta2011 miR-200c is upregulated by oxidative stress and induces endothelial cell apoptosis and senescence via ZEB1 inhibition.pdf:PDF},
+  publisher = {Nature Publishing Group}
+}
+
+@Article{Mancini2014micro,
+  author =    {Mancini, Mara and Lena, Anna Maria and Saintigny, Gaelle and Mah{\'e}, Christian and Di Daniele, Nicola and Melino, Gerry and Candi, Eleonora},
+  title =     {MicroRNAs in human skin ageing},
+  journal =   {Ageing research reviews},
+  year =      {2014},
+  volume =    {17},
+  pages =     {9--15},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Mancini2014 MicroRNAs in human skin ageing.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Mangina2011high,
   author =   {Rao S. Mangina and Joseph M. Ajello and Robert A. West and Dariusz Dziczek},
   title =    {High-resolution Electron-impact Emission Spectra and Vibrational Emission Cross Sections from 330-1100Â nm for N2},
@@ -1259,6 +1901,19 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   comment =  {Contains good nitrogen energy level diagram.},
   file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Mangina2011 HIGH-RESOLUTION ELECTRON-IMPACT EMISSION SPECTRA AND VIBRATIONAL EMISSION CROSS SECTIONS FROM 330–1100 nm FOR N2.pdf:PDF},
   url =      {http://stacks.iop.org/0067-0049/196/i=1/a=13}
+}
+
+@Article{Marionnet2010different,
+  author =    {Marionnet, Claire and Pierrard, C{\'e}cile and Lejeune, Fran{\c{c}}ois and Sok, Juliette and Thomas, Marie and Bernerd, Fran{\c{c}}oise},
+  title =     {Different oxidative stress response in keratinocytes and fibroblasts of reconstructed skin exposed to non extreme daily-ultraviolet radiation},
+  journal =   {PloS one},
+  year =      {2010},
+  volume =    {5},
+  number =    {8},
+  pages =     {e12059},
+  comment =   {Investigation of gene expression changes in response to low dose UV radiation to a reconstructed skin (keratinocytes and fibroblast). In particular, found that there was regulation in 4 gene families - Nrf2 target genes, sestrins, metallothioneins and MSRA. Fibroblasts generally had increased regulation compared to keratinocytes, and their regulation was mainly upregulation, whereas keratinocytes had a higher percentage of downregulations.},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Marionnet2010 Different Oxidative Stress Response in Keratinocytes and Fibroblasts of Reconstructed Skin Exposed to Non Extreme Daily-Ultraviolet Radiation.pdf:PDF},
+  publisher = {Public Library of Science}
 }
 
 @Article{Markosyan2014pumpkin,
@@ -1291,9 +1946,22 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =      {http://dx.doi.org/10.1007/s00216-007-1269-0}
 }
 
+@Article{Martindale2002cellular,
+  author =    {Martindale, Jennifer L and Holbrook, Nikki J},
+  title =     {Cellular response to oxidative stress: signaling for suicide and survival},
+  journal =   {Journal of cellular physiology},
+  year =      {2002},
+  volume =    {192},
+  number =    {1},
+  pages =     {1--15},
+  comment =   {Paper gives information on all the different signalling pathways that might be used in response to oxidative stress. Gives a LOT of information about each, including possible downstream targets and upstream activators. Pathways in particular that are discussed are MAPKs (ERK, JNK and p38), PI3-kinase/Akt pathway, Phospholipase C signalling, Protein Kinase C, Heat shock proteins, p53, ataxia-telangiectasia mutated (ATM) kinase, NF-kB, JAK/STAT, c-Abl tyrosine kinase, p66shc. The paper discusses whether the different pathways are more pro or anti apoptotic in response to oxidative stress. Also gives a table at the end as to whether the pathways are more concerned with promoting cell death or cell survival. Good reference review paper I think.},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Martindale2002 Cellular Response to Oxidative Stress Signaling forSuicide and Survival.pdf:PDF},
+  publisher = {Wiley Online Library}
+}
+
 @Misc{MattekWebsite,
   author = {https://www.mattek.com/product-category/tissue-models/epidermft/},
-  title =  {Accessed 30/08/2016},
+  title =  {Accessed 26/06/2017},
   url =    {https://www.mattek.com/product-category/tissue-models/epidermft/}
 }
 
@@ -1337,6 +2005,31 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =     {http://scitation.aip.org/content/aip/magazine/physicstoday/article/60/5/10.1063/1.2743113}
 }
 
+@Article{Miller2014plasma,
+  author =    {Miller, Vandana and Lin, Abraham and Fridman, Gregory and Dobrynin, Danil and Fridman, Alexander},
+  title =     {Plasma stimulation of migration of macrophages},
+  journal =   {Plasma Processes and Polymers},
+  year =      {2014},
+  volume =    {11},
+  number =    {12},
+  pages =     {1193--1197},
+  comment =   {ns pulsed DBD plasmas used to treat macrophages in a scratch test. Macrophages grown to confluence then scratched with a pipette tip. Plasma treatment of macrophages increased the migration of the macrophages into the gap, but only at some frequencies. Lower frequencies of ns pulsing was better than higher frequencies which caused cell death.},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Miller2014 Plasma Stimulation of Migration of Macrophages.pdf:PDF},
+  publisher = {Wiley Online Library}
+}
+
+@Article{Moll2008the,
+  author =    {Moll, Roland and Divo, Markus and Langbein, Lutz},
+  title =     {The human keratins: biology and pathology},
+  journal =   {Histochemistry and cell biology},
+  year =      {2008},
+  volume =    {129},
+  number =    {6},
+  pages =     {705},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Moll2008 The human keratins- biology and pathology.pdf:PDF},
+  publisher = {Springer}
+}
+
 @Article{Moreau2008nonthermal,
   author =    {Moreau, M and Orange, N and Feuilloley, MGJ},
   title =     {Non-thermal plasma technologies: new tools for bio-decontamination},
@@ -1349,6 +2042,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Elsevier}
 }
 
+@Article{Murakami2012chemical,
+  author =    {Murakami, Tomoyuki and Niemi, Kari and Gans, Timo and O'Connell, Deborah and Graham, William G},
+  title =     {Chemical kinetics and reactive species in atmospheric pressure helium--oxygen plasmas with humid-air impurities},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {2012},
+  volume =    {22},
+  number =    {1},
+  pages =     {015003},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Murakami2013 Chemical kinetics and reactive species in atmospheric pressure helium–oxygen plasmas with humid-air impurities.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
 @Article{Murakami2014afterglow,
   author =    {Murakami, Tomoyuki and Niemi, Kari and Gans, Timo and O'Connell, Deborah and Graham, William G},
   title =     {Afterglow chemistry of atmospheric-pressure helium oxygen plasmas with humid air impurity},
@@ -1359,6 +2064,24 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {025005},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Murakami2014 Afterglow chemistry of atmospheric-pressure helium–oxygen plasmas with humid air impurity.pdf:PDF},
   publisher = {IOP Publishing}
+}
+
+@Article{Nadal2011controlling,
+  author =    {De Nadal, Eul{\`a}lia and Ammerer, Gustav and Posas, Francesc},
+  title =     {Controlling gene expression in response to stress},
+  journal =   {Nature Reviews Genetics},
+  year =      {2011},
+  volume =    {12},
+  number =    {12},
+  pages =     {833--845},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Nadal2011 Controlling gene expression in response to stress.pdf:PDF},
+  publisher = {Nature Publishing Group}
+}
+
+@Misc{NICEchronicwounds,
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/NICE Chronic wounds and dressings.pdf:PDF},
+  timestamp = {10/10/17},
+  url =       {https://www.nice.org.uk/advice/esmpb2/chapter/full-evidence-summary-medicines-and-prescribing-briefing#costs-of-wound-dressings}
 }
 
 @Article{Niemi2013absolute,
@@ -1386,6 +2109,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Elsevier}
 }
 
+@Article{OConnell2011cold,
+  author =    {O’Connell, Deborah and Cox, LJ and Hyland, WB and McMahon, SJ and Reuter, Stephan and Graham, WG and Gans, Timo and Currell, FJ},
+  title =     {Cold atmospheric pressure plasma jet interactions with plasmid DNA},
+  journal =   {Applied Physics Letters},
+  year =      {2011},
+  volume =    {98},
+  number =    {4},
+  pages =     {043701},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/OConnell2011 Cold atmospheric pressure plasma jet interactions with plasmid DNA.pdf:PDF},
+  publisher = {AIP}
+}
+
 @Article{Oh2016plasma,
   author =    {Oh, Jun-Seok and Strudwick, Xanthe and Short, Robert D and Ogawa, Kotaro and Hatta, Akimitsu and Furuta, Hiroshi and Gaur, Nishtha and Hong, Sung-Ha and Cowin, Allison J and Fukuhara, Hideo and others},
   title =     {How plasma induced oxidation, oxygenation, and de-oxygenation influences viability of skin cells},
@@ -1396,6 +2131,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {203701},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oh2016 How plasma induced oxidation, oxygenation, and de-oxygenation influences viability of skin cells.pdf:PDF},
   publisher = {AIP Publishing}
+}
+
+@Article{Ojha2008assessment,
+  author =    {Ojha, Navdeep and Roy, Sashwati and He, Guanglong and Biswas, Sabyasachi and Velayutham, Murugesan and Khanna, Savita and Kuppusamy, Periannan and Zweier, Jay L and Sen, Chandan K},
+  title =     {Assessment of wound-site redox environment and the significance of Rac2 in cutaneous healing},
+  journal =   {Free Radical Biology and Medicine},
+  year =      {2008},
+  volume =    {44},
+  number =    {4},
+  pages =     {682--691},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Ojha2008 Assessment of wound-site redox environment and the significance of Rac2 in cutaneous healing.pdf:PDF},
+  publisher = {Elsevier}
 }
 
 @Article{Olofsson2016fighting,
@@ -1420,6 +2167,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =        {1777--1783},
   organization = {IEEE},
   file =         {:/Users/hld523/Google Drive/Rotation 1 Plasmaaaa/Papers/Ono1998 Measurement of Hydroxyl Radicals in an Atmospheric Pressure Discharge Plasma by Using Laser-Induced Fluorescence .pdf:PDF}
+}
+
+@Article{Paladini1996onset,
+  author =    {Paladini, Rudolph D and Takahashi, Kenzo and Bravo, Nicola S and Coulombe, Pierre A},
+  title =     {Onset of re-epithelialization after skin injury correlates with a reorganization of keratin filaments in wound edge keratinocytes: defining a potential role for keratin 16.},
+  journal =   {The Journal of cell biology},
+  year =      {1996},
+  volume =    {132},
+  number =    {3},
+  pages =     {381--397},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Paladini1996 Onset of Re-epithelialization After Skin Injury Correlates with a Reorganization of Keratin Filaments in Wound Edge Keratin ytes- Defining a Potential Role for Keratin 16.pdf:PDF},
+  publisher = {Rockefeller University Press}
 }
 
 @Article{Pastar2014epithelialization,
@@ -1447,6 +2206,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Pei2012 Inactivation of a 25.5 µm Enterococcus faecalis biofilm by a room-temperature, battery-operated, handheld air plasma jet.pdf:PDF},
   keywords = {Air plasma, battery operated, DC plasma, biofilm, enterococcus faecalis, hand held plasma.},
   url =      {http://stacks.iop.org/0022-3727/45/i=16/a=165205}
+}
+
+@Article{Persoon2004leg,
+  author =    {Persoon, Anke and Heinen, Maud M and Van Der Vleuten, Carien JM and De Rooij, Michette J and Van De Kerkhof, Peter and Van Achterberg, Theo},
+  title =     {Leg ulcers: a review of their impact on daily life},
+  journal =   {Journal of clinical nursing},
+  year =      {2004},
+  volume =    {13},
+  number =    {3},
+  pages =     {341--354},
+  publisher = {Wiley Online Library}
 }
 
 @Article{PhamHuy2008free,
@@ -1485,6 +2255,42 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =      {http://stacks.iop.org/0022-3727/38/i=3/a=011}
 }
 
+@Article{Pintassilgo2017modelling,
+  author =    {Pintassilgo, Carlos D and Guerra, Vasco},
+  title =     {Modelling of the temporal evolution of the gas temperature in {N}$_2$ discharges},
+  journal =   {Plasma Sources Sci. Technol.},
+  year =      {2017},
+  volume =    {26},
+  number =    {5},
+  pages =     {055001},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Pintassilgo2017 Modelling of the temporal evolution of the gas temperature in N2 discharges.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
+@Article{Piper1989the,
+  author =    {Piper, Lawrence G},
+  title =     {The excitation of N (2 P) by N2 (A 3∑+ u, v’= 0, 1)},
+  journal =   {The Journal of Chemical Physics},
+  year =      {1989},
+  volume =    {90},
+  number =    {12},
+  pages =     {7087--7095},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Piper1989 The excitation of N(2 P) by N2(A 3 ∑ + u, v’=0,1).pdf:PDF},
+  publisher = {AIP}
+}
+
+@Article{Piper1992energy,
+  author =    {Piper, Lawrence G},
+  title =     {Energy transfer studies on N2 (X 1$\Sigma$+ g, v) and N2 (B 3$\Pi$ g)},
+  journal =   {The Journal of chemical physics},
+  year =      {1992},
+  volume =    {97},
+  number =    {1},
+  pages =     {270--275},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Piper1992 Energy transfer studies on N2(X 1 Σ + g,v) and N2(B 3 Πg).pdf:PDF},
+  publisher = {AIP}
+}
+
 @Book{PlasmaMedicineLaroussi,
   title =     {Plasma Medicine},
   publisher = {Cambridge University Press},
@@ -1503,6 +2309,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   abstract = {Research on low-temperature atmospheric plasma sources (LTAPS) has grown strongly over the last few years, in part driven by possible medical ' inÂ vivo ' applications. LTAPS offer new technology for medicine and biomedical engineering. Important application examples include in situ production of reactive molecules and ions, delivery at the molecular level, contact-free and self-sterilizing devices. An important issue is the efficient bactericidal effect of LTAPS, which has already been studied widely in vitro . In spite of the many investigations, details of the plasma effect on bacteria are still largely unknown. To contribute to a better understanding of the sterilization process, we investigated the morphological changes of bacteria using atomic force microscopy before and after plasma treatment at high resolution. We examined both gram-positive and gram-negative bacteria at different plasma exposure times. Additionally, the effect of UV radiation as one agent in the plasma was investigated separately. Our results suggest that several sterilizing mechanisms exist and they proceed at different timescales.},
   file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Pompl2009 The effect of low-temperature plasma on bacteria as observed by repeated AFM imaging.pdf:PDF},
   url =      {http://stacks.iop.org/1367-2630/11/i=11/a=115023}
+}
+
+@Article{Porter2000k15,
+  author =    {Porter, Rebecca M and Lunny, Declan P and Ogden, Patricia H and Morley, Susan M and McLean, WH Irwin and Evans, Alan and Harrison, Dolores L and Rugg, Elizabeth L and Lane, E Birgitte},
+  title =     {K15 expression implies lateral differentiation within stratified epithelial basal cells},
+  journal =   {Laboratory investigation},
+  year =      {2000},
+  volume =    {80},
+  number =    {11},
+  pages =     {1701--1710},
+  publisher = {Nature Publishing Group}
 }
 
 @Article{Posnett2008the,
@@ -1528,6 +2345,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =     {http://scitation.aip.org/content/aip/journal/jcp/88/5/10.1063/1.453949}
 }
 
+@Article{Prevosto2016modelling,
+  author =    {Prevosto, L and Kelly, H and Mancinelli, B},
+  title =     {Modelling of an atmospheric pressure nitrogen glow discharge operating in high-gas temperature regimes},
+  journal =   {Plasma Chemistry and Plasma Processing},
+  year =      {2016},
+  volume =    {36},
+  number =    {4},
+  pages =     {973--992},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Prevosto2016 Modelling of an Atmospheric Pressure Nitrogen Glow Discharge Operating in High-Gas Temperature Regimes.pdf:PDF},
+  publisher = {Springer}
+}
+
 @Article{Privatmaldonado2016spatial,
   author =    {Privat-Maldonado, Angela and O'Connell, Deborah and Welch, Emma and Vann, Roddy and Woude, Marjan van der},
   title =     {Spatial Dependence of DNA Damage in Bacteria due to Low-Temperature Plasma Application as Assessed at the Single Cell Level},
@@ -1537,7 +2366,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {35646},
   month =     {10},
   doi =       {10.1038/srep35646},
-  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/PrivatMaldonado2016 Spatial Dependence of DNA Damage in Bacteria due to LowTemperature Plasma Application as Assessed at the Single Cell Level.pdf:PDF},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/PrivatMaldonado2016 Spatial Dependence of DNA Damage in Bacteria due to LowTemperature Plasma Application as Assessed at the Single Cell Level.pdf:PDF;:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Angela Spatial Dependence Supplementary Info.pdf:PDF},
   issn =      {2045-2322},
   publisher = {Nature Publishing Group},
   url =       {http:https://dx.doi.org/10.1038/srep35646}
@@ -1571,6 +2400,30 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =      {http://stacks.iop.org/0963-0252/24/i=5/a=054001}
 }
 
+@Article{Riemondy2014not,
+  author =    {Riemondy, Kent and Hoefert, Jaimee E and Yi, Rui},
+  title =     {Not miR-ly micromanagers: the functions and regulatory networks of microRNAs in mammalian skin},
+  journal =   {Wiley Interdisciplinary Reviews: RNA},
+  year =      {2014},
+  volume =    {5},
+  number =    {6},
+  pages =     {849--865},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Riemondy2014 Not miR-ly micromanagers- the functions and regulatory networks of miRNAs in mammalian skin.pdf:PDF},
+  publisher = {Wiley Online Library}
+}
+
+@Article{Sa1997a,
+  author =    {Sa, PA and Loureiro, J},
+  title =     {A time-dependent analysis of the nitrogen afterglow in and-Ar microwave discharges},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {1997},
+  volume =    {30},
+  number =    {16},
+  pages =     {2320},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Sa1997a.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
 @Article{Sakiyama2012plasma,
   author =    {Sakiyama, Yukinori and Graves, David B and Chang, Hung-Wen and Shimizu, Tetsuji and Morfill, Gregor E},
   title =     {Plasma chemistry model of surface microdischarge in humid air and dynamics of reactive neutral species},
@@ -1583,7 +2436,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {IOP Publishing}
 }
 
-@Article{Savagner2005,
+@Article{Savagner2005developmental,
   author =    {Savagner, Pierre and Kusewitt, Donna F. and Carver, Ethan A. and Magnino, Fabrice and Choi, Chagsun and Gridley, Thomas and Hudson, Laurie G.},
   title =     {Developmental transcription factor slug is required for effective re-epithelialization by adult keratinocytes},
   journal =   {Journal of Cellular Physiology},
@@ -1596,6 +2449,65 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   issn =      {1097-4652},
   publisher = {Wiley Subscription Services, Inc., A Wiley Company},
   url =       {http://dx.doi.org/10.1002/jcp.20188}
+}
+
+@Article{Schafer2008oxidative,
+  author =    {Sch{\"a}fer, Matthias and Werner, Sabine},
+  title =     {Oxidative stress in normal and impaired wound repair},
+  journal =   {Pharmacological Research},
+  year =      {2008},
+  volume =    {58},
+  number =    {2},
+  pages =     {165--171},
+  comment =   {Paper about oxidative stress in wounds. Talks a bit about the differences between acute and chronic wounds, the roles of different antioxidants, as well as different enzymes such as SODs that help to neutralise the radicals, such as H2O2 and superoxide.},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Schafer2008 Oxidative stress in normal and impaired wound repair.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@Article{Schlesinger1990heat,
+  author =    {Schlesinger, Milton J},
+  title =     {Heat shock proteins.},
+  journal =   {Journal of Biological Chemistry},
+  year =      {1990},
+  volume =    {265},
+  number =    {21},
+  pages =     {12111--12114},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Schlesinger1990 Heat Shock Proteins.pdf:PDF},
+  publisher = {American Society for Biochemistry and Molecular Biology}
+}
+
+@Article{Schmidt2015non,
+  author =    {Schmidt, Anke and Dietrich, Stephan and Steuer, Anna and Weltmann, Klaus-Dieter and von Woedtke, Thomas and Masur, Kai and Wende, Kristian},
+  title =     {Non-thermal plasma activates human keratinocytes by stimulation of antioxidant and phase II pathways},
+  journal =   {Journal of Biological Chemistry},
+  year =      {2015},
+  volume =    {290},
+  number =    {11},
+  pages =     {6731--6750},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Schmidt2015 Non-thermal Plasma Activates Human Keratinocytes by Stimulation of Antioxidant and Phase II Pathways.pdf:PDF},
+  publisher = {ASBMB}
+}
+
+@Article{Schmidt2016periodic,
+  author =    {Schmidt, Anke and von Woedtke, Thomas and Bekeschus, Sander},
+  title =     {Periodic exposure of keratinocytes to cold physical plasma: an in vitro model for redox-related diseases of the skin},
+  journal =   {Oxidative medicine and cellular longevity},
+  year =      {2016},
+  volume =    {2016},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Schmidt2016 Periodic Exposure of Keratinocytes to Cold Physical Plasma- An In Vitro Model for Redox-Related Diseases of the Skin.pdf:PDF},
+  publisher = {Hindawi Publishing Corporation}
+}
+
+@Article{Schmidt2017role,
+  author =    {Schmidt, Anke and Bekeschus, Sander and Jablonowski, Helena and Barton, Annemarie and Weltmann, Klaus-Dieter and Wende, Kristian},
+  title =     {Role of Ambient Gas Composition on Cold Physical Plasma-Elicited Cell Signaling in Keratinocytes},
+  journal =   {Biophysical Journal},
+  year =      {2017},
+  volume =    {112},
+  number =    {11},
+  pages =     {2397--2407},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Schmidt2017 Role of Ambient Gas Composition on Cold Physical Plasma-Elicited Cell Signaling in Keratinocytes.pdf:PDF},
+  publisher = {Elsevier}
 }
 
 @InBook{Schroter2015atomic,
@@ -1644,13 +2556,31 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 @Article{Siddiqui2010chronic,
   author =    {Siddiqui, Abdul R and Bernstein, Jack M},
   title =     {Chronic wound infection: facts and controversies},
-  journal =   {Clinics in dermatology},
+  journal =   {Clin. Dermatol.},
   year =      {2010},
   volume =    {28},
   number =    {5},
   pages =     {519--526},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Siddiqui2010 Chronic wound infection- Facts and controversies.pdf:PDF},
   publisher = {Elsevier}
+}
+
+@Article{Sies2017oxidative,
+  author =   { Helmut Sies and Carsten Berndt and Dean P. Jones},
+  title =    {Oxidative Stress},
+  journal =  {Annual Review of Biochemistry},
+  year =     {2017},
+  volume =   {86},
+  number =   {1},
+  pages =    {null},
+  note =     {PMID: 28441057},
+  abstract = { Oxidative stress is two sided: Whereas excessive oxidant challenge causes damage to biomolecules, maintenance of a physiological level of oxidant challenge, termed oxidative eustress, is essential for governing life processes through redox signaling. Recent interest has focused on the intricate ways by which redox signaling integrates these converse properties. Redox balance is maintained by prevention, interception, and repair, and concomitantly the regulatory potential of molecular thiol-driven master switches such as Nrf2/Keap1 or NF-ÎºB/IÎºB is used for system-wide oxidative stress response. Nonradical species such as hydrogen peroxide (H2O2) or singlet molecular oxygen, rather than free-radical species, perform major second messenger functions. Chemokine-controlled NADPH oxidases and metabolically controlled mitochondrial sources of H2O2 as well as glutathione- and thioredoxin-related pathways, with powerful enzymatic back-up systems, are responsible for fine-tuning physiological redox signaling. This makes for a rich research field spanning from biochemistry and cell biology into nutritional sciences, environmental medicine, and molecular knowledge-based redox medicine. Expected final online publication date for the Annual Review of Biochemistry Volume 86 is June 20, 2017. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates. },
+  comment =  {Comprehensive review of oxidative stress, but maybe more focussed on eukaryotic rather than prokaryotic stuff. Suggests lots of different markers/products of oxidative stress, including ones I've already heard about which is promising!},
+  doi =      {10.1146/annurev-biochem-061516-045037},
+  eprint =   { https://doi.org/10.1146/annurev-biochem-061516-045037 },
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Sies2017 Oxidative Stress.pdf:PDF},
+  url =      { 
+        https://doi.org/10.1146/annurev-biochem-061516-045037}
 }
 
 @Article{Sijde1984collisional,
@@ -1691,7 +2621,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 @Article{Stafford2004O2,
   author =  {Stafford, D. Shane and Kushner, Mark J.},
   title =   {O$_2$($^1{\Delta}$) production in {H}e/{O}$_2$ mixtures in flowing low pressure plasmas},
-  journal = {Journal of Applied Physics},
+  journal = {J. Appl. Phys.},
   year =    {2004},
   volume =  {96},
   number =  {5},
@@ -1734,6 +2664,16 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {805--813},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Sun2008 In vitro multispecies Lubbock chronic wound biofilm model.pdf:PDF},
   publisher = {Wiley Online Library}
+}
+
+@Article{Talsky2017kinetic,
+  author =    {T{\'a}lsk{\`y}, A and {\v{S}}tec, O and Pazderka, M and Kudrle, V},
+  title =     {Kinetic Study of Atmospheric Pressure Nitrogen Plasma Afterglow Using Quantitative Electron Spin Resonance Spectroscopy},
+  journal =   {Journal of Spectroscopy},
+  year =      {2017},
+  volume =    {2017},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Talsky2017 Kinetic Study of Atmospheric Pressure Nitrogen Plasma Afterglow Using Quantitative Electron Spin Resonance Spectroscopy.pdf:PDF},
+  publisher = {Hindawi Publishing Corporation}
 }
 
 @Article{Thakral2013electrical,
@@ -1913,6 +2853,31 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =      {http://stacks.iop.org/0022-3727/43/i=7/a=075201}
 }
 
+@Article{Walsh2011portable,
+  author =    {Walsh, JL and Kong, MG},
+  title =     {Portable nanosecond pulsed air plasma jet},
+  journal =   {Applied Physics Letters},
+  year =      {2011},
+  volume =    {99},
+  number =    {8},
+  pages =     {081501},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Walsh2011 Portable nanosecond pulsed air plasma jet.pdf:PDF},
+  publisher = {AIP}
+}
+
+@Article{Wang2017nitrogen,
+  author =    {Wang, Weizong and Patil, Bhaskar and Heijkers, Stjin and Hessel, Volker and Bogaerts, Annemie},
+  title =     {Nitrogen Fixation by Gliding Arc Plasma: Better Insight by Chemical Kinetics Modelling},
+  journal =   {ChemSusChem},
+  year =      {2017},
+  volume =    {10},
+  number =    {10},
+  pages =     {2145--2157},
+  comment =   {Paper on nitrogen modelling with particular attention of vibrational excitation. However, only includes VV reactions and molecular VT reactions, not atomic VT reactions, therefore no rates for those. The supplementary information does talk nicely about the importance of VV and VT reactions though so useful for referencing!!},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Wang2017 SUPPLEMENTARY Nitrogen Fixation by Gliding Arc Plasma- Better Insight by Chemical Kinetics Modelling.pdf:PDF;:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Wang2017 Nitrogen Fixation by Gliding Arc Plasma- Better Insight by Chemical Kinetics Modelling.pdf:PDF},
+  publisher = {Wiley Online Library}
+}
+
 @Article{Weaver1994molecular,
   author =    {Weaver, James C},
   title =     {Molecular basis for cell membrane electroporation},
@@ -1953,6 +2918,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =       {http://dx.doi.org/10.1002/ctpp.200910067}
 }
 
+@Article{Wende2016risk,
+  author =    {Wende, K and Bekeschus, S and Schmidt, A and Jatsch, L and Hasse, S and Weltmann, KD and Masur, K and von Woedtke, Th},
+  title =     {Risk assessment of a cold argon plasma jet in respect to its mutagenicity},
+  journal =   {Mutation Research/Genetic Toxicology and Environmental Mutagenesis},
+  year =      {2016},
+  volume =    {798},
+  pages =     {48--54},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Wende2016 Risk assessment of a cold argon plasma jet in respect to its mutagenicity.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Westgate2010chronic,
   author =  {Westgate, Samantha J and Percival, Steven L and Knottenbelt, Derek C and Clegg, Peter D and Cochrane, Christine A},
   title =   {﻿﻿﻿﻿Chronic equine wounds: what is the role of infection and biofilms?﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿.},
@@ -1978,6 +2954,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   issn =     {0378-1135},
   keywords = {Biofilm},
   url =      {http://www.sciencedirect.com/science/article/pii/S0378113511000071}
+}
+
+@Article{Yeoh2003iron,
+  author =    {Yeoh-Ellerton, Sim and Stacey, Michael C},
+  title =     {Iron and 8-isoprostane levels in acute and chronic wounds},
+  journal =   {Journal of investigative dermatology},
+  year =      {2003},
+  volume =    {121},
+  number =    {4},
+  pages =     {918--925},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Yeoh2003 Iron and 8-Isoprostane Levels in Acute and Chronic Wounds.pdf:PDF},
+  publisher = {Elsevier}
 }
 
 @Article{Zhao2009electrical,
@@ -2017,4 +3005,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   eprint =   {http://www.pnas.org/content/85/11/4046.full.pdf},
   file =     {:Rotation 1 Plasmaaaa/Papers/Zweier1988 Measurement of endothelial cell free radical generation- Evidence for a central mechanism of free radical injury in postisclemic tissues.pdf:PDF},
   url =      {http://www.pnas.org/content/85/11/4046.abstract}
+}
+
+@Article{,
 }
