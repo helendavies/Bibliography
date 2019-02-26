@@ -1,5 +1,28 @@
 % Encoding: UTF-8
 
+@Article{Adamovich1998vibrational,
+  author =  {Adamovich, Igor V and Macheret, Sergey O and Rich, J William and Treanor, Charles E},
+  title =   {Vibrational energy transfer rates using a forced harmonic oscillator model},
+  journal = {Journal of Thermophysics and Heat Transfer},
+  year =    {1998},
+  volume =  {12},
+  number =  {1},
+  pages =   {57--65},
+  file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Adamovich1998 Vibrational Energy Transfer Rates using FHO model.pdf:PDF}
+}
+
+@Article{Afaq2009aryl,
+  author =    {Afaq, Farrukh and Zaid, Mohammad Abu and Pelle, Edward and Khan, Naghma and Syed, Deeba N and Matsui, Mary S and Maes, Daniel and Mukhtar, Hasan},
+  title =     {Aryl hydrocarbon receptor is an ozone sensor in human skin},
+  journal =   {Journal of Investigative Dermatology},
+  year =      {2009},
+  volume =    {129},
+  number =    {10},
+  pages =     {2396--2403},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Afaq2009 Aryl Hydrocarbon Receptor Is an Ozone Sensor in Human Skin.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Alduchov1996,
   author =  { Oleg A. Alduchov and Robert E. Eskridge },
   title =   {Improved Magnus Form Approximation of Saturation Vapor Pressure},
@@ -276,6 +299,18 @@
   url =      {http://www.sciencedirect.com/science/article/pii/S2212816616300014}
 }
 
+@Article{Belousov2006genetically,
+  author =    {Belousov, Vsevolod V and Fradkov, Arkady F and Lukyanov, Konstantin A and Staroverov, Dmitry B and Shakhbazov, Konstantin S and Terskikh, Alexey V and Lukyanov, Sergey},
+  title =     {Genetically encoded fluorescent indicator for intracellular hydrogen peroxide},
+  journal =   {Nature methods},
+  year =      {2006},
+  volume =    {3},
+  number =    {4},
+  pages =     {281},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Belousov2006 Genetically encoded fluorescent indicator for intracellular hydrogen peroxide.pdf:PDF},
+  publisher = {Nature Publishing Group}
+}
+
 @InBook{Bender2012tissue,
   pages =     {321--334},
   title =     {Tissue Tolerable Plasma and Polihexanide: Are Synergistic Effects Possible to Promote Healing of Chronic wounds? In Vivo and In Vitro Results},
@@ -330,6 +365,18 @@
   pages =     {395--401},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Billing1979 VV and VT rate coefficients in N2 by a quantum-classical model.pdf:PDF},
   publisher = {Elsevier}
+}
+
+@Article{Black1974measurements,
+  author =    {Black, Graham and Wise, Henry and Schechter, Samuel and Sharpless, Robert L},
+  title =     {Measurements of vibrationally excited molecules by Raman scattering. II. Surface deactivation of vibrationally excited N2},
+  journal =   {The Journal of Chemical Physics},
+  year =      {1974},
+  volume =    {60},
+  number =    {9},
+  pages =     {3526--3536},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Black1974 Measurements of vibrationally excited molecules by Raman scattering. II. Surface deactivation of vibrationally excited N2.pdf:PDF},
+  publisher = {AIP}
 }
 
 @Article{Blanpain2009epidermal,
@@ -507,6 +554,18 @@
   publisher = {Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA}
 }
 
+@Article{Chiang2012regulators,
+  author =    {Chiang, Sarah M and Schellhorn, Herb E},
+  title =     {Regulators of oxidative stress response genes in Escherichia coli and their functional conservation in bacteria},
+  journal =   {Archives of biochemistry and biophysics},
+  year =      {2012},
+  volume =    {525},
+  number =    {2},
+  pages =     {161--169},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Chiang2012 Regulators of oxidative stress response genes in Escherichia coli and their functional conservation in bacteria.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Cho2003,
   author =   {Cho, Min and Chung, Hyenmi and Yoon, Jeyong},
   title =    {Disinfection of Water Containing Natural Organic Matter by Using Ozone-Initiated Radical Reactions},
@@ -578,6 +637,18 @@
   pages =     {14756},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Biology Planning/Cohen2015 IL-1α is a DNA damage sensor linking genotoxic stress signaling to sterile inflammation and innate immunity.pdf:PDF},
   publisher = {Nature Publishing Group}
+}
+
+@Article{Coletti2002vibrational,
+  author =    {Coletti, Cecilia and Billing, Gert D},
+  title =     {Vibrational energy transfer in molecular oxygen collisions},
+  journal =   {Chemical physics letters},
+  year =      {2002},
+  volume =    {356},
+  number =    {1-2},
+  pages =     {14--22},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Coletti2002 Vibrational energy transfer in molecular oxygen collisions.pdf:PDF},
+  publisher = {Elsevier}
 }
 
 @Article{Colombo2017HaCaT,
@@ -740,6 +811,30 @@
   number =    {11},
   pages =     {1662--1674},
   publisher = {Am Soc Microbiol}
+}
+
+@Article{Denninger1999guanylate,
+  author =    {Denninger, John W and Marletta, Michael A},
+  title =     {Guanylate cyclase and the⋅ NO/cGMP signaling pathway},
+  journal =   {Biochimica et Biophysica Acta (BBA)-Bioenergetics},
+  year =      {1999},
+  volume =    {1411},
+  number =    {2-3},
+  pages =     {334--350},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Denninger1999 Guanylate cyclase and the c NO\:cGMP signaling pathway.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@Article{Derbyshire2009nucleotide,
+  author =    {Derbyshire, Emily R and Fernhoff, Nathaniel B and Deng, Sarah and Marletta, Michael A},
+  title =     {Nucleotide regulation of soluble guanylate cyclase substrate specificity},
+  journal =   {Biochemistry},
+  year =      {2009},
+  volume =    {48},
+  number =    {31},
+  pages =     {7519--7524},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Derbyshire2009 Nucleotide Regulation of Soluble Guanylate Cyclase Substrate Specificity.pdf:PDF},
+  publisher = {ACS Publications}
 }
 
 @Article{Dezest2017mechanistic,
@@ -1261,6 +1356,18 @@
   publisher = {IEEE}
 }
 
+@Article{gordiets1998self,
+  author =    {Gordiets, B and Ferreira, CM and Pinheiro, MJ and Ricard, A},
+  title =     {Self-consistent kinetic model of low-pressure-flowing discharges: I. Volume processes},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {1998},
+  volume =    {7},
+  number =    {3},
+  pages =     {363},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Gordiets1998Self-consistent kinetic model of low-pressure - flowing discharges- I. Volume processes.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
 @Article{Gottrup2000models,
   author =    {Gottrup, Finn and {\AA}gren, Magnus S and Karlsmark, Tonny},
   title =     {Models for use in wound healing research: a survey focusing on in vitro and in vivo adult soft tissue},
@@ -1407,6 +1514,18 @@
   number =    {12},
   pages =     {e009283},
   publisher = {British Medical Journal Publishing Group}
+}
+
+@Article{Haase2010fluorescent,
+  author =    {Haase, Tobias and Haase, Nadine and Kraehling, Jan Robert and Behrends, Soenke},
+  title =     {Fluorescent fusion proteins of soluble guanylyl cyclase indicate proximity of the heme nitric oxide domain and catalytic domain},
+  journal =   {PLoS One},
+  year =      {2010},
+  volume =    {5},
+  number =    {7},
+  pages =     {e11617},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Haas2010 Fluorescent Fusion Proteins of Soluble Guanylyl Cyclase Indicate Proximity of the Heme Nitric Oxide Domain and Catalytic Domain.pdf:PDF},
+  publisher = {Public Library of Science}
 }
 
 @Article{Haertel2012surface,
@@ -1623,6 +1742,11 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {1600138},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Hurlbatt2017 Concepts, Capabilities, and Limitations ofGlobal Models- A Review.pdf:PDF},
   publisher = {Wiley Online Library}
+}
+
+@Misc{HyPerWebsite,
+  author = {http://evrogen.com/products/HyPer/HyPer_Detailed_description.shtml},
+  title =  {Accessed 24.2.19}
 }
 
 @Article{Imlay2003pathways,
@@ -2139,6 +2263,16 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Wiley Online Library}
 }
 
+@Article{Laukkanen2016extracellular,
+  author =    {Laukkanen, Mikko O},
+  title =     {Extracellular superoxide dismutase: growth promoter or tumor suppressor?},
+  journal =   {Oxidative medicine and cellular longevity},
+  year =      {2016},
+  volume =    {2016},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Laukkanen2016 Extracellular Superoxide Dismutase- Growth Promoter or Tumor Suppressor?.pdf:PDF},
+  publisher = {Hindawi}
+}
+
 @Article{Lazarou2016numerical,
   author =    {Lazarou, C and Belmonte, T and Chiper, AS and Georghiou, GE},
   title =     {Numerical modelling of the effect of dry air traces in a helium parallel plate dielectric barrier discharge},
@@ -2176,6 +2310,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {45--78},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Lehmann2004 An Algorithm for the Determination of All Significant Pathways in Chemical Reaction Systems.pdf:PDF},
   publisher = {Springer}
+}
+
+@Article{Lewis1994kinetics,
+  author =    {Lewis, Randy S and Deen, William M},
+  title =     {Kinetics of the reaction of nitric oxide with oxygen in aqueous solutions},
+  journal =   {Chemical research in toxicology},
+  year =      {1994},
+  volume =    {7},
+  number =    {4},
+  pages =     {568--574},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Lewis1994 Kinetics of the Reaction of Nitric Oxide with Oxygen in Aqueous Solutions.pdf:PDF},
+  publisher = {ACS Publications}
 }
 
 @Article{Liang2007in,
@@ -2557,6 +2703,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Elsevier}
 }
 
+@Article{Morgan1963the,
+  author =    {Morgan, JE and Schiff, HI},
+  title =     {The study of vibrationally excited N2 molecules with the aid of an isothermal calorimeter},
+  journal =   {Canadian Journal of Chemistry},
+  year =      {1963},
+  volume =    {41},
+  number =    {4},
+  pages =     {903--912},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Morgan1963 THE STUDY OF VIBRATIONALLY EXCITED Nz MOLECULES WITH THE AID OF AN ISOTHERMAL CALORIMETER1.pdf:PDF},
+  publisher = {NRC Research Press}
+}
+
 @Article{Muhr2011expression,
   author =    {Muhr, P and Zeitvogel, J and Heitland, I and Werfel, T and Wittmann, M},
   title =     {Expression of interleukin (IL)-1 family members upon stimulation with IL-17 differs in keratinocytes derived from patients with psoriasis and healthy donors},
@@ -2626,6 +2784,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {1111--1125},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Biology Planning/Nasti2012 Inflammasome activation of IL-1 family mediators in response to cutaneous photodamage.pdf:PDF},
   publisher = {Wiley Online Library}
+}
+
+@Article{Nebert2004role,
+  author =    {Nebert, Daniel W and Dalton, Timothy P and Okey, Allan B and Gonzalez, Frank J},
+  title =     {Role of aryl hydrocarbon receptor-mediated induction of the CYP1 enzymes in environmental toxicity and cancer},
+  journal =   {Journal of Biological Chemistry},
+  year =      {2004},
+  volume =    {279},
+  number =    {23},
+  pages =     {23847--23850},
+  publisher = {ASBMB}
 }
 
 @Misc{NICEchronicwounds,
@@ -2858,6 +3027,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Cambridge University Press},
   year =      {2012},
   author =    {Laroussi, M. and Kong, M.G. and Morfill, G. and Stolz, W.}
+}
+
+@Article{Poland19822,
+  author =    {Poland, Alan and Knutson, Joyce C},
+  title =     {2, 3, 7, 8-tetrachlorodibenzo-p-dioxin and related halogenated aromatic hydrocarbons: examination of the mechanism of toxicity},
+  journal =   {Annual review of pharmacology and toxicology},
+  year =      {1982},
+  volume =    {22},
+  number =    {1},
+  pages =     {517--554},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Poland1982 2,3,7,8-TETRACHLORODIBENZOp-DIOXIN AND RELATED HALOGENATED AROMATIC HYDROCARBONS- EXAMINATION OF THE MECHANISM OF TOXICITY .pdf:PDF},
+  publisher = {Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA}
 }
 
 @Article{Pompl2009the,
@@ -3135,6 +3316,16 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Elsevier}
 }
 
+@Article{Schmidt2019cold,
+  author =    {Schmidt, Anke and Bekeschus, Sander and Jarick, Katja and Hasse, Sybille and von Woedtke, Thomas and Wende, Kristian},
+  title =     {Cold physical plasma modulates p53 and mitogen-activated protein kinase signaling in keratinocytes},
+  journal =   {Oxidative Medicine and Cellular Longevity},
+  year =      {2019},
+  volume =    {2019},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Schmidt2019 Cold Physical Plasma Modulates p53 and Mitogen-Activated Protein Kinase Signaling in Keratinocytes.pdf:PDF},
+  publisher = {Hindawi}
+}
+
 @InBook{Schroter2015atomic,
   title =     {Atomic oxygen and hydroxyl density measurements in an atmospheric pressure RF-plasma with water admixtures using UV and synchrotron VUV absorption spectroscopy},
   year =      {2015},
@@ -3353,6 +3544,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   volume =    {2017},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Talsky2017 Kinetic Study of Atmospheric Pressure Nitrogen Plasma Afterglow Using Quantitative Electron Spin Resonance Spectroscopy.pdf:PDF},
   publisher = {Hindawi Publishing Corporation}
+}
+
+@Article{Temple2005complex,
+  author =    {Temple, Mark D and Perrone, Gabriel G and Dawes, Ian W},
+  title =     {Complex cellular responses to reactive oxygen species},
+  journal =   {Trends in cell biology},
+  year =      {2005},
+  volume =    {15},
+  number =    {6},
+  pages =     {319--326},
+  publisher = {Elsevier}
 }
 
 @Article{Thakral2013electrical,
@@ -3591,6 +3793,29 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   comment =   {Paper on nitrogen modelling with particular attention of vibrational excitation. However, only includes VV reactions and molecular VT reactions, not atomic VT reactions, therefore no rates for those. The supplementary information does talk nicely about the importance of VV and VT reactions though so useful for referencing!!},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Wang2017 SUPPLEMENTARY Nitrogen Fixation by Gliding Arc Plasma- Better Insight by Chemical Kinetics Modelling.pdf:PDF;:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Wang2017 Nitrogen Fixation by Gliding Arc Plasma- Better Insight by Chemical Kinetics Modelling.pdf:PDF},
   publisher = {Wiley Online Library}
+}
+
+@Article{Wang2018superoxide,
+  author =    {Wang, Ying and Branicky, Robyn and No{\"e}, Alycia and Hekimi, Siegfried},
+  title =     {Superoxide dismutases: Dual roles in controlling ROS damage and regulating ROS signaling},
+  journal =   {J Cell Biol},
+  year =      {2018},
+  volume =    {217},
+  number =    {6},
+  pages =     {1915--1928},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Wang2018 Superoxide dismutases- Dual roles in controlling ROS damage and regulating ROS signaling.pdf:PDF},
+  publisher = {Rockefeller University Press}
+}
+
+@Article{Warren2015spatially,
+  author =    {Warren, Emilie AK and Netterfield, Tatiana S and Sarkar, Saheli and Kemp, Melissa L and Payne, Christine K},
+  title =     {Spatially-resolved intracellular sensing of hydrogen peroxide in living cells},
+  journal =   {Scientific reports},
+  year =      {2015},
+  volume =    {5},
+  pages =     {16929},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Warren2015 Spatially-resolved intracellular sensing of hydrogen peroxide in living cells.pdf:PDF},
+  publisher = {Nature Publishing Group}
 }
 
 @Article{Weaver1994molecular,
