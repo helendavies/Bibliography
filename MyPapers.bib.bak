@@ -410,6 +410,18 @@
   publisher = {Public Library of Science}
 }
 
+@Article{Bosmans2015colorectal,
+  author =    {Bosmans, Joanna WAM and Jongen, Audrey CHM and Bouvy, Nicole D and Derikx, Joep PM},
+  title =     {Colorectal anastomotic healing: why the biological processes that lead to anastomotic leakage should be revealed prior to conducting intervention studies},
+  journal =   {BMC gastroenterology},
+  year =      {2015},
+  volume =    {15},
+  number =    {1},
+  pages =     {180},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Bosmans2015 Colorectal anastomotic healing- why the biological processes that lead to anastomotic leakage should be revealed prior to conducting intervention studies.pdf:PDF},
+  publisher = {BioMed Central}
+}
+
 @Article{Boukamp1988normal,
   author =    {Boukamp, Petra and Petrussevska, Rule T and Breitkreutz, Dirk and Hornung, Jurgen and Markham, Alex and Fusenig, Norbert E},
   title =     {Normal keratinization in a spontaneously immortalized aneuploid human keratinocyte cell line.},
@@ -683,6 +695,18 @@
   pages =     {045023},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Conway2016 Two-photon absorption laser induced fluorescence measurement of atomic oxygen density in an atmospheric pressure air plasma jet.pdf:PDF},
   publisher = {IOP Publishing}
+}
+
+@Article{Daams2013colorectal,
+  author =    {Daams, Freek and Luyer, Misha and Lange, Johan F},
+  title =     {Colorectal anastomotic leakage: aspects of prevention, detection and treatment},
+  journal =   {World Journal of Gastroenterology: WJG},
+  year =      {2013},
+  volume =    {19},
+  number =    {15},
+  pages =     {2293},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Daams2013 Colorectal anastomotic leakage- Aspects of prevention, detection and treatment.pdf:PDF},
+  publisher = {Baishideng Publishing Group Inc}
 }
 
 @Article{Daeschlein2012cold,
@@ -981,6 +1005,17 @@
   publisher = {Wiley Online Library}
 }
 
+@Article{Elvis2011ozone,
+  author =    {Elvis, AM and Ekta, JS},
+  title =     {Ozone therapy: A clinical review},
+  journal =   {Journal of natural science, biology, and medicine},
+  year =      {2011},
+  volume =    {2},
+  number =    {1},
+  pages =     {66},
+  publisher = {Wolters Kluwer--Medknow Publications}
+}
+
 @Article{Emmert2013atmospheric,
   author =   {Steffen Emmert and Franziska Brehmer and Holger HÃ€nÃle and Andreas Helmke and Nina Mertens and Raees Ahmed and Dirk Simon and Dirk Wandke and Wolfgang Maus-Friedrichs and Georg DÃ€schlein and Michael P. SchÃ¶n and Wolfgang ViÃ¶l},
   title =    {Atmospheric pressure plasma in dermatology: Ulcus treatment and much more },
@@ -1006,6 +1041,23 @@
   pages =     {31--37},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Enoch2008 Basic Science of Wound Healing.pdf:PDF},
   publisher = {Elsevier}
+}
+
+@Misc{ErbeWebsite,
+  author = {https://de.erbe-med.com/de-en/},
+  title =  {Accessed 10/03/2019}
+}
+
+@Article{Erginel2014effect,
+  author =    {Erginel, Ba{\c{s}}ak and Erginel, Turgay and Aksoy, Bilgin and Dokucu, Ali {\.I}hsan},
+  title =     {Effect of ozone therapy (OT) on healing of colonic anastomosis in a rat model of peritonitis},
+  journal =   {Balkan medical journal},
+  year =      {2014},
+  volume =    {31},
+  number =    {3},
+  pages =     {249},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Erginel2014 Effect of Ozone Therapy (OT) on Healing of Colonic Anastomosis in a Rat Model of Peritonitis.pdf:PDF},
+  publisher = {Trakya University Faculty of Medicine}
 }
 
 @Article{Ershova2011theoretical,
@@ -1077,6 +1129,18 @@
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Fathollah2016 Investigation on the effects of the atmospheric pressure plasma on wound healing in diabetic rats.pdf:PDF},
   keywords =  {Rats, wound healing, helium, FE-DBD, RONS},
   publisher = {Nature Publishing Group}
+}
+
+@Article{Fernhoff2009a,
+  author =    {Fernhoff, Nathaniel B and Derbyshire, Emily R and Marletta, Michael A},
+  title =     {A nitric oxide/cysteine interaction mediates the activation of soluble guanylate cyclase},
+  journal =   {Proceedings of the National Academy of Sciences},
+  year =      {2009},
+  volume =    {106},
+  number =    {51},
+  pages =     {21602--21607},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Fernhoff2009 A nitric oxide\:cysteine interaction mediates the activation of soluble guanylate cyclase.pdf:PDF},
+  publisher = {National Acad Sciences}
 }
 
 @Article{Floyd1999,
@@ -1640,6 +1704,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =       {https://books.google.co.uk/books?id=Vj154iUYdmwC}
 }
 
+@Article{Himuro2017the,
+  author =    {HIMURO, HIDETOMO},
+  title =     {The Effect of Ozone on Colonic Epithelial Cells},
+  journal =   {The Kurume medical journal},
+  year =      {2017},
+  volume =    {64},
+  number =    {4},
+  pages =     {75--81},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Himuro2017 The Effect of Ozone on Colonic Epithelial Cells.pdf:PDF},
+  publisher = {Kurume University School of Medicine}
+}
+
 @Article{Hirata2017actomyosin,
   author =    {Hirata, Hiroaki and Samsonov, Mikhail and Sokabe, Masahiro},
   title =     {Actomyosin contractility provokes contact inhibition in E-cadherin-ligated keratinocytes},
@@ -1745,8 +1821,20 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 }
 
 @Misc{HyPerWebsite,
-  author = {http://evrogen.com/products/HyPer/HyPer_Detailed_description.shtml},
-  title =  {Accessed 24.2.19}
+  author = {http://evrogen.com/products/HyPer/HyPer\_Detailed\_description.shtml},
+  title =  {Accessed 24/02/2019}
+}
+
+@Article{Iizuka2011wound,
+  author =    {Iizuka, Masahiro and Konno, Shiho},
+  title =     {Wound healing of intestinal epithelial cells},
+  journal =   {World journal of gastroenterology: WJG},
+  year =      {2011},
+  volume =    {17},
+  number =    {17},
+  pages =     {2161},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Iizuka2011 Wound healing of intestinal epithelial cells.pdf:PDF},
+  publisher = {Baishideng Publishing Group Inc}
 }
 
 @Article{Imlay2003pathways,
@@ -1865,6 +1953,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   year =      {2011},
   author =    {Kenneth Murphy},
   edition =   {8th}
+}
+
+@Article{Jarbrink2017the,
+  author =    {J{\"a}rbrink, Krister and Ni, Gao and S{\"o}nnergren, Henrik and Schmidtchen, Artur and Pang, Caroline and Bajpai, Ram and Car, Josip},
+  title =     {The humanistic and economic burden of chronic wounds: a protocol for a systematic review},
+  journal =   {Systematic reviews},
+  year =      {2017},
+  volume =    {6},
+  number =    {1},
+  pages =     {15},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Jarbrink2017 The humanistic and economic burden of chronic wounds- a protocol for a systematic review.pdf:PDF},
+  publisher = {BioMed Central}
 }
 
 @Article{Jeayeng2017nrf2,
@@ -2042,6 +2142,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Multidisciplinary Digital Publishing Institute}
 }
 
+@Article{Kingham2009colonic,
+  author =    {Kingham, T Peter and Pachter, H Leon},
+  title =     {Colonic anastomotic leak: risk factors, diagnosis, and treatment},
+  journal =   {Journal of the American College of Surgeons},
+  year =      {2009},
+  volume =    {208},
+  number =    {2},
+  pages =     {269--278},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Kingham2009 Colonic Anastomotic Leak- Risk Factors, Diagnosis, and Treatment.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Kojtari2014chemistry,
   author =    {Kojtari, Arben and Ercan, Utku K and Smith, Josh and Friedman, Gary and Sensenig, Richard B and Tyagi, Somedev and Joshi, Suresh G and Ji, Hai-Feng and Brooks, Ari D},
   title =     {Chemistry for antimicrobial properties of water treated with non-equilibrium plasma},
@@ -2164,6 +2276,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   issn =     {2212-8166},
   keywords = {Skin antisepsis},
   url =      {http://www.sciencedirect.com/science/article/pii/S2212816613000024}
+}
+
+@Article{Lanas2008role,
+  author =    {Lanas, Angel},
+  title =     {Role of nitric oxide in the gastrointestinal tract},
+  journal =   {Arthritis Research \& Therapy},
+  year =      {2008},
+  volume =    {10},
+  number =    {2},
+  pages =     {S4},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Lanas2008 Role of nitric oxide in the gastrointestinal tract.pdf:PDF},
+  publisher = {BioMed Central}
 }
 
 @Article{Laporta2014electron,
@@ -2312,6 +2436,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Springer}
 }
 
+@Article{Lennicke2015hydrogen,
+  author =    {Lennicke, Claudia and Rahn, Jette and Lichtenfels, Rudolf and Wessjohann, Ludger A and Seliger, Barbara},
+  title =     {Hydrogen peroxide--production, fate and role in redox signaling of tumor cells},
+  journal =   {Cell Communication and Signaling},
+  year =      {2015},
+  volume =    {13},
+  number =    {1},
+  pages =     {39},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Lennicke2015 Hydrogen peroxide – production, fate and role in redox signaling of tumor cells.pdf:PDF},
+  publisher = {BioMed Central}
+}
+
 @Article{Lewis1994kinetics,
   author =    {Lewis, Randy S and Deen, William M},
   title =     {Kinetics of the reaction of nitric oxide with oxygen in aqueous solutions},
@@ -2361,6 +2497,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   issn =     {0010-4655},
   keywords = {Additive Schwarz method (ASM)},
   url =      {http://www.sciencedirect.com/science/article/pii/S0010465512000501}
+}
+
+@Article{Lindgren2011what,
+  author =    {Lindgren, Rickard and Hallb{\"o}{\"o}k, Olof and Ruteg{\aa}rd, J{\"o}rgen and Sj{\"o}dahl, Rune and Matthiessen, Peter},
+  title =     {What is the risk for a permanent stoma after low anterior resection of the rectum for cancer? A six-year follow-up of a multicenter trial},
+  journal =   {Diseases of the Colon \& Rectum},
+  year =      {2011},
+  volume =    {54},
+  number =    {1},
+  pages =     {41--47},
+  publisher = {LWW}
 }
 
 @Article{Liu2010inactivation,
@@ -2517,6 +2664,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =      {http://stacks.iop.org/0067-0049/196/i=1/a=13}
 }
 
+@Article{Marinho2014hydrogen,
+  author =    {Marinho, H Susana and Real, Carla and Cyrne, Lu{\'\i}sa and Soares, Helena and Antunes, Fernando},
+  title =     {Hydrogen peroxide sensing, signaling and regulation of transcription factors},
+  journal =   {Redox biology},
+  year =      {2014},
+  volume =    {2},
+  pages =     {535--562},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Merinho2014 Hydrogenperoxidesensing,signalingandregulationoftranscriptionfactors.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Marionnet2010different,
   author =    {Marionnet, Claire and Pierrard, C{\'e}cile and Lejeune, Fran{\c{c}}ois and Sok, Juliette and Thomas, Marie and Bernerd, Fran{\c{c}}oise},
   title =     {Different oxidative stress response in keratinocytes and fibroblasts of reconstructed skin exposed to non extreme daily-ultraviolet radiation},
@@ -2667,6 +2825,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Wiley Online Library}
 }
 
+@Article{Mirnezami2011increased,
+  author =    {Mirnezami, Alexander and Mirnezami, Reza and Chandrakumaran, Kandiah and Sasapu, Kishore and Sagar, Peter and Finan, Paul},
+  title =     {Increased local recurrence and reduced survival from colorectal cancer following anastomotic leak: systematic review and meta-analysis},
+  journal =   {Annals of surgery},
+  year =      {2011},
+  volume =    {253},
+  number =    {5},
+  pages =     {890--899},
+  publisher = {LWW}
+}
+
 @Article{Moll2008the,
   author =    {Moll, Roland and Divo, Markus and Langbein, Lutz},
   title =     {The human keratins: biology and pathology},
@@ -2762,6 +2931,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {IOP Publishing}
 }
 
+@Article{Murrell2006reoperation,
+  author =    {Murrell, Zuri A and Stamos, Michael J},
+  title =     {Reoperation for anastomotic failure},
+  journal =   {Clinics in colon and rectal surgery},
+  year =      {2006},
+  volume =    {19},
+  number =    {04},
+  pages =     {213--216},
+  publisher = {Copyright{\copyright} 2006 by Thieme Medical Publishers, Inc., 333 Seventh Avenue, New~…}
+}
+
 @Article{Nadal2011controlling,
   author =    {De Nadal, Eul{\`a}lia and Ammerer, Gustav and Posas, Francesc},
   title =     {Controlling gene expression in response to stress},
@@ -2794,6 +2974,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   volume =    {279},
   number =    {23},
   pages =     {23847--23850},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Nebert2004 Role of Aryl Hydrocarbon Receptor-mediated Induction of the CYP1 Enzymes in Environmental Toxicity and Cancer.pdf:PDF},
   publisher = {ASBMB}
 }
 
@@ -3172,6 +3353,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {1102048},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Biology Planning/Rider2011 IL-1α and IL-1β Recruit Different Myeloid Cells and Promote Different Stages of Sterile Inflammation.pdf:PDF},
   publisher = {Am Assoc Immnol}
+}
+
+@Article{Rieder2007wound,
+  author =    {Rieder, F and Brenmoehl, J and Leeb, S and Sch{\"o}lmerich, J and Rogler, G},
+  title =     {Wound healing and fibrosis in intestinal disease},
+  journal =   {Gut},
+  year =      {2007},
+  volume =    {56},
+  number =    {1},
+  pages =     {130--139},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Rieder2007WOUND HEALING AND FIBROSIS IN INTESTINAL DISEASE.pdf:PDF},
+  publisher = {BMJ Publishing Group}
 }
 
 @Article{Riemondy2014not,
@@ -3579,6 +3772,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   issn =      {1040-0605},
   publisher = {American Physiological Society},
   url =       {http://ajplung.physiology.org/content/279/6/L1005}
+}
+
+@Article{Thompson2006clinical,
+  author =    {Thompson, Sarah K and Chang, Eugene Y and Jobe, Blair A},
+  title =     {Clinical review: healing in gastrointestinal anastomoses, part I},
+  journal =   {Microsurgery: Official Journal of the International Microsurgical Society and the European Federation of Societies for Microsurgery},
+  year =      {2006},
+  volume =    {26},
+  number =    {3},
+  pages =     {131--136},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Thompson2006 Clinical review healing in GI anastomoses.pdf:PDF},
+  publisher = {Wiley Online Library}
 }
 
 @Article{Thorsteinsson2009a,
