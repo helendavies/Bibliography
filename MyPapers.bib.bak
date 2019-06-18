@@ -731,6 +731,17 @@
   publisher = {Hindawi}
 }
 
+@Article{Colonna2001self,
+  author =  {Colonna, G and Capitelli, M},
+  title =   {Self-consistent model of chemical, vibrational, electron kinetics in nozzle expansion},
+  journal = {Journal of thermophysics and heat transfer},
+  year =    {2001},
+  volume =  {15},
+  number =  {3},
+  pages =   {308--316},
+  file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Colonna2001self.pdf:PDF}
+}
+
 @Article{Colonna2015non,
   author =    {Colonna, Gianpiero and Laporta, Vincenzo and Celiberto, Roberto and Capitelli, Mario and Tennyson, Jonathan},
   title =     {Non-equilibrium vibrational and electron energy distributions functions in atmospheric nitrogen ns pulsed discharges and $\mu$s post-discharges: the role of electron molecule vibrational excitation scaling-laws},
