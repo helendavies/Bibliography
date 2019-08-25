@@ -285,7 +285,7 @@
   publisher = {Springer}
 }
 
-@Article{Babior2004,
+@Article{Babior2004nadph,
   author =    {Babior, Bernard M},
   title =     {NADPH oxidase},
   journal =   {Current opinion in immunology},
@@ -1001,6 +1001,14 @@
   pages =     {7519--7524},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Derbyshire2009 Nucleotide Regulation of Soluble Guanylate Cyclase Substrate Specificity.pdf:PDF},
   publisher = {ACS Publications}
+}
+
+@Article{Devasagayam2002biological,
+  author =    {Devasagayam, Thomas and Kamat, Jayashree P},
+  title =     {Biological significance of singlet oxygen},
+  year =      {2002},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Devasagayam2002biological.pdf:PDF},
+  publisher = {NISCAIR-CSIR, India}
 }
 
 @Article{Dezest2017mechanistic,
@@ -2029,7 +2037,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Elsevier}
 }
 
-@Article{Howell2005a,
+@Article{HowellJones2005a,
   author =    {Howell-Jones, RS and Wilson, MJ and Hill, Katja E and Howard, AJ and Price, Patricia Elaine and Thomas, David William},
   title =     {A review of the microbiology, antibiotic usage and resistance in chronic skin wounds},
   journal =   {Journal of Antimicrobial Chemotherapy},
@@ -2256,6 +2264,16 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Taylor \& Francis}
 }
 
+@Article{Josefsen2008photodynamic,
+  author =    {Josefsen, Leanne B and Boyle, Ross W},
+  title =     {Photodynamic therapy and the development of metal-based photosensitisers},
+  journal =   {Metal-based drugs},
+  year =      {2008},
+  volume =    {2008},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Josefsen2008 Photodynamic Therapy and the Development of Metal-Based Photosensitisers.pdf:PDF},
+  publisher = {Hindawi}
+}
+
 @Article{Joshi2010control,
   author =   {Suresh G. Joshi and Michelle Paff and Gary Friedman and Greg Fridman and Alexander Fridman and Ari D. Brooks},
   title =    {Control of methicillin-resistant Staphylococcus aureus in planktonic form and biofilms: A biocidal efficacy study of nonthermal dielectric-barrier discharge plasma },
@@ -2434,6 +2452,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 @Misc{KinpenWebsite,
   author = {https://neoplas-tools.eu/en/},
   title =  {Accessed 16/3/19}
+}
+
+@Article{Kitayama1999analysis,
+  author =    {Kitayama, J and Kuzumoto, M},
+  title =     {Analysis of ozone generation from air in silent discharge},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {1999},
+  volume =    {32},
+  number =    {23},
+  pages =     {3032},
+  publisher = {IOP Publishing}
 }
 
 @Article{Klebes2015combined,
@@ -2705,6 +2734,13 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Wiley Online Library}
 }
 
+@Book{Laroussi2012plasmamedicine,
+  title =     {Plasma Medicine},
+  publisher = {Cambridge University Press},
+  year =      {2012},
+  author =    {Laroussi, M. and Kong, M.G. and Morfill, G. and Stolz, W.}
+}
+
 @Article{Laukkanen2016extracellular,
   author =    {Laukkanen, Mikko O},
   title =     {Extracellular superoxide dismutase: growth promoter or tumor suppressor?},
@@ -2778,6 +2814,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {ACS Publications}
 }
 
+@Article{Li2016defining,
+  author =    {Li, Robert and Jia, Zhenquan and Trush, Michael A},
+  title =     {Defining ROS in biology and medicine},
+  journal =   {Reactive oxygen species (Apex, NC)},
+  year =      {2016},
+  volume =    {1},
+  number =    {1},
+  pages =     {9},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Li2016 Defining ROS in Biology and Medicine.pdf:PDF},
+  publisher = {NIH Public Access}
+}
+
 @Article{Liang2007in,
   author =    {Liang, Chun-Chi and Park, Ann Y and Guan, Jun-Lin},
   title =     {In vitro scratch assay: a convenient and inexpensive method for analysis of cell migration in vitro},
@@ -2837,6 +2885,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   number =    {11},
   pages =     {1632},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Liu2001 Excitation of dielectric barrier discharges by unipolar submicrosecond square pulses.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
+@Article{Liu2003electrical,
+  author =    {Liu, Shuhai and Neiger, Manfred},
+  title =     {Electrical modelling of homogeneous dielectric barrier discharges under an arbitrary excitation voltage},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {2003},
+  volume =    {36},
+  number =    {24},
+  pages =     {3144},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Liu2003 Electrical modelling of homogeneous dielectric barrier discharges under an arbitrary excitation voltage.pdf:PDF},
   publisher = {IOP Publishing}
 }
 
@@ -2913,6 +2973,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {17},
   comment =   {This is the paper referenced by Vasco Guerra as the source of the electron impact cross sections for excitation of ground state N2 to higher vibrational states.},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Loureiro1986 Coupled electron energy and vibrational distribution functions in stationary N2 discharges.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
+@Article{Loureiro2005on,
+  author =    {Loureiro, J and S{\'a}, PA and Guerra, V},
+  title =     {On the difficulty of N (4S) atom recombination to explain the appearance of the pink afterglow in a N2 flowing discharge},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {2005},
+  volume =    {39},
+  number =    {1},
+  pages =     {122},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Loureiro2006 On the difficulty of N(4S) atom recombination to explain the appearance of the pink afterglow in a N2 flowing discharge.pdf:PDF},
   publisher = {IOP Publishing}
 }
 
@@ -3264,6 +3336,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {IEEE}
 }
 
+@Article{Moon2010surface,
+  author =    {Moon, Chang Sung and Takeda, Keigo and Takashima, Seigo and Sekine, Makoto and Setsuhara, Yuichi and Shiratani, Masaharu and Hori, Masaru},
+  title =     {Surface loss probabilities of H and N radicals on different materials in afterglow plasmas employing H 2 and N 2 mixture gases},
+  journal =   {Journal of Applied Physics},
+  year =      {2010},
+  volume =    {107},
+  number =    {10},
+  pages =     {103310},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Moon2019 Surface loss probabilities of H and N radicals on different materials in afterglow plasmas employing and mixture gases.pdf:PDF},
+  publisher = {AIP}
+}
+
 @Article{Moreau2008nonthermal,
   author =    {Moreau, M and Orange, N and Feuilloley, MGJ},
   title =     {Non-thermal plasma technologies: new tools for bio-decontamination},
@@ -3536,6 +3620,16 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =      {http://stacks.iop.org/0022-3727/45/i=16/a=165205}
 }
 
+@Article{Pekarek2003non,
+  author =  {Pek{\'a}rek, S},
+  title =   {Non-thermal plasma ozone generation},
+  journal = {Acta Polytechnica},
+  year =    {2003},
+  volume =  {43},
+  number =  {6},
+  file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Pekarek2003 Non-Thermal Plasma Ozone Generation.pdf:PDF}
+}
+
 @Article{Persoon2004leg,
   author =    {Persoon, Anke and Heinen, Maud M and Van Der Vleuten, Carien JM and De Rooij, Michette J and Van De Kerkhof, Peter and Van Achterberg, Theo},
   title =     {Leg ulcers: a review of their impact on daily life},
@@ -3568,6 +3662,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   number =    {1},
   pages =     {11--26},
   publisher = {Springer}
+}
+
+@Article{Phillips2016estimating,
+  author =    {Phillips, Ceri J and Humphreys, Ioan and Fletcher, Jacqui and Harding, Keith and Chamberlain, George and Macey, Steven},
+  title =     {Estimating the costs associated with the management of patients with chronic wounds using linked routine data},
+  journal =   {International wound journal},
+  year =      {2016},
+  volume =    {13},
+  number =    {6},
+  pages =     {1193--1197},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Phillips2016 Estimating the costs associated with the management of patients with chronic wounds using linked routine data.pdf:PDF},
+  publisher = {Wiley Online Library}
 }
 
 @Article{Pintassilgo2005modelling,
@@ -3609,7 +3715,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Piper1989the,
   author =    {Piper, Lawrence G},
-  title =     {The excitation of N (2 P) by N2 (A 3∑+ u, v’= 0, 1)},
+  title =     {The excitation of N (2 P) by N2 (A 3 $\Sigma$ + u, v’= 0, 1)},
   journal =   {The Journal of Chemical Physics},
   year =      {1989},
   volume =    {90},
@@ -3634,13 +3740,6 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 @Misc{PlasmadermWebsite,
   author = {http://www.cinogy.de/\_EN/plasmaderm.php},
   title =  {Accessed 16/3/19}
-}
-
-@Book{PlasmaMedicineLaroussi,
-  title =     {Plasma Medicine},
-  publisher = {Cambridge University Press},
-  year =      {2012},
-  author =    {Laroussi, M. and Kong, M.G. and Morfill, G. and Stolz, W.}
 }
 
 @Article{Poland19822,
@@ -3908,6 +4007,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Elsevier}
 }
 
+@Article{Schieber2014ros,
+  author =    {Schieber, Michael and Chandel, Navdeep S},
+  title =     {ROS function in redox signaling and oxidative stress},
+  journal =   {Current biology},
+  year =      {2014},
+  volume =    {24},
+  number =    {10},
+  pages =     {R453--R462},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Schieber2004 ROS Function in Redox Signaling and Oxidative Stress.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Schlesinger1990heat,
   author =    {Schlesinger, Milton J},
   title =     {Heat shock proteins.},
@@ -3993,6 +4104,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   year =      {2015},
   author =    {Sandra Schr\"{o}ter and M. Foucher and Kari Niemi and Dedrick, {James Peter} and {de Oliveira}, Nelson and Denis Joyeux and Laurent Nahon and Erik Wagenaars and Timo Gans and Jean-Paul Booth and Deborah O'Connell},
   booktitle = {Proc 22nd ISPC}
+}
+
+@Article{Schroter2017numerical,
+  author =    {Schr{\"o}ter, Sandra and Gibson, Andrew R and Kushner, Mark J and Gans, Timo and O’Connell, Deborah},
+  title =     {Numerical study of the influence of surface reaction probabilities on reactive species in an rf atmospheric pressure plasma containing humidity},
+  journal =   {Plasma Physics and Controlled Fusion},
+  year =      {2017},
+  volume =    {60},
+  number =    {1},
+  pages =     {014035},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Schröter2018 Numerical study of the influence of surface reaction probabilities on reactive species in an rf atmospheric pressure plasma containing humidity.pdf:PDF},
+  publisher = {IOP Publishing}
 }
 
 @Article{Schroter2018chemical,
@@ -4196,6 +4319,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   doi =     {http://dx.doi.org/10.1063/1.1768615},
   file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Stafford2004 2(Δ1)O2(Δ1)  production in He∕O2He∕O2 mixtures in flowing low pressure plasmas.pdf:PDF},
   url =     {http://scitation.aip.org/content/aip/journal/jap/96/5/10.1063/1.1768615}
+}
+
+@Article{Stanley2001senescence,
+  author =    {Stanley, Andrew and Osler, Turner},
+  title =     {Senescence and the healing rates of venous ulcers},
+  journal =   {Journal of vascular surgery},
+  year =      {2001},
+  volume =    {33},
+  number =    {6},
+  pages =     {1206--1211},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Stanley2001 Senescence and the healing rates of venous ulcers.pdf:PDF},
+  publisher = {Elsevier}
 }
 
 @Article{Steinbeck2013skeletal,
@@ -4757,6 +4892,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {107--112},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Biology Planning/Wyble1997 TNF-α and IL-1 Upregulate Membrane-Bound and Soluble E-Selectin through a Common Pathway.pdf:PDF},
   publisher = {Elsevier}
+}
+
+@Article{Wysocki2002evaluating,
+  author =    {Wysocki, Annette B},
+  title =     {Evaluating and managing open skin wounds: colonization versus infection},
+  journal =   {AACN Advanced Critical Care},
+  year =      {2002},
+  volume =    {13},
+  number =    {3},
+  pages =     {382--397},
+  publisher = {LWW}
 }
 
 @Article{Yan2016stabilizing,
