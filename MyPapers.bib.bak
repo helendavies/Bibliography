@@ -565,6 +565,18 @@
   publisher = {Am Soc Microbiol}
 }
 
+@Article{Bowler2018antibiotic,
+  author =    {Bowler, Philip G},
+  title =     {Antibiotic resistance and biofilm tolerance: a combined threat in the treatment of chronic infections},
+  journal =   {Journal of wound care},
+  year =      {2018},
+  volume =    {27},
+  number =    {5},
+  pages =     {273--277},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Bowler2018 Antibiotic resistance and biofilm tolerance- a combined threat in the treatment of chronic infections.pdf:PDF},
+  publisher = {MA Healthcare London}
+}
+
 @Article{Bragulla2009structure,
   author =    {Bragulla, Hermann H and Homberger, Dominique G},
   title =     {Structure and functions of keratin proteins in simple, stratified, keratinized and cornified epithelia},
@@ -1905,6 +1917,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =       {http://www.biochemsoctrans.org/content/35/5/1147}
 }
 
+@Article{Han2017chronic,
+  author =    {Han, George and Ceilley, Roger},
+  title =     {Chronic wound healing: a review of current management and treatments},
+  journal =   {Advances in therapy},
+  year =      {2017},
+  volume =    {34},
+  number =    {3},
+  pages =     {599--610},
+  publisher = {Springer}
+}
+
 @Article{Hao2017saturated,
   author =    {Hao, Chunjing and Xiao, Zehua and Xu, Di and Zhang, Chengbo and Qiu, Jian and Liu, Kefu},
   title =     {Saturated Resin Ectopic Regeneration by Non-Thermal Dielectric Barrier Discharge Plasma},
@@ -2612,7 +2635,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Lademann2013risk,
   author =   {J. Lademann and C. Ulrich and A. Patzelt and H. Richter and F. Kluschke and M. Klebes and O. Lademann and A. Kramer and K.D. Weltmann and B. Lange-Asschenfeldt},
-  title =    {Risk assessment of the application of tissue-tolerable plasma on human skin },
+  title =    {Risk assessment of the application of tissue-tolerable plasma on human skin},
   journal =  {Clinical Plasma Medicine },
   year =     {2013},
   volume =   {1},
@@ -4902,6 +4925,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   volume =    {13},
   number =    {3},
   pages =     {382--397},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Wysocki2002 Evaluating and Managing Open Skin Wounds- Colonization Versus Infection.pdf:PDF},
   publisher = {LWW}
 }
 
