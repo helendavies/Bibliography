@@ -1925,6 +1925,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   volume =    {34},
   number =    {3},
   pages =     {599--610},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Han2017 Chronic Wound Healing- A Review of Current Management and Treatments.pdf:PDF},
   publisher = {Springer}
 }
 
@@ -2534,6 +2535,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   eid =     {241501},
   file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Kolb2008 Cold atmospheric pressure air plasma jet for medical applications.pdf:PDF},
   url =     {http://scitation.aip.org/content/aip/journal/apl/92/24/10.1063/1.2940325}
+}
+
+@Article{Komuro2010kinetic,
+  author =    {Komuro, Atsushi and Ono, Ryo and Oda, Tetsuji},
+  title =     {Kinetic model of vibrational relaxation in a humid-air pulsed corona discharge},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {2010},
+  volume =    {19},
+  number =    {5},
+  pages =     {055004},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Komuro2010 Kinetic model of vibrational relaxation in a humid-air pulsed corona discharge.pdf:PDF},
+  publisher = {IOP Publishing}
 }
 
 @Article{Kong2009plasma,
@@ -3858,6 +3871,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   issn =      {2045-2322},
   publisher = {Nature Publishing Group},
   url =       {http:https://dx.doi.org/10.1038/srep35646}
+}
+
+@Article{Przekora2019effect,
+  author =    {Przekora, Agata and Pawlat, Joanna and Terebun, Piotr and Duday, David and Canal, Cristina and Hermans, Sophie and Audemar, Ma{\"\i}t{\'e} and Labay, C{\'e}dric and Thomann, Jean-S{\'e}bastien and Ginalska, Grazyna},
+  title =     {The effect of low temperature atmospheric nitrogen plasma on MC3T3-E1 preosteoblast proliferation and differentiation in vitro},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {2019},
+  volume =    {52},
+  number =    {27},
+  pages =     {275401},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Przekora2019 The effect of low temperature atmospheric nitrogen plasma on MC3T3- E1 preosteoblast proliferation and differentiation in vitro.pdf:PDF},
+  publisher = {IOP Publishing}
 }
 
 @Article{Rajasekaran2010filamentary,
