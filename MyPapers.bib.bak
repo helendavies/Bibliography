@@ -64,6 +64,17 @@
   publisher = {IOP Publishing}
 }
 
+@Article{Alves2018foundations,
+  author =    {Alves, LL and Bogaerts, A and Guerra, V and Turner, MM},
+  title =     {Foundations of modelling of nonequilibrium low-temperature plasmas},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {2018},
+  volume =    {27},
+  number =    {2},
+  pages =     {023002},
+  publisher = {IOP Publishing}
+}
+
 @Article{Ambrozova2017models,
   author =    {Ambrozova, Nikola and Ulrichova, Jitka and Galandakova, Adela and others},
   title =     {Models for the study of skin wound healing. The role of Nrf2 and NF-$\kappa$B},
@@ -4892,6 +4903,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   issn =     {0378-1135},
   keywords = {Biofilm},
   url =      {http://www.sciencedirect.com/science/article/pii/S0378113511000071}
+}
+
+@Article{Whitson1977temperature,
+  author =    {Whitson Jr, ME and McNeal, RJ},
+  title =     {Temperature dependence of the quenching of vibrationally excited N2 by NO and H2O},
+  journal =   {The Journal of Chemical Physics},
+  year =      {1977},
+  volume =    {66},
+  number =    {6},
+  pages =     {2696--2700},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Whitson1976 Temperature dependence of the quenching of vibrationally excited N2 by NO and H20.pdf:PDF},
+  publisher = {AIP}
 }
 
 @Article{Witte2002role,
