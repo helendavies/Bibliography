@@ -72,6 +72,7 @@
   volume =    {27},
   number =    {2},
   pages =     {023002},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Alves2018.pdf:PDF},
   publisher = {IOP Publishing}
 }
 
@@ -282,6 +283,18 @@
   file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Ayan2009 Application of nanosecond-pulsed dielectric barrier discharge for biomedical treatment of topographically non-uniform surfaces.pdf:PDF},
   keywords = {Nanosecond DBD, microsecond DBD, E. Coli, Uneven electrodes, air plasma},
   url =      {http://stacks.iop.org/0022-3727/42/i=12/a=125202}
+}
+
+@Article{Babaeva2012reactive,
+  author =    {Babaeva, Natalia Yu and Kushner, Mark J},
+  title =     {Reactive fluxes delivered by dielectric barrier discharge filaments to slightly wounded skin},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {2012},
+  volume =    {46},
+  number =    {2},
+  pages =     {025401},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Babaeva2013 Reactive fluxes delivered by dielectric barrier discharge filaments to slightly wounded skin.pdf:PDF},
+  publisher = {IOP Publishing}
 }
 
 @Article{Babayan2002characterization,
@@ -669,6 +682,18 @@
   number =  {1},
   pages =   {3--8},
   file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Cabiscol2000 Oxidative stress in bacteria and protein damage by reactive oxygen species.pdf:PDF}
+}
+
+@Article{Capitelli2013the,
+  author =    {Capitelli, Mario and Colonna, Gianpiero and D'Ammando, Giuliano and Laporta, Vincenzo and Laricchiuta, Annarita},
+  title =     {The role of electron scattering with vibrationally excited nitrogen molecules on non-equilibrium plasma kinetics},
+  journal =   {Physics of Plasmas},
+  year =      {2013},
+  volume =    {20},
+  number =    {10},
+  pages =     {101609},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Capitelli2013 The role of electron scattering with vibrationally excited nitrogen molecules on non-equilibrium plasma kinetics.pdf:PDF},
+  publisher = {AIP}
 }
 
 @Article{Capitelli2017non,
@@ -1338,6 +1363,18 @@
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Fathollah2016 Investigation on the effects of the atmospheric pressure plasma on wound healing in diabetic rats.pdf:PDF},
   keywords =  {Rats, wound healing, helium, FE-DBD, RONS},
   publisher = {Nature Publishing Group}
+}
+
+@Article{Feoktistova2016crystal,
+  author =    {Feoktistova, Maria and Geserick, Peter and Leverkus, Martin},
+  title =     {Crystal violet assay for determining viability of cultured cells},
+  journal =   {Cold Spring Harbor Protocols},
+  year =      {2016},
+  volume =    {2016},
+  number =    {4},
+  pages =     {pdb--prot087379},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Feoktistova2016 Crystal violet for determing viability of cultured cells.pdf:PDF},
+  publisher = {Cold Spring Harbor Laboratory Press}
 }
 
 @Article{Fernhoff2009a,
@@ -2987,6 +3024,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Nature Publishing Group}
 }
 
+@Article{Lofthus1977spectrum,
+  author =    {Lofthus, Alf and Krupenie, Paul H},
+  title =     {The spectrum of molecular nitrogen},
+  journal =   {Journal of physical and chemical reference Data},
+  year =      {1977},
+  volume =    {6},
+  number =    {1},
+  pages =     {113--307},
+  publisher = {NIST}
+}
+
 @Article{Loh2009comparative,
   author =    {Loh, Shang A and Carlson, Grace A and Chang, Edward I and Huang, Eric and Palanker, Daniel and Gurtner, Geoffrey C},
   title =     {Comparative healing of surgical incisions created by the PEAK PlasmaBlade, conventional electrosurgery, and a scalpel},
@@ -3750,7 +3798,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Piper1989excitation,
   author =    {Piper, Lawrence G},
-  title =     {The excitation of N2 (B 3$\Pi$ g, v= 1--12) in the reaction between N2 (A 3$\Sigma$+ u) and N2 (X, v≥ 5)},
+  title =     {The excitation of N2 (B 3$\Pi$ g, v= 1--12) in the reaction between N2 (A 3$\Sigma$+ u) and N2 (X, v $\geq$ 5)},
   journal =   {The Journal of chemical physics},
   year =      {1989},
   volume =    {91},
@@ -3884,7 +3932,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =       {http:https://dx.doi.org/10.1038/srep35646}
 }
 
-@Article{Przekora2019effect,
+@Article{Przekora2019the,
   author =    {Przekora, Agata and Pawlat, Joanna and Terebun, Piotr and Duday, David and Canal, Cristina and Hermans, Sophie and Audemar, Ma{\"\i}t{\'e} and Labay, C{\'e}dric and Thomann, Jean-S{\'e}bastien and Ginalska, Grazyna},
   title =     {The effect of low temperature atmospheric nitrogen plasma on MC3T3-E1 preosteoblast proliferation and differentiation in vitro},
   journal =   {Journal of Physics D: Applied Physics},
@@ -3980,6 +4028,15 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {849--865},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Riemondy2014 Not miR-ly micromanagers- the functions and regulatory networks of miRNAs in mammalian skin.pdf:PDF},
   publisher = {Wiley Online Library}
+}
+
+@InCollection{Riss2016cell,
+  author =    {Riss, Terry L and Moravec, Richard A and Niles, Andrew L and Duellman, Sarah and Benink, H{\'e}l{\`e}ne A and Worzella, Tracy J and Minor, Lisa},
+  title =     {Cell viability assays},
+  booktitle = {Assay Guidance Manual [Internet]},
+  publisher = {Eli Lilly \& Company and the National Center for Advancing Translational Sciences},
+  year =      {2016},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Riss2016 Cell Viability Assays.pdf:PDF}
 }
 
 @Article{Rousselle2018reepithelialisation,
