@@ -454,6 +454,18 @@
   publisher = {Nature Publishing Group}
 }
 
+@Article{Ben2005the,
+  author =    {Ben-Porath, Ittai and Weinberg, Robert A},
+  title =     {The signals and pathways activating cellular senescence},
+  journal =   {The international journal of biochemistry \& cell biology},
+  year =      {2005},
+  volume =    {37},
+  number =    {5},
+  pages =     {961--976},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/BenPorath2005 The signals and pathways activating cellular senescence.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @InBook{Bender2012tissue,
   pages =     {321--334},
   title =     {Tissue Tolerable Plasma and Polihexanide: Are Synergistic Effects Possible to Promote Healing of Chronic wounds? In Vivo and In Vitro Results},
@@ -613,6 +625,17 @@
   publisher = {Wiley Online Library}
 }
 
+@Article{Braithwaite2000introduction,
+  author =    {Braithwaite, N St J},
+  title =     {Introduction to gas discharges},
+  journal =   {Plasma sources science and technology},
+  year =      {2000},
+  volume =    {9},
+  number =    {4},
+  pages =     {517},
+  publisher = {IOP Publishing}
+}
+
 @Article{Brandenburg2017dielectric,
   author =    {Brandenburg, Ronny},
   title =     {Dielectric barrier discharges: progress on plasma sources and on the understanding of regimes and single filaments},
@@ -646,6 +669,18 @@
   number =    {5},
   pages =     {1038--1051},
   publisher = {SIAM}
+}
+
+@Article{Bruggeman2016plasma,
+  author =    {Bruggeman, PJ and Kushner, Mark J and Locke, Bruce R and Gardeniers, Johannes GE and Graham, WG and Graves, David B and Hofman-Caris, RCHM and Maric, Dragana and Reid, Jonathan P and Ceriani, Elisa and others},
+  title =     {Plasma--liquid interactions: a review and roadmap},
+  journal =   {Plasma sources science and technology},
+  year =      {2016},
+  volume =    {25},
+  number =    {5},
+  pages =     {053002},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Bruggeman2016 Plasma–liquid interactions- a review and roadmap .pdf:PDF},
+  publisher = {IOP Publishing}
 }
 
 @Article{BruggemanCS2012,
@@ -755,6 +790,18 @@
   pages =     {161--169},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Chiang2012 Regulators of oxidative stress response genes in Escherichia coli and their functional conservation in bacteria.pdf:PDF},
   publisher = {Elsevier}
+}
+
+@Article{Childs2014senescence,
+  author =    {Childs, Bennett G and Baker, Darren J and Kirkland, James L and Campisi, Judith and van Deursen, Jan M},
+  title =     {Senescence and apoptosis: dueling or complementary cell fates?},
+  journal =   {EMBO reports},
+  year =      {2014},
+  volume =    {15},
+  number =    {11},
+  pages =     {1139--1153},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Childs2014 Senescence and apoptosis- dueling or complementary cell fates?.pdf:PDF},
+  publisher = {John Wiley \& Sons, Ltd}
 }
 
 @Article{Cho2003,
@@ -1197,6 +1244,17 @@
   publisher = {American Physiological Society Bethesda, MD}
 }
 
+@Article{Duellman2015bioluminescent,
+  author =    {Duellman, Sarah J and Zhou, Wenhui and Meisenheimer, Poncho and Vidugiris, Gediminas and Cali, James J and Gautam, Prson and Wennerberg, Krister and Vidugiriene, Jolanta},
+  title =     {Bioluminescent, nonlytic, real-time cell viability assay and use in inhibitor screening},
+  journal =   {Assay and drug development technologies},
+  year =      {2015},
+  volume =    {13},
+  number =    {8},
+  pages =     {456--465},
+  publisher = {Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA}
+}
+
 @Article{Eisenhauer2016chemical,
   author =    {Eisenhauer, Peter and Chernets, Natalie and Song, You and Dobrynin, Danil and Pleshko, Nancy and Steinbeck, Marla J and Freeman, Theresa A},
   title =     {Chemical modification of extracellular matrix by cold atmospheric plasma-generated reactive species affects chondrogenesis and bone formation},
@@ -1526,6 +1584,13 @@
   pages =     {503--533},
   file =      {:Rotation 1 Plasmaaaa/Papers/Fridman2008 Applied plasma medicine.pdf:PDF},
   publisher = {Wiley Online Library}
+}
+
+@Book{Fridman2008plasma,
+  title =     {Plasma chemistry},
+  publisher = {Cambridge university press},
+  year =      {2008},
+  author =    {Fridman, Alexander}
 }
 
 @Book{Fridman2013plasmamedicine,
@@ -2274,6 +2339,11 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   issn =     {2212-8166},
   keywords = {Plasma medicine},
   url =      {http://www.sciencedirect.com/science/article/pii/S2212816612000030}
+}
+
+@Misc{ISTswarmdata,
+  author = {IST-Lisbon Database, www.lxcat.net},
+  title =  {Accessed: 29/03/18}
 }
 
 @Book{Janev2012elementary,
@@ -3085,6 +3155,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Misc{LXCatWebsite,
   author = {https://fr.lxcat.net/},
+  title =  {Accessed: 13/09/2019},
   url =    {https://fr.lxcat.net/}
 }
 
@@ -3579,6 +3650,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =       {https://www.nice.org.uk/advice/esmpb2/chapter/full-evidence-summary-medicines-and-prescribing-briefing#costs-of-wound-dressings}
 }
 
+@Article{Niemi2011the,
+  author =    {Niemi, K and Waskoenig, J and Sadeghi, N and Gans, T and O'Connell, D},
+  title =     {The role of helium metastable states in radio-frequency driven helium--oxygen atmospheric pressure plasma jets: measurement and numerical simulation},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {2011},
+  volume =    {20},
+  number =    {5},
+  pages =     {055005},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Niemi2011The role of helium metastable states in radiofrequency driven helium–oxygen atmospheric pressure plasma jets- measurement and numerical simulation.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
 @Article{Niemi2013absolute,
   author =  {Niemi, K. and O'Connell, D. and de Oliveira, N. and Joyeux, D. and Nahon, L. and Booth, J. P. and Gans, T.},
   title =   {Absolute atomic oxygen and nitrogen densities in radio-frequency driven atmospheric pressure cold plasmas: Synchrotron vacuum ultra-violet high-resolution Fourier-transform absorption measurements},
@@ -3725,6 +3808,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Pekarek2003 Non-Thermal Plasma Ozone Generation.pdf:PDF}
 }
 
+@Article{Pekshev2018study,
+  author =    {Pekshev, Alexander V and Shekhter, Anatoly B and Vagapov, Andrey B and Sharapov, Nikolay A and Vanin, Anatoly F},
+  title =     {Study of plasma-chemical NO-containing gas flow for treatment of wounds and inflammatory processes},
+  journal =   {Nitric Oxide},
+  year =      {2018},
+  volume =    {73},
+  pages =     {74--80},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/pekshev2017 Study of plasma-chemical NO-containing gas flow for treatment of wounds and inflammatory processes.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Persoon2004leg,
   author =    {Persoon, Anke and Heinen, Maud M and Van Der Vleuten, Carien JM and De Rooij, Michette J and Van De Kerkhof, Peter and Van Achterberg, Theo},
   title =     {Leg ulcers: a review of their impact on daily life},
@@ -3771,6 +3865,11 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Wiley Online Library}
 }
 
+@Misc{Phys4EntryWebsite,
+  author = {https://users.ba.cnr.it/imip/cscpal38/phys4entry/index.html},
+  title =  {Accessed: 13/09/2019}
+}
+
 @Article{Pintassilgo2005modelling,
   author =   {C D Pintassilgo and J Loureiro and V Guerra},
   title =    {Modelling of a {N}$_2$-{O}$_2$ flowing afterglow for plasma sterilization},
@@ -3794,6 +3893,30 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {055001},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Pintassilgo2017 Modelling of the temporal evolution of the gas temperature in N2 discharges.pdf:PDF},
   publisher = {IOP Publishing}
+}
+
+@Article{Pipa2012the,
+  author =    {Pipa, AV and Koskulics, J and Brandenburg, R and Hoder, T},
+  title =     {The simplest equivalent circuit of a pulsed dielectric barrier discharge and the determination of the gas gap charge transfer},
+  journal =   {Review of Scientific Instruments},
+  year =      {2012},
+  volume =    {83},
+  number =    {11},
+  pages =     {115112},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Pipa2012 The simplest equivalent circuit of a pulsed dielectric barrier discharge and the determination of the gas gap charge transfer.pdf:PDF},
+  publisher = {AIP}
+}
+
+@Article{Pipa2019the,
+  author =    {Pipa, Andrei V and Brandenburg, Ronny},
+  title =     {The Equivalent Circuit Approach for the Electrical Diagnostics of Dielectric Barrier Discharges: The Classical Theory and Recent Developments},
+  journal =   {Atoms},
+  year =      {2019},
+  volume =    {7},
+  number =    {1},
+  pages =     {14},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Pipa2019 The Equivalent Circuit Approach for the Electrical Diagnostics of Dielectric Barrier Discharges- The Classical Theory and Recent Developments.pdf:PDF},
+  publisher = {Multidisciplinary Digital Publishing Institute}
 }
 
 @Article{Piper1989excitation,
@@ -4738,6 +4861,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {IOP Publishing}
 }
 
+@Article{vonWoedtke2019plasma,
+  author =    {von Woedtke, Thomas and Schmidt, Anke and Bekeschus, Sander and Wende, Kristian and Weltmann, Klaus-Dieter},
+  title =     {Plasma medicine: A field of applied redox biology},
+  journal =   {in vivo},
+  year =      {2019},
+  volume =    {33},
+  number =    {4},
+  pages =     {1011--1026},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/VonWoedtke2019 Plasma Medicine- A Field of Applied Redox Biology.pdf:PDF},
+  publisher = {International Institute of Anticancer Research}
+}
+
 @Article{Wagenaars2011an,
   author =   {E. Wagenaars and M. van der Woude and R. Vann},
   title =    {An Atmospheric-Pressure Low-Temperature Plasma Jet for Growth Inhibition of Escherichia Coli},
@@ -4974,6 +5109,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {AIP}
 }
 
+@Article{Wijaikhum2017absolute,
+  author =    {Wijaikhum, Apiwat and Schr{\"o}der, Daniel and Schr{\"o}ter, Sandra and Gibson, Andrew Robert and Niemi, Kari and Friderich, Jochen and Greb, Arthur and Schulz-von der Gathen, Volker and O’Connell, Deborah and Gans, Timo},
+  title =     {Absolute ozone densities in a radio-frequency driven atmospheric pressure plasma using two-beam UV-LED absorption spectroscopy and numerical simulations},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {2017},
+  volume =    {26},
+  number =    {11},
+  pages =     {115004},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Wijaikhum2017 Absolute ozone densities in a radiofrequency driven atmospheric pressure plasma using two-beam UV-LED absorption spectroscopy and numerical simulations.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
 @Article{Witte2002role,
   author =    {Witte, Maria B and Barbul, Adrian},
   title =     {Role of nitric oxide in wound repair},
@@ -5106,6 +5253,9 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   eprint =   {http://www.pnas.org/content/85/11/4046.full.pdf},
   file =     {:Rotation 1 Plasmaaaa/Papers/Zweier1988 Measurement of endothelial cell free radical generation- Evidence for a central mechanism of free radical injury in postisclemic tissues.pdf:PDF},
   url =      {http://www.pnas.org/content/85/11/4046.abstract}
+}
+
+@Article{,
 }
 
 @Article{,
