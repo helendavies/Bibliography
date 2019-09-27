@@ -369,7 +369,7 @@
 
 @Article{Balzer2015non,
   author =    {Balzer, Julian and Heuer, Kiara and Demir, Erhan and Hoffmanns, Martin A and Baldus, Sabrina and Fuchs, Paul C and Awakowicz, Peter and Suschek, Christoph V and Opl{\"a}nder, Christian},
-  title =     {Non-thermal dielectric barrier discharge (DBD) effects on proliferation and differentiation of human fibroblasts are primary mediated by hydrogen peroxide},
+  title =     {Non-thermal dielectric barrier discharge ({DBD}) effects on proliferation and differentiation of human fibroblasts are primary mediated by hydrogen peroxide},
   journal =   {PLoS One},
   year =      {2015},
   volume =    {10},
@@ -490,7 +490,7 @@
 
 @Article{Belmonte1997synthesis,
   author =    {Belmonte, T and Czerwiec, T and Gavillet, J and Michel, H},
-  title =     {Synthesis of zirconia thin films by RPECVD: modeling of Ar--O2 post-discharge and comparison between Ar--O2 and Ar--O2--H2 post-discharges processes},
+  title =     {Synthesis of zirconia thin films by {RPECVD}: modeling of ${Ar}-{O}_2$ post-discharge and comparison between ${A}r--{O}_2$ and ${A}r--{O}_2--{H}_2$ post-discharges processes},
   journal =   {Surface and Coatings Technology},
   year =      {1997},
   volume =    {97},
@@ -755,7 +755,7 @@
 
 @Article{Brinkmann1970electron,
   author = {Brinkmann, RT and Trajmar, S},
-  title =  {Electron impact excitation of N2},
+  title =  {Electron impact excitation of ${N}_2$},
   year =   {1970}
 }
 
@@ -806,7 +806,7 @@
 }
 
 @Article{Bultel2006collisional,
-  author =  {Bultel, Arnaud and ChÃ©ron, Bruno G. and Bourdon, Anne and Motapon, Ousmanou and Schneider, Ioan F.},
+  author =  {Bultel, Arnaud and Ch{\'e}ron, Bruno G. and Bourdon, Anne and Motapon, Ousmanou and Schneider, Ioan F.},
   title =   {Collisional-radiative model in air for earth re-entry problems},
   journal = {Physics of Plasmas},
   year =    {2006},
@@ -997,7 +997,7 @@
 
 @Article{Coche2016microwave,
   author =    {Coche, P and Guerra, V and Alves, LL},
-  title =     {Microwave air plasmas in capillaries at low pressure I. Self-consistent modeling},
+  title =     {Microwave air plasmas in capillaries at low pressure {I}. Self-consistent modeling},
   journal =   {Journal of Physics D: Applied Physics},
   year =      {2016},
   volume =    {49},
@@ -1663,7 +1663,7 @@
 
 @Article{Franklin2001the,
   author =    {Franklin, RN},
-  title =     {The role of O2 (a1$\Delta$g) metastables and associative detachment in discharges in oxygen},
+  title =     {The role of ${O}_2(a)$ metastables and associative detachment in discharges in oxygen},
   journal =   {Journal of Physics D: Applied Physics},
   year =      {2001},
   volume =    {34},
@@ -1885,6 +1885,17 @@
   publisher = {Elsevier}
 }
 
+@Article{Geltman1973free,
+  author =    {Geltman, Sydney},
+  title =     {Free-free radiation in electron-neutral atom collisions},
+  journal =   {Journal of Quantitative Spectroscopy and Radiative Transfer},
+  year =      {1973},
+  volume =    {13},
+  number =    {7},
+  pages =     {601--613},
+  publisher = {Elsevier}
+}
+
 @Article{Gentile1995reaction,
   author =    {Gentile, Ann C and Kushner, Mark J},
   title =     {Reaction chemistry and optimization of plasma remediation of N x O y from gas streams},
@@ -2094,7 +2105,7 @@
 
 @Article{Guerra1997self,
   author =   {V Guerra and J Loureiro},
-  title =    {Self-consistent electron and heavy-particle kinetics in a low-pressure $N_2-O_2$ glow discharge},
+  title =    {Self-consistent electron and heavy-particle kinetics in a low-pressure ${N}_2-{O}_2$ glow discharge},
   journal =  {Plasma Sources Science and Technology},
   year =     {1997},
   volume =   {6},
@@ -2107,7 +2118,7 @@
 
 @Article{Guerra1999kinetic,
   author =    {Guerra, V and Loureiro, J},
-  title =     {Kinetic model of a low-pressure microwave discharge in O2-H2 including the effects of O-ions on the characteristics for plasma maintenance},
+  title =     {Kinetic model of a low-pressure microwave discharge in ${O}_2-{H}_2$ including the effects of ${O}^-$ ions on the characteristics for plasma maintenance},
   journal =   {Plasma Sources Science and Technology},
   year =      {1999},
   volume =    {8},
@@ -2344,7 +2355,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Henry1969scattering,
   author =    {Henry, Ronald JW and Burke, PG and Sinfailam, A-L},
-  title =     {Scattering of electrons by C, N, O, N+, O+, and O++},
+  title =     {Scattering of electrons by {C}, {N}, {O}, {N}+, {O}+, and {O}++},
   journal =   {Physical Review},
   year =      {1969},
   volume =    {178},
@@ -2541,7 +2552,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 }
 
 @Article{Isbary2013cold,
-  author =   {G. Isbary and W. Stolz and T. Shimizu and R. Monetti and W. Bunk and H.-U. Schmidt and G.E. Morfill and T.G. KlÃ€mpfl and B. Steffes and H.M. Thomas and J. Heinlin and S. Karrer and M. Landthaler and J.L. Zimmermann},
+  author =   {G. Isbary and W. Stolz and T. Shimizu and R. Monetti and W. Bunk and H.-U. Schmidt and G.E. Morfill and T.G. Kl{\"a}mpfl and B. Steffes and H.M. Thomas and J. Heinlin and S. Karrer and M. Landthaler and J.L. Zimmermann},
   title =    {Cold atmospheric argon plasma treatment may accelerate wound healing in chronic wounds: Results of an open retrospective randomized controlled study in vivo },
   journal =  {Clinical Plasma Medicine },
   year =     {2013},
@@ -2997,8 +3008,8 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 }
 
 @Article{Kramer2013suitability,
-  author =   {A. Kramer and J. Lademann and C. Bender and A. Sckell and B. Hartmann and S. MÃŒnch and P. Hinz and A. Ekkernkamp and R. Matthes and I. Koban and I. Partecke and C.D. Heidecke and K. Masur and S. Reuter and K.D. Weltmann and S. Koch and O. Assadian},
-  title =    {Suitability of tissue tolerable plasmas (TTP) for the management of chronic wounds },
+  author =   {A. Kramer and J. Lademann and C. Bender and A. Sckell and B. Hartmann and S. M{\"u}nch and P. Hinz and A. Ekkernkamp and R. Matthes and I. Koban and I. Partecke and C.D. Heidecke and K. Masur and S. Reuter and K.D. Weltmann and S. Koch and O. Assadian},
+  title =    {Suitability of tissue tolerable plasmas (TTP) for the management of chronic wounds},
   journal =  {Clinical Plasma Medicine },
   year =     {2013},
   volume =   {1},
@@ -3053,7 +3064,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 }
 
 @Article{Kutasi2016tuning,
-  author =   {Kinga Kutasi and CÃ©dric NoÃ«l and Thierry Belmonte and Vasco Guerra},
+  author =   {Kinga Kutasi and C{\'e}dric No{\"e}l and Thierry Belmonte and Vasco Guerra},
   title =    {Tuning the afterglow plasma composition in {A}r/{N}$_2$/{O}$_2$ mixtures: characteristics of a flowing surface-wave microwave discharge system},
   journal =  {Plasma Sources Science and Technology},
   year =     {2016},
@@ -3356,7 +3367,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Lindsay2000absolute,
   author =    {Lindsay, BG and Mangan, MA and Straub, HC and Stebbings, RF},
-  title =     {Absolute partial cross sections for electron-impact ionization of NO and NO 2 from threshold to 1000 eV},
+  title =     {Absolute partial cross sections for electron-impact ionization of {NO} and ${NO}_2$ from threshold to 1000 e{V}},
   journal =   {The Journal of Chemical Physics},
   year =      {2000},
   volume =    {112},
@@ -4311,7 +4322,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Piper1987quenching,
   author =    {Piper, Lawrence G},
-  title =     {Quenching rate coefficients for $N_2(a')$},
+  title =     {Quenching rate coefficients for ${N}_2(a')$},
   journal =   {The Journal of chemical physics},
   year =      {1987},
   volume =    {87},
@@ -4495,7 +4506,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Przekora2019the,
   author =    {Przekora, Agata and Pawlat, Joanna and Terebun, Piotr and Duday, David and Canal, Cristina and Hermans, Sophie and Audemar, Ma{\"\i}t{\'e} and Labay, C{\'e}dric and Thomann, Jean-S{\'e}bastien and Ginalska, Grazyna},
-  title =     {The effect of low temperature atmospheric nitrogen plasma on MC3T3-E1 preosteoblast proliferation and differentiation in vitro},
+  title =     {The effect of low temperature atmospheric nitrogen plasma on {MC}3{T}3-{E}1 preosteoblast proliferation and differentiation in vitro},
   journal =   {Journal of Physics D: Applied Physics},
   year =      {2019},
   volume =    {52},
@@ -4669,7 +4680,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Sadeghi2001kinetics,
   author =    {Sadeghi, N and Foissac, C and Supiot, P},
-  title =     {Kinetics of N2 (A 3$\Sigma$u+) molecules and ionization mechanisms in the afterglow of a flowing N2 microwave discharge},
+  title =     {Kinetics of ${N}_2({A})$ molecules and ionization mechanisms in the afterglow of a flowing ${N}_2$ microwave discharge},
   journal =   {Journal of Physics D: Applied Physics},
   year =      {2001},
   volume =    {34},
@@ -4681,7 +4692,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Sakai1995measurement,
   author =    {Sakai, Y and Okumura, T and Tagashira, H},
-  title =     {Measurement of electron impact ionisation and attachment coefficients in NO2/He gas mixtures and estimated electron collision cross sections for NO2},
+  title =     {Measurement of electron impact ionisation and attachment coefficients in ${NO}_2/{H}e$ gas mixtures and estimated electron collision cross sections for ${NO}_2$},
   journal =   {Australian Journal of Physics},
   year =      {1995},
   volume =    {48},
@@ -5208,7 +5219,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Ton1977cross,
   author =    {Ton-That, D and Flannery, MR},
-  title =     {Cross sections for ionization of metastable rare-gas atoms (Ne*, Ar*, Kr*, Xe*) and of metastable N 2*, CO* molecules by electron impact},
+  title =     {Cross sections for ionization of metastable rare-gas atoms (${N}e*, {A}r*, {K}r*, {X}e*$) and of metastable ${N}_2*$, ${CO}*$ molecules by electron impact},
   journal =   {Physical Review A},
   year =      {1977},
   volume =    {15},
@@ -5219,7 +5230,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Tsang1991chemical,
   author =    {Tsang, Wing and Herron, John T},
-  title =     {Chemical kinetic data base for propellant combustion I. Reactions involving NO, NO2, HNO, HNO2, HCN and N2O},
+  title =     {Chemical kinetic data base for propellant combustion I. Reactions involving {NO}, {NO}2, {HNO}, {HNO2}, {HCN} and {N2O}},
   journal =   {Journal of physical and chemical reference data},
   year =      {1991},
   volume =    {20},
@@ -5415,7 +5426,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Vriens1964calculation,
   author =    {Vriens, L},
-  title =     {Calculation of absolute ionisation cross sections of He, He*, He+, Ne, Ne*, Ne+, Ar, Ar*, Hg and Hg},
+  title =     {Calculation of absolute ionisation cross sections of ${H}e, {H}e*, {H}e^+, {N}e, {N}e*, {N}e^+, {A}r, {A}r*, {H}g$ and ${H}g$},
   journal =   {Physics letters},
   year =      {1964},
   volume =    {8},
@@ -5650,7 +5661,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Whitson1977temperature,
   author =    {Whitson Jr, ME and McNeal, RJ},
-  title =     {Temperature dependence of the quenching of vibrationally excited N2 by NO and H2O},
+  title =     {Temperature dependence of the quenching of vibrationally excited ${N}_2$ by {NO} and ${H}_2{O}$},
   journal =   {The Journal of Chemical Physics},
   year =      {1977},
   volume =    {66},
