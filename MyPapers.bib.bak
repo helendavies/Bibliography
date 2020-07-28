@@ -11,6 +11,17 @@
   file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Adamovich1998 Vibrational Energy Transfer Rates using FHO model.pdf:PDF}
 }
 
+@Article{Adamovich2017the,
+  author =    {Adamovich, I and Baalrud, Scott D and Bogaerts, A and Bruggeman, PJ and Cappelli, M and Colombo, V and Czarnetzki, Uwe and Ebert, U and Eden, James Gary and Favia, P and others},
+  title =     {The 2017 Plasma Roadmap: Low temperature plasma science and technology},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {2017},
+  volume =    {50},
+  number =    {32},
+  pages =     {323001},
+  publisher = {IOP Publishing}
+}
+
 @Article{Afaq2009aryl,
   author =    {Afaq, Farrukh and Zaid, Mohammad Abu and Pelle, Edward and Khan, Naghma and Syed, Deeba N and Matsui, Mary S and Maes, Daniel and Mukhtar, Hasan},
   title =     {Aryl hydrocarbon receptor is an ozone sensor in human skin},
@@ -634,6 +645,18 @@
   author =    {Block, Seymour Stanton}
 }
 
+@Article{Boeuf1986energy,
+  author =    {Boeuf, JP and Kunhardt, EE},
+  title =     {Energy balance in a nonequilibrium weakly ionized nitrogen discharge},
+  journal =   {Journal of applied physics},
+  year =      {1986},
+  volume =    {60},
+  number =    {3},
+  pages =     {915--923},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Boeuf1986 Energy balance in a nonequilibrium weakly ionized nitrogen discharge.pdf:PDF},
+  publisher = {American Institute of Physics}
+}
+
 @Article{Bohringer1982temperature,
   author =    {B{\"o}hringer, H and Arnold, F},
   title =     {Temperature dependence of three-body association reactions from 45 to 400 K. The reactions ${N}_2^+ + 2{N}_2 \rightarrow {N}_4^+ + {N}_2$ and ${O}_2^+ + 2{O}_2 \rightarrow {O}_4^+ + {O}_2$},
@@ -753,17 +776,6 @@
   publisher = {Wiley Online Library}
 }
 
-@Article{Brian1990the,
-  author =    {Brian, J and Mitchell, A},
-  title =     {The dissociative recombination of molecular ions},
-  journal =   {Physics Reports},
-  year =      {1990},
-  volume =    {186},
-  number =    {5},
-  pages =     {215--248},
-  publisher = {Elsevier}
-}
-
 @Article{Brinkmann1970electron,
   author = {Brinkmann, RT and Trajmar, S},
   title =  {Electron impact excitation of ${N}_2$},
@@ -881,6 +893,30 @@
   pages =     {034004},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Capitelli2017 Non-equilibrium vibrational and electron energy distribution functions in mtorr, highelectron-density nitrogen discharges and afterglows.pdf:PDF},
   publisher = {IOP Publishing}
+}
+
+@Article{Capriati1992a,
+  author =    {Capriati, G and Colonna, G and Gorse, C and Capitelli, M},
+  title =     {A parametric study of electron energy distribution functions and rate and transport coefficients in nonequilibrium helium plasmas},
+  journal =   {Plasma chemistry and plasma processing},
+  year =      {1992},
+  volume =    {12},
+  number =    {3},
+  pages =     {237--260},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Capriati1992 AParametricStudyOfElectronEner.pdf:PDF},
+  publisher = {Springer}
+}
+
+@Article{Cartwright1977electron,
+  author =    {Cartwright, DC and Chutjian, A and Trajmar, S and Williams, W},
+  title =     {Electron impact excitation of the electronic states of {N}_2. I. Differential cross sections at incident energies from 10 to 50 e{V}},
+  journal =   {Physical Review A},
+  year =      {1977},
+  volume =    {16},
+  number =    {3},
+  pages =     {1013},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Cartwright1977 Electron impact excitation of the electronic states of Nz. I. Differential cross sections at incident energies from 10 to 50 ev.pdf:PDF},
+  publisher = {APS}
 }
 
 @Article{Chambers2009waves,
@@ -1051,10 +1087,21 @@
   publisher = {Hindawi}
 }
 
+@Article{Colonna2000non,
+  author =  {Colonna, G and Armenise, I and Catella, M and Capitelli, M},
+  title =   {Non equilibrium effects in plasma expansion flows},
+  journal = {Journal of Technical Physics},
+  year =    {2000},
+  volume =  {41},
+  number =  {1},
+  pages =   {203--214},
+  file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Colonna2000 nonequilibrium effects in plasma expansion flows.pdf:PDF}
+}
+
 @Article{Colonna2001self,
   author =  {Colonna, G and Capitelli, M},
   title =   {Self-consistent model of chemical, vibrational, electron kinetics in nozzle expansion},
-  journal = {Journal of thermophysics and heat transfer},
+  journal = {J Thermophys Heat Transfer},
   year =    {2001},
   volume =  {15},
   number =  {3},
@@ -1987,6 +2034,17 @@
   publisher = {IOP Publishing}
 }
 
+@Article{Gibson2019disrupting,
+  author =    {Gibson, Andrew R and Donk{\'o}, Zolt{\'a}n and Alelyani, Layla and Bischoff, Lena and H{\"u}bner, Gerrit and Bredin, J{\'e}r{\^o}me and Doyle, Scott and Korolov, Ihor and Niemi, Kari and Mussenbrock, Thomas and others},
+  title =     {Disrupting the spatio-temporal symmetry of the electron dynamics in atmospheric pressure plasmas by voltage waveform tailoring},
+  journal =   {Plasma Sources Science and Technology},
+  year =      {2019},
+  volume =    {28},
+  number =    {1},
+  pages =     {01LT01},
+  publisher = {IOP Publishing}
+}
+
 @Article{Giladi2014mitotic,
   author =    {Giladi, Moshe and Schneiderman, Rosa S and Voloshin, Tali and Porat, Yaara and Munster, Mijal and Blat, Roni and Sherbo, Shay and Bomzon, Zeev and Urman, Noa and Itzhaki, Aviran and others},
   title =     {Mitotic spindle disruption by alternating electric fields leads to improper chromosome segregation and mitotic catastrophe in cancer cells.},
@@ -2535,6 +2593,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Wiley Online Library}
 }
 
+@Article{Husain1972collisional,
+  author =    {Husain, D and Kirsch, LJ and Wiesenfeld, JR},
+  title =     {Collisional quenching of electronically excited nitrogen atoms, N (2 2 DJ, 2 2 PJ) by time-resolved atomic absorption spectroscopy},
+  journal =   {Faraday Discussions of the Chemical Society},
+  year =      {1972},
+  volume =    {53},
+  pages =     {201--210},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Husain1972 Collisional Quenching of Electronically Excited Nitrogen Atoms, N(22DJ, 22PJ) by Time-resolved Atomic Absorption Spectroscopy .pdf:PDF},
+  publisher = {Royal Society of Chemistry}
+}
+
 @Misc{HyPerWebsite,
   author = {http://evrogen.com/products/HyPer/HyPer\_Detailed\_description.shtml},
   title =  {Accessed 24/02/2019}
@@ -2678,6 +2747,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   volume =    {15},
   number =    {3},
   pages =     {985--1010},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Itikawa1986 Cross Sections for Collisions of Electrons and Photons with Nitrogen Molecules.pdf:PDF},
   publisher = {NIST}
 }
 
@@ -2871,6 +2941,28 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Wiley Online Library}
 }
 
+@Article{Kanicky2007influence,
+  author =    {Kanick{\`y}, Viktor and Otruba, Vit{\v{e}}zslav and Hrdli{\v{c}}ka, Ale{\v{s}} and Kr{\'a}sensk{\`y}, Pavel and Kr{\v{c}}ma, Franti{\v{s}}ek},
+  title =     {Influence of mercury traces on nitrogen post-discharge kinetics},
+  journal =   {J. Anal. At. Spectrom.},
+  year =      {2007},
+  volume =    {22},
+  number =    {7},
+  pages =     {754--760},
+  publisher = {Royal Society of Chemistry}
+}
+
+@Article{Kanta2011the,
+  author =  {Kanta, Ji{\v{r}}{\'\i}},
+  title =   {The role of hydrogen peroxide and other reactive oxygen species in wound healing},
+  journal = {Acta Medica (Hradec Kralove)},
+  year =    {2011},
+  volume =  {54},
+  number =  {3},
+  pages =   {97--101},
+  file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Kanta2011 The role of hydrogen peroxide and other reactive oxygen species in wound healing.pdf:PDF}
+}
+
 @Article{Kasprowicz2017characterising,
   author =    {Kasprowicz, Richard and Suman, Rakesh and O’Toole, Peter},
   title =     {Characterising live cell behaviour: Traditional label-free and quantitative phase imaging approaches},
@@ -2879,6 +2971,25 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   volume =    {84},
   pages =     {89--95},
   publisher = {Elsevier}
+}
+
+@Article{Kaur2012cell,
+  author =    {Gurvinder Kaur and Jannette M. Dufour},
+  title =     {Cell lines},
+  journal =   {Spermatogenesis},
+  year =      {2012},
+  volume =    {2},
+  number =    {1},
+  pages =     {1-5},
+  note =      {PMID: 22553484},
+  doi =       {10.4161/spmg.19885},
+  eprint =    { https://doi.org/10.4161/spmg.19885 },
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Kaur2012 Cell lines.pdf:PDF},
+  publisher = {Taylor \& Francis},
+  url =       { 
+        https://doi.org/10.4161/spmg.19885
+    
+}
 }
 
 @Article{Ke2017effect,
@@ -3331,7 +3442,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Lawton1978excitation,
   author =    {Lawton, SA and Phelps, AV},
-  title =     {Excitation of the b 1$\Sigma$+ g state of {O}_2 by low energy electrons},
+  title =     {Excitation of the b 1$\Sigma$+ g state of ${O}_2$ by low energy electrons},
   journal =   {The Journal of Chemical Physics},
   year =      {1978},
   volume =    {69},
@@ -3404,6 +3515,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {BioMed Central}
 }
 
+@Article{Levron1978quenching,
+  author =    {Levron, D and Phelps, AV},
+  title =     {Quenching of N2 (A 3$\Sigma$+ u, v= 0, 1) by N2, Ar, and H2},
+  journal =   {The Journal of Chemical Physics},
+  year =      {1978},
+  volume =    {69},
+  number =    {5},
+  pages =     {2260--2262},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Levron1978 Quenching of N2(A 3l- t, v = 0,1) by N2, Ar, and H2 .pdf:PDF},
+  publisher = {American Institute of Physics}
+}
+
 @Article{Lewis1994kinetics,
   author =    {Lewis, Randy S and Deen, William M},
   title =     {Kinetics of the reaction of nitric oxide with oxygen in aqueous solutions},
@@ -3443,13 +3566,25 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 @Article{Lietz2016air,
   author =    {Lietz, Amanda M and Kushner, Mark J},
   title =     {Air plasma treatment of liquid covered tissue: long timescale chemistry},
-  journal =   {Journal of Physics D: Applied Physics},
+  journal =   {J. Phys. D: Appl. Phys.},
   year =      {2016},
   volume =    {49},
   number =    {42},
   pages =     {425204},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Lietz2016 Air plasma treatment of liquid covered tissue- long timescale chemistry.pdf:PDF},
   publisher = {IOP Publishing}
+}
+
+@Article{Lin1971reactions,
+  author =    {Lin, Chorng-Lieh and Kaufman, Frederick},
+  title =     {Reactions of metastable nitrogen atoms},
+  journal =   {The Journal of Chemical Physics},
+  year =      {1971},
+  volume =    {55},
+  number =    {8},
+  pages =     {3760--3770},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Lin1971 Reactions of Metastable Nitrogen Atoms.pdf:PDF},
+  publisher = {American Institute of Physics}
 }
 
 @Article{Lin2012development,
@@ -3561,6 +3696,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   volume =    {6},
   number =    {1},
   pages =     {113--307},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Lofthus1977 The Spectrum of Molecular Nitrogen.pdf:PDF},
   publisher = {NIST}
 }
 
@@ -3597,6 +3733,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {17},
   comment =   {This is the paper referenced by Vasco Guerra as the source of the electron impact cross sections for excitation of ground state N2 to higher vibrational states.},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Loureiro1986 Coupled electron energy and vibrational distribution functions in stationary N2 discharges.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
+@Article{Loureiro2001role,
+  author =    {Loureiro, J and S{\'a}, PA and Guerra, V},
+  title =     {Role of long-lived N2 (X1$\Sigma$g+, v) molecules and N2 (A3$\Sigma$u+) and N2 (a'1$\Sigma$u-) states in the light emissions of an N2 afterglow},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {2001},
+  volume =    {34},
+  number =    {12},
+  pages =     {1769},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Loureiro2001 Role of long-lived N2(X1Σ+ g, v) molecules and N2(A3Σ+ u) and N2(a 1Σ− u ) states in the light emissions of an N2 afterglow.pdf:PDF},
   publisher = {IOP Publishing}
 }
 
@@ -3724,6 +3872,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   number =    {4},
   pages =     {2167--2173},
   publisher = {AIP}
+}
+
+@Article{Marinelli1989the,
+  author =    {Marinelli, William J and Kessler, William J and Green, Byron David and Blumberg, William AM},
+  title =     {The radiative lifetime of N2 (a 1$\Pi$ g, v= 0--2)},
+  journal =   {The Journal of chemical physics},
+  year =      {1989},
+  volume =    {91},
+  number =    {2},
+  pages =     {701--707},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Marinelli1989 The radiative lifetime of N2(a).pdf:PDF},
+  publisher = {American Institute of Physics}
 }
 
 @Article{Marinho2014hydrogen,
@@ -3971,6 +4131,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {LWW}
 }
 
+@Article{Mitchell1990the,
+  author =    {J. B. A. Mitchell},
+  title =     {The dissociative recombination of molecular ions},
+  journal =   {Physics Reports},
+  year =      {1990},
+  volume =    {186},
+  number =    {5},
+  pages =     {215--248},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Mitchell1990 The dissociative recombination of molecular ions.pdf:PDF},
+  publisher = {Elsevier}
+}
+
 @Article{Moll2008the,
   author =    {Moll, Roland and Divo, Markus and Langbein, Lutz},
   title =     {The human keratins: biology and pathology},
@@ -4054,11 +4226,11 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Elsevier}
 }
 
-@Article{Murakami2012chemical,
+@Article{Murakami2013chemical,
   author =    {Murakami, Tomoyuki and Niemi, Kari and Gans, Timo and O'Connell, Deborah and Graham, William G},
   title =     {Chemical kinetics and reactive species in atmospheric pressure helium--oxygen plasmas with humid-air impurities},
   journal =   {Plasma Sources Science and Technology},
-  year =      {2012},
+  year =      {2013},
   volume =    {22},
   number =    {1},
   pages =     {015003},
@@ -4166,6 +4338,17 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   eid =     {034102},
   file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Niemi2013 Absolute atomic oxygen and nitrogen densities in radio-frequency driven atmospheric pressure cold plasmas- Synchrotron vacuum ultra-violet highresolution Fourier-transform absorption measurements.pdf:PDF},
   url =     {http://scitation.aip.org/content/aip/journal/apl/103/3/10.1063/1.4813817}
+}
+
+@Article{Noxon1962active,
+  author =    {Noxon, JF},
+  title =     {Active nitrogen at high pressure},
+  journal =   {The Journal of Chemical Physics},
+  year =      {1962},
+  volume =    {36},
+  number =    {4},
+  pages =     {926--940},
+  publisher = {American Institute of Physics}
 }
 
 @Article{Nunan2015ephrin,
@@ -4367,6 +4550,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {APS}
 }
 
+@Article{Phelps1990the,
+  author =    {Phelps, AV},
+  title =     {The diffusion of charged particles in collisional plasmas: Free and ambipolar diffusion at low and moderate pressures},
+  journal =   {Journal of research of the National Institute of Standards and Technology},
+  year =      {1990},
+  volume =    {95},
+  number =    {4},
+  pages =     {407},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Phelps1990 The Diffusion of Charged Particles in Collisional Plasmas- Free and Ambipolar Diffusion at Low and Moderate Pressures.pdf:PDF},
+  publisher = {National Institute of Standards and Technology}
+}
+
 @Article{Phillips2016estimating,
   author =    {Phillips, Ceri J and Humphreys, Ioan and Fletcher, Jacqui and Harding, Keith and Chamberlain, George and Macey, Steven},
   title =     {Estimating the costs associated with the management of patients with chronic wounds using linked routine data},
@@ -4471,7 +4666,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 
 @Article{Piper1988state,
   author =    {Piper, Lawrence G},
-  title =     {State-to-state ${N}_2({A})$ energy pooling reactions. II. The formation and quenching of ${N}_2({B}, v = 1-12)$},
+  title =     {State-to-state ${N}_2({A})$ energy pooling reactions. {II}. The formation and quenching of ${N}_2({B}, v = 1-12)$},
   journal =   {The Journal of chemical physics},
   year =      {1988},
   volume =    {88},
@@ -4830,7 +5025,7 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 @Article{Sadeghi2001kinetics,
   author =    {Sadeghi, N and Foissac, C and Supiot, P},
   title =     {Kinetics of ${N}_2({A})$ molecules and ionization mechanisms in the afterglow of a flowing ${N}_2$ microwave discharge},
-  journal =   {Journal of Physics D: Applied Physics},
+  journal =   {J. Phys. D: Appl. Phys.},
   year =      {2001},
   volume =    {34},
   number =    {12},
@@ -4859,6 +5054,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   number =    {42},
   pages =     {425201},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Modelling/Sakiyama2012 Plasma chemistry model of surface microdischarge in humid air and dynamics of reactive neutral species.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
+@Article{Salmon2018quenching,
+  author =    {Salmon, A and Popov, NA and Stancu, GD and Laux, CO},
+  title =     {Quenching rate of N (2P) atoms in a nitrogen afterglow at atmospheric pressure},
+  journal =   {Journal of Physics D: Applied Physics},
+  year =      {2018},
+  volume =    {51},
+  number =    {31},
+  pages =     {314001},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Salmon2018 Quenching rate of N(2P) atoms in a nitrogen afterglow at atmospheric pressure.pdf:PDF},
   publisher = {IOP Publishing}
 }
 
@@ -5178,6 +5385,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {AIP}
 }
 
+@Article{Smith1962electron,
+  author =    {Smith, ACH and Caplinger, E and Neynaber, RH and Rothe, Erhard W and Trujillo, SM},
+  title =     {Electron impact ionization of atomic nitrogen},
+  journal =   {Physical Review},
+  year =      {1962},
+  volume =    {127},
+  number =    {5},
+  pages =     {1647},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Smith1962 Electron Impact Ionization of Atomic Nitrogen.pdf:PDF},
+  publisher = {APS}
+}
+
 @Article{Soneja2005role,
   author =    {Soneja, Amit and Drews, Magdalena and Malinski, Tadeusz},
   title =     {Role of nitric oxide, nitroxidative and oxidative stress in wound healing},
@@ -5261,6 +5480,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   url =     {http://scitation.aip.org/content/aip/journal/jcp/76/8/10.1063/1.443521;jsessionid=-gIap2B8-mEBavR1UwpCY8mr.x-aip-live-06}
 }
 
+@Article{Sugawara1980the,
+  author =    {Sugawara, Ko-ichi and Ishikawa, Yo-ichi and Sato, Shin},
+  title =     {The Rate Constants of the Reactions of the Metastable Nitrogen Atoms, 2D and 2P, and the Reactions of N (4S)+ NO→ N2+ O (3P) and O (3P)+ NO+ M→ NO2+ M},
+  journal =   {Bulletin of the Chemical Society of Japan},
+  year =      {1980},
+  volume =    {53},
+  number =    {11},
+  pages =     {3159--3164},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Sugawara1980 The Rate Constants of the Reactions of the Metastable Nitrogen Atoms, 2D and 2P, and the Reactions of N(4S)+NO→N2+O(3P) and O(3P)+NO+M→NO2+M.pdf:PDF},
+  publisher = {The Chemical Society of Japan}
+}
+
 @Article{sun2008n,
   author =    {Sun, Yan and Dowd, Scot E and Smith, Ethan and Rhoads, Dan D and Wolcott, Randall D},
   title =     {In vitro multispecies Lubbock chronic wound biofilm model},
@@ -5283,6 +5514,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {375--406},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Tabata2006 Analytic cross sections for electron impact collisions with nitrogen molecules.pdf:PDF},
   publisher = {Elsevier}
+}
+
+@Article{Tabata2012erratum,
+  author =    {Tabata, Tatsuo and Shirai, Toshizo and Sataka, Masao and Kubo, Hirotaka},
+  title =     {Erratum to ‘‘Analytic cross sections for electron impact collisions with nitrogen molecules’’[At. Data Nucl. Data Tables 92 (2006) 375--406]},
+  journal =   {Atomic Data and Nuclear Data Tables},
+  year =      {2012},
+  volume =    {98},
+  number =    {1},
+  pages =     {74},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Tabata2006 Erratum_to_Analytic_cross_sections_for_electron_im.pdf:PDF},
+  publisher = {Academic Press}
 }
 
 @Article{Talsky2017kinetic,
@@ -5518,6 +5761,16 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
 }
 }
 
+@Article{Valk2010measurement,
+  author =  {Valk, F and Aints, M and Paris, P and Plank, T and Maksimov, J and Tamm, A},
+  title =   {Measurement of collisional quenching rate of nitrogen states N2 $(C^3\Pi_u, v= 0)$ and $N_2^+ (B^2\Sigma^+_g, v= 0)$},
+  journal = {Journal of Physics D: Applied Physics},
+  year =    {2010},
+  volume =  {43},
+  pages =   {385202},
+  file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Valk2010 Measurement of collisional quenching rate of nitrogen states N2(C 3Πu, v = 0) and N+ 2(B 2Σ+ g, v = 0).pdf:PDF}
+}
+
 @Article{Valko2007free,
   author =   {Marian Valko and Dieter Leibfritz and Jan Moncol and Mark T.D. Cronin and Milan Mazur and Joshua Telser},
   title =    {Free radicals and antioxidants in normal physiological functions and human disease},
@@ -5571,6 +5824,15 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {487--494},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Vereshchagin1997 CARS study of the vibrational kinetics of nitrogen molecules in the burning and afterglow stages of a pulsed discharge.pdf:PDF},
   publisher = {Springer}
+}
+
+@Article{Vervloessem2020plasma,
+  author =    {Vervloessem, Elise and Aghaei, Maryam and Jardali, Fatme and Hafezkhiabani, Neda and Bogaerts, Annemie},
+  title =     {Plasma-based N2 fixation into NOx: Insights from modeling toward optimum yields and energy costs in a gliding arc plasmatron},
+  journal =   {ACS Sustainable Chemistry \& Engineering},
+  year =      {2020},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Vervloessem2020 Plasma-Based N2 Fixation into NOx- Insights from Modeling toward Optimum Yields and Energy Costs in a Gliding Arc Plasmatron.pdf:PDF},
+  publisher = {ACS Publications}
 }
 
 @Article{Volynets2018n2,
@@ -5794,6 +6056,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   publisher = {Elsevier}
 }
 
+@Article{Werner2003regulation,
+  author =    {Werner, Sabine and Grose, Richard},
+  title =     {Regulation of wound healing by growth factors and cytokines},
+  journal =   {Physiological reviews},
+  year =      {2003},
+  volume =    {83},
+  number =    {3},
+  pages =     {835--870},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Werner2003 Regulation of Wound Healing by Growth Factors and Cytokines.pdf:PDF},
+  publisher = {American Physiological Society}
+}
+
 @Article{Werner2007keratinocyte,
   author =    {Werner, Sabine and Krieg, Thomas and Smola, Hans},
   title =     {Keratinocyte--fibroblast interactions in wound healing},
@@ -5961,6 +6235,18 @@ of plasma. The outcome of first clinical trials regarding wound healing is point
   pages =     {918--925},
   file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Oxidative Stress/Yeoh2003 Iron and 8-Isoprostane Levels in Acute and Chronic Wounds.pdf:PDF},
   publisher = {Elsevier}
+}
+
+@Article{Young1975the,
+  author =    {Young, RA and Dunn, OJ},
+  title =     {The excitation and quenching of N (2 P)},
+  journal =   {The Journal of Chemical Physics},
+  year =      {1975},
+  volume =    {63},
+  number =    {3},
+  pages =     {1150--1153},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Young1975 The excitation and quenching of N(2P) .pdf:PDF},
+  publisher = {American Institute of Physics}
 }
 
 @Article{Zampetti2009proinflammatory,
